@@ -14,6 +14,11 @@ OPENAI_BASE = os.getenv('OPENAI_BASE', 'https://api.openai.com/v1')
 OPENAI_MODEL = os.getenv('OPENAI_MODEL', 'gpt-4o-mini')
 OPENAI_KEY = os.environ['OPENAI_API_KEY']
 
+# --- Nettoyage de la sortie du LLM (supprime les blocs Markdown) ---
+def clean_output(s: str) -> str:
+    """Supprime les blocs markdown ```html ou ``` éventuels"""
+    return s.replace("```html", "").replace("```", "").strip()
+
 SYSTEM_PROMPT = """
 Tu es la plume de Chamsin (observatoire indépendant). Style : factuel, concis, rigoureux.
 Produit deux blocs :
@@ -23,13 +28,14 @@ Produit deux blocs :
 Contraintes :
 - Pas d’emoji, pas d’adjectifs forts, pas de source nommée ni de liens.
 - Conserve les noms propres FR usuels.
+- Réponds uniquement en HTML pur, sans blocs Markdown, sans ```html ni ```.
 """
 
 USER_TEMPLATE = """
 Date (Europe/Paris) : {date}
 Articles (JSON, déjà compressés) : {items}
 Consignes :
-- Regrouper par pays (Iran, Israël/Palestine, Liban, Syrie, Irak, Yémen, Golfe, Caucase, Autres).
+- Regrouper par pays (Iran, Israël/Palestine, Liban, Syrie, Irak, Jordanie, Yémen, Arabie saoudite, Émirats arabes unis, Qatar, Bahreïn, Koweït, Oman, Égypte, Libye, Tunisie, Algérie, Maroc, Mauritanie, Soudan, Arménie, Azerbaïdjan, Géorgie, Afghanistan, Turquie).
 - Évite les doublons, privilégie le neuf.
 """
 
@@ -47,7 +53,6 @@ def openai_chat(messages, temperature=0.2, max_retries=6):
             return j['choices'][0]['message']['content']
         # 429/5xx → retry exponentiel
         if r.status_code in (429, 500, 502, 503, 504):
-            # Honore Retry-After si fourni
             retry_after = r.headers.get("Retry-After")
             sleep_s = int(retry_after) if retry_after and retry_after.isdigit() else delay
             print(f"[openai_chat] HTTP {r.status_code}, retry in {sleep_s}s… (attempt {attempt+1}/{max_retries})")
@@ -55,7 +60,6 @@ def openai_chat(messages, temperature=0.2, max_retries=6):
             delay = min(delay * 2, 60)
             continue
         r.raise_for_status()
-    # Dernière tentative : lever l’erreur explicite
     r.raise_for_status()
 
 def build_html(items_html, analysis_html):
@@ -102,6 +106,8 @@ if __name__ == '__main__':
         temperature=0.2,
         max_retries=6
     )
+    # --- Nettoyage ICI ---
+    content = clean_output(content)
 
     # Séparer items et analyse
     if "<h2" in content:
