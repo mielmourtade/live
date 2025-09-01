@@ -1,19 +1,14 @@
-# MENA + Caucase (exemples génériques)
 feeds:
-- https://www.reuters.com/world/middle-east/rss
-- https://www.aljazeera.com/xml/rss/all.xml
-- https://apnews.com/hub/middle-east?output=rss
-- https://english.alarabiya.net/.mrss/en/News.xml
-- https://www.france24.com/fr/moyen-orient/rss
-- https://www.lemonde.fr/international/rss_full.xml
-- https://www.middleeasteye.net/rss
-- https://www.alaraby.co.uk/english/feed
-- https://oc-media.org/en/feed/ # Caucase
+  - https://www.reuters.com/world/middle-east/rss
+  - https://www.aljazeera.com/xml/rss/all.xml
+  - https://apnews.com/hub/middle-east?output=rss
+  - https://www.france24.com/fr/moyen-orient/rss
+  - https://www.lemonde.fr/international/rss_full.xml
+  - https://www.middleeasteye.net/rss
+  - https://oc-media.org/en/feed/
 
-# Mots-clés pour sur‑pondérer/filtrer (optionnel)
 boost_keywords: [Iran, E3, AIEA, Gaza, Hezbollah, Liban, Syrie, Irak, Golfe, Yémen, Caucase, Arménie, Azerbaïdjan]
-block_keywords: [people, lifestyle, sport, opinion] # à affiner
+block_keywords: [people, lifestyle, sport, opinion]
 
-# Limites
-per_feed_max: 20 # max articles lus par flux
-overall_max: 120 # plafond global quotidien avant résumé
+per_feed_max: 15     # ↓ pour limiter
+overall_max: 80      # ↓ pour limiter (avant compression à 40)
