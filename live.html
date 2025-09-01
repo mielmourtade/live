@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Direct Moyen-Orient 05/07</title>
+  <link rel="icon" type="image/png" sizes="48x48" href="favicon.png">
+  <link rel="shortcut icon" href="favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root {
+      --vert1: #1D2E28;
+      --vert2: #0F5132;
+      --vert3: #14452F;
+      --vert4: #0F4D30;
+      --vert5: #1D2E28;
+      --beige: #E9EFD9;
+      --blanc: #E9EFD9;
+      --noir: #222;
+    }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+      background: #fff;
+      color: var(--vert4);
+      min-height: 100vh;
+    }
+    header {
+      background: var(--vert4);
+      color: var(--blanc);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.3rem 5vw;
+      font-weight: bold;
+      letter-spacing: 0.03em;
+      box-shadow: 0 2px 12px #0001;
+    }
+    nav {
+      display: flex;
+      gap: 0.3em;
+    }
+    .nav-btn {
+      background: none;
+      color: inherit;
+      border: none;
+      font-size: 1rem;
+      font-weight: 500;
+      padding: 0.7rem 1.3rem;
+      border-radius: 0;
+      text-decoration: none;
+      transition: background 0.2s, color 0.2s;
+      cursor: pointer;
+    }
+    .nav-btn.active,
+    .nav-btn:hover {
+      background: var(--vert1);
+      color: var(--blanc);
+    }
+    main {
+      max-width: 900px;
+      margin: 2.5rem auto 3rem auto;
+      padding: 0 2vw;
+      background: var(--blanc);
+      border-radius: 1em;
+      box-shadow: 0 2px 18px #0a5c3620;
+    }
+    h1, h2, h3 {
+      color: var(--vert2);
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      font-weight: bold;
+      letter-spacing: 0.01em;
+    }
+    h1 {
+      font-size: 2.1rem;
+      margin-top: 1.2rem;
+    }
+    h2 {
+      font-size: 1.35rem;
+      margin-top: 2.2rem;
+      margin-bottom: 1.2rem;
+    }
+    h3 {
+      font-size: 1.13rem;
+      margin-top: 1.7rem;
+      margin-bottom: 0.7rem;
+    }
+    p {
+      font-size: 1.07rem;
+      line-height: 1.6;
+      margin-bottom: 1.1rem;
+      color: var(--vert4);
+    }
+    ul, ol {
+      padding-left: 1.5em;
+      margin-bottom: 1.1rem;
+      font-size: 1.04rem;
+      color: var(--vert4);
+    }
+    li {
+      margin-bottom: 0.35em;
+    }
+    .live-logo {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5em;
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-bottom: 1.2rem;
+      margin-top: 14px;   
+      margin-left: 12px;
+      background: #fff;
+      border-radius: 1.2em;
+      padding: 0.18em 0.8em 0.18em 0.4em;
+      box-shadow: 0 2px 8px #e33b3b11;
+      border: 1.5px solid #e33b3b33;
+      width: fit-content;
+    }
+    .live-dot {
+      display: inline-block;
+      width: 0.75em;
+      height: 0.75em;
+      border-radius: 50%;
+      background: #e33b3b;
+      margin-right: 0.2em;
+      box-shadow: 0 0 8px #e33b3b55;
+      animation: breathe 1.3s infinite ease-in-out;
+    }
+    .update-live-header {
+      display: flex;
+      align-items: center;
+      gap: 0.7em; /* Espace entre le h2 et le badge */
+      margin-bottom: 1.2em;
+    }
+    .mini-live-logo {
+      display: inline-flex;
+      align-items: center;
+      height: 1em; /* S'aligne à la hauteur du texte */
+    }
+    .mini-live-dot {
+      display: inline-block;
+      width: 0.68em;
+      height: 0.68em;
+      border-radius: 50%;
+      background: #e33b3b;
+      box-shadow: 0 0 6px #e33b3b66;
+      animation: breathe 1.3s infinite ease-in-out;
+    }
+
+@keyframes breathe {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.35); opacity: 0.7; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes breathe {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.35); opacity: 0.7; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.live-text {
+  color: #e33b3b;
+  letter-spacing: 0.04em;
+  font-size: 1.09em;
+}
+
+    .footer {
+      background: var(--beige);
+      color: var(--vert4);
+      text-align: center;
+      padding: 2.7rem 1rem 1.2rem;
+      font-size: 0.98rem;
+      border-top: 1px solid #1D2E2811;
+      margin-top: 4rem;
+    }
+    @media (max-width: 700px) {
+      main {
+        border-radius: 0.4em;
+        margin: 1.1rem 0.3em 2.2rem 0.3em;
+        padding: 0.7em 0.7em;
+      }
+      h1 {
+        font-size: 1.3rem;
+      }
+      h2 {
+        font-size: 1.07rem;
+      }
+      .sources-separator {
+        border: none;
+        border-top: 2px solid #e2e2e2;
+        margin: 3em 0 1.5em 0;
+      }
+      .sources-section {
+        font-size: 0.93em;
+        color: #444;
+        margin-bottom: 2em;
+      }
+      .sources-title {
+        font-size: 1em;
+        font-weight: bold;
+        margin-bottom: 0.7em;
+        letter-spacing: 0.04em;
+        color: #18392B;
+      }
+      .sources-list {
+        list-style: disc inside;
+        padding-left: 0.7em;
+         margin: 0;
+      }
+      .sources-list li {
+        margin-bottom: 0.6em;
+        line-height: 1.4;
+        font-size: 0.96em;
+      }
+      .sources-list a {
+        color: #0A5C36;
+        text-decoration: underline dotted;
+        font-size: 0.97em;
+      }
+      .lire-plus {
+        font-size: 0.9em;
+        color: #0A5C36;
+        text-decoration: none;
+        font-weight: 500;
+        margin-left: 0.5em;
+        transition: color 0.2s;
+        border: 1px solid #0A5C3633;
+        padding: 0.2em 0.7em;
+        border-radius: 1em;
+        background: #f9f9f9;
+      }
+  
+      .lire-plus:hover {
+        color: #e33b3b;
+        background: #fff;
+        border-color: #e33b3b33;
+      }
+    }
+  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    background: var(--vert4);
+    color: white;
+  }
+
+  #menu-toggle {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.6rem;
+    cursor: pointer;
+    display: block;
+  }
+
+  nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background: var(--vert4);
+    width: 100%;
+    z-index: 999;
+  }
+
+  nav.show {
+    display: flex;
+  }
+
+  nav a {
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* RESPONSIVE DESKTOP */
+  @media screen and (min-width: 768px) {
+    #menu-toggle {
+      display: none;
+    }
+
+    nav {
+      display: flex !important;
+      flex-direction: row;
+      position: static;
+      width: auto;
+      background: none;
+    }
+
+    nav a {
+      border: none;
+      padding: 0.7rem 1.2rem;
+    }
+  }
+
+  /* BOUTON RETOUR EN HAUT */
+  #topBtn {
+    position: fixed;
+    bottom: 25px;
+    right: 20px;
+    font-size: 1.5rem;
+    padding: 0.4em 0.7em;
+    background: var(--vert2);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    display: none;
+    cursor: pointer;
+    box-shadow: 0 2px 10px #0004;
+    z-index: 999;
+  }
+
+  #topBtn:hover {
+    background: var(--vert1);
+  }
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  /* MENU HAMBURGER - MOBILE FIRST */
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    position: relative;
+    background: var(--vert4);
+    color: white;
+  }
+
+  #menu-toggle {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.6rem;
+    cursor: pointer;
+    display: block;
+  }
+
+  nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background: var(--vert4);
+    width: 100%;
+    z-index: 999;
+  }
+
+  nav.show {
+    display: flex;
+  }
+
+  nav a {
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* RESPONSIVE DESKTOP */
+  @media screen and (min-width: 768px) {
+    #menu-toggle {
+      display: none;
+    }
+
+    nav {
+      display: flex !important;
+      flex-direction: row;
+      position: static;
+      width: auto;
+      background: none;
+    }
+
+    nav a {
+      border: none;
+      padding: 0.7rem 1.2rem;
+    }
+  }
+
+  /* BOUTON RETOUR EN HAUT */
+  #topBtn {
+    position: fixed;
+    bottom: 25px;
+    right: 20px;
+    font-size: 1.5rem;
+    padding: 0.4em 0.7em;
+    background: var(--vert2);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    display: none;
+    cursor: pointer;
+    box-shadow: 0 2px 10px #0004;
+    z-index: 999;
+  }
+
+  #topBtn:hover {
+    background: var(--vert1);
+  }
+  .lang-switch {
+    display: flex;
+    gap: 0.4em;
+    align-items: center;
+    margin-left: 1em;
+  }
+  .lang-btn {
+    background: var(--beige);
+    color: var(--vert4);
+    border: 1px solid var(--vert2);
+    border-radius: 0;
+    padding: 0.16em 0.72em;
+    font-size: 1em;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.14s, color 0.14s;
+    box-shadow: 0 1px 5px #0a5c3614;
+  }
+  .lang-btn:hover, .lang-btn.active {
+    background: var(--vert1);
+    color: #fff;
+    border-color: var(--vert1);
+  }
+  @media (max-width: 600px) {
+    .lang-switch {
+      margin-left: 0.6em;
+    }
+    .lang-btn {
+      font-size: 0.99em;
+      padding: 0.14em 0.62em;
+    }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div style="display: flex; align-items: center; gap: 1rem;">
+    <img src="logo.webp" alt="Logo" style="height: 44px;">
+    <div class="lang-switch">
+      <a href="/live.html" class="lang-btn active">FR</a>
+      <a href="/en/live.html" class="lang-btn">EN</a>
+    </div>
+  </div>
+  <button id="menu-toggle" aria-label="Menu mobile">☰</button>
+  <nav id="main-nav">
+    <a href="index.html">Accueil</a>
+    <a href="apropos.html">À propos</a>
+    <a href="tous-les-articles.html">Articles</a>
+    <a href="mentions-legales.html">Mentions légales</a>
+  </nav>
+</header>
+  <main>
+    <div class="live-logo">
+      <span class="live-dot"></span>
+      <span class="live-text">Live</span>
+    </div>
+    <div style="
+      background: var(--vert1);
+      color: var(--blanc);
+      border-radius: 1em;
+      padding: 2.4rem 2.1rem;
+      margin: 3.5rem auto 2.5rem auto;
+      max-width: 880px;
+      box-shadow: 0 2px 12px #0a5c3622;
+      font-size: 1.05rem;
+      line-height: 1.65;
+      letter-spacing: 0.015em;
+    ">
+      <strong>Entre la terreur du Hamas et la violence du Tsahal</strong>, il ne reste que les ruines et les pleurs.  
+      Nous ne soutenons ni l’un ni l’autre.  
+      Car lorsque deux violences s’affrontent, ce sont toujours les innocents qui meurent en silence.  
+      <strong>Nous choisissons la paix, sans drapeau ni revanche.</strong>
+    </div>
+
+    <h1>Live Moyen-Orient <span id="date-live"></span></h1>
+    <p>
+      Live des évènements aujourd'hui au Moyen-Orient
+    </p>
+    <div class="update-live-header">
+    <h2>Update live</h2>
+      <span class="mini-live-logo">
+      <span class="mini-live-dot"></span>
+    </span>
+    </div>
+<!-- LIVE:START -->
+    
+<!-- LIVE:END -->
+<hr class="sources-separator">
+<div class="sources-section">
+  <div class="sources-title">Sources</div>
+    <ul class="sources-list">
+    <li>
+      <strong>CNN</strong>, Morning Brief<br>
+      <a href="https://edition.cnn.com/" target="_blank">CNN</a>
+    </li>
+    <li>
+      <strong>L'Orient-le-Jour</strong>, Aujourd'hui<br>
+      <a href="https://www.lorientlejour.com/" target="_blank">L'Orient-le-Jour</a>
+    </li>
+    <li>
+      <strong>France 24</strong>,Le Direct<br>
+      <a href="https://www.france24.com/fr/" target="_blank">France 24</a>
+    </li>
+    </ul>
+</div>
+  </main>
+    <div class="footer">
+      &copy; 2025 Chamsin - Analyses Politiques Moyen-Orient
+    </div>
+    <button id="topBtn" title="Retour en haut">↑</button>
+    <script>
+    const toggleBtn = document.getElementById('menu-toggle');
+    const nav = document.getElementById('main-nav');
+    toggleBtn.addEventListener('click', () => {
+      nav.classList.toggle('show');
+    });
+  
+    const topBtn = document.getElementById("topBtn");
+    window.onscroll = () => {
+      topBtn.style.display = (document.documentElement.scrollTop > 300) ? "block" : "none";
+    };
+    topBtn.onclick = () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+    </script>
+    <script>
+      const now = new Date();
+      const day = String(now.getDate()).padStart(2, '0');
+      const month = String(now.getMonth() + 1).padStart(2, '0');
+      const dateString = day + '/' + month;
+      document.getElementById('date-live').textContent = dateString;
+      document.title = 'Direct Moyen-Orient ' + dateString;
+    </script>
+
+  </body>
+</html>
