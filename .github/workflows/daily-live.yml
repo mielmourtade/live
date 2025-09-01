@@ -2,8 +2,9 @@ name: Daily Live (auto)
 
 on:
   schedule:
-    - cron: '0 17 * * *'   # 19:00 Paris en été (UTC+2) → ajuste si besoin
-  workflow_dispatch: {}     # bouton "Run workflow" dans l’onglet Actions
+    - cron: '0 8 * * *'   # 10h Paris (été)
+    - cron: '0 16 * * *'  # 18h Paris (été)
+  workflow_dispatch: {}
 
 permissions:
   contents: write           # nécessaire pour commit/push
