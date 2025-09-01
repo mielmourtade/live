@@ -32,6 +32,7 @@ jobs:
       - name: Generate live
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MAX_ITEMS: "40"
         run: python scripts/generate_live.py
 
       - name: Commit & push
