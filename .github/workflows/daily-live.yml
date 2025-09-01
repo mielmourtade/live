@@ -1,1 +1,6 @@
+name: Daily Live (auto)
 
+on:
+  schedule:
+    - cron: '0 17 * * *'  # publication auto (UTC)
+  workflow_dispatch: {}    # <-- C’est ça qui permet le bouton “Run workflow”
