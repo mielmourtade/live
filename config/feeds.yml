@@ -1,14 +1,171 @@
 feeds:
+  # ————— Wire & généralistes internationaux (prioritaires) —————
   - https://www.reuters.com/world/middle-east/rss
-  - https://www.aljazeera.com/xml/rss/all.xml
   - https://apnews.com/hub/middle-east?output=rss
+  - https://www.aljazeera.com/xml/rss/all.xml
   - https://www.france24.com/fr/moyen-orient/rss
   - https://www.lemonde.fr/international/rss_full.xml
+  # Al-Monitor (analyse région) — pas d’URL RSS publique fiable → surveiller newsletters / scraper léger
+  # - https://www.al-monitor.com/  # info utile mais sans RSS public stable :contentReference[oaicite:0]{index=0}
   - https://www.middleeasteye.net/rss
-  - https://oc-media.org/en/feed/
+  - https://www.thenationalnews.com/uae/rss-feeds-1.536712        # The National (E.A.U.) :contentReference[oaicite:1]{index=1}
+  - https://www.jpost.com/rss                                      # Jerusalem Post :contentReference[oaicite:2]{index=2}
+  - https://www.timesofisrael.com/feed/                           # Times of Israel (flux global) :contentReference[oaicite:3]{index=3}
+  - https://www.aa.com.tr/en/rss/default                           # Anadolu Agency (utiliser rubriques Middle East) :contentReference[oaicite:4]{index=4}
 
-boost_keywords: [Iran, E3, AIEA, Gaza, Hezbollah, Liban, Syrie, Irak, Golfe, Yémen, Caucase, Arménie, Azerbaïdjan]
-block_keywords: [people, lifestyle, sport, opinion]
+  # ————— Iran (angl./persan) —————
+  - https://en.irna.ir/rss                                         # IRNA EN (aide persan : https://www.irna.ir/rss-help) :contentReference[oaicite:5]{index=5}
+  - https://en.mehrnews.com/rss                                    # Mehr EN (page d’aide flux détaillés) :contentReference[oaicite:6]{index=6}
+  - https://www.tasnimnews.com/en/rss                              # Tasnim EN (page flux) :contentReference[oaicite:7]{index=7}
+  # (option) versions persanes si tu veux text-mining en farsi :
+  - https://www.mehrnews.com/rss                                   # Mehr FA (liste flux) :contentReference[oaicite:8]{index=8}
+  - https://www.tasnimnews.com/fa/rss                              # Tasnim FA (liste flux) :contentReference[oaicite:9]{index=9}
 
-per_feed_max: 15     # ↓ pour limiter
-overall_max: 80      # ↓ pour limiter (avant compression à 40)
+  # ————— Levant / Gaza / Liban / Syrie / Irak —————
+  # (déjà couverts par Reuters/AP/AJ/ToI/JP). Ajouter OCHA/UN pour données humanitaires :
+  - https://www.unocha.org/middle-east-and-north-africa            # (scrape si pas RSS par pays) :contentReference[oaicite:10]{index=10}
+  - https://reliefweb.int/updates?search=Middle%20East%20&format=xml  # ReliefWeb agrégé (OCHA) :contentReference[oaicite:11]{index=11}
+
+  # ————— Golfe / Yémen —————
+  - https://www.unocha.org/yemen                                   # (page pays — actus/sitreps) :contentReference[oaicite:12]{index=12}
+
+  # ————— Caucase / Arménie / Azerbaïdjan —————
+  - https://oc-media.org/en/feed/                                  # déjà dans ta base
+  - https://www.eurasianet.org/rss.xml                              # Eurasianet (RSS) :contentReference[oaicite:13]{index=13}
+  - https://jam-news.net/feed/                                      # JAMnews (RSS) :contentReference[oaicite:14]{index=14}
+  - https://www.rferl.org/rssfeeds                                  # RFE/RL (sélectionner Caucasus, Armenia, Azerbaijan) :contentReference[oaicite:15]{index=15}
+  # CivilNet n’expose pas un flux unique stable → surveiller page et activer scraping minimal si besoin :contentReference[oaicite:16]{index=16}
+
+  # ————— Think-tanks & institutions (nucléaire / diplomatie) —————
+  - https://www.iaea.org/feeds                                     # IAEA — flux officiels (communiqués, actus) :contentReference[oaicite:17]{index=17}
+  - https://www.crisisgroup.org/rss-0                               # International Crisis Group (régions/pays) :contentReference[oaicite:18]{index=18}
+  - https://www.eeas.europa.eu/eeas/press-material_en               # EEAS (actu/communiqués — scraper avec filtre Moyen-Orient) :contentReference[oaicite:19]{index=19}
+  - https://www.consilium.europa.eu/en/about-site/rss/              # Conseil de l’UE (décisions, conclusions) :contentReference[oaicite:20]{index=20}
+  - https://eur-lex.europa.eu/content/help/search/predefined-rss.html # Alertes RSS juridiques UE (sanctions) :contentReference[oaicite:21]{index=21}
+  # Chatham House / Carnegie / Washington Institute : bons contenus mais RSS partiels → abos mail + scraping léger :contentReference[oaicite:22]{index=22}
+
+source_priorities:
+  # sur-pondérer les “wires” et sources primaires
+  "reuters.com": 1.0
+  "apnews.com": 0.95
+  "aljazeera.com": 0.9
+  "france24.com": 0.9
+  "lemonde.fr": 0.85
+  "iaea.org": 1.0
+  "un.org": 0.9
+  "unocha.org": 0.9
+  "reliefweb.int": 0.9
+  "ec.europa.eu": 0.85
+  "consilium.europa.eu": 0.85
+  "eur-lex.europa.eu": 0.85
+  "timesofisrael.com": 0.75
+  "jpost.com": 0.7
+  "aa.com.tr": 0.7
+  "middleeasteye.net": 0.7
+  "thenationalnews.com": 0.65
+  "irna.ir": 0.6
+  "tasnimnews.com": 0.55
+  "mehrnews.com": 0.55
+  "oc-media.org": 0.7
+  "eurasianet.org": 0.7
+  "jam-news.net": 0.65
+  "rferl.org": 0.75
+
+boost_keywords:
+  # élargis pour couvrir tes fils conducteurs + variantes FR/EN/AR/FA
+  - Iran
+  - IAEA
+  - AIEA
+  - E3
+  - JCPOA
+  - centrifuge* # IR-1, IR-2m, etc.
+  - enrichment OR enrichment site
+  - Gaza
+  - Rafah
+  - Hezbollah
+  - Lebanon OR Liban
+  - Syria OR Syrie
+  - Iraq OR Irak
+  - Hashd OR PMF OR الحشد الشعبي
+  - Yemen OR Yémen OR الحوثي OR Houthi
+  - Red Sea OR mer Rouge OR Bab al-Mandeb
+  - Gulf OR Golfe OR GCC OR مجلس التعاون
+  - Saudi OR KSA OR Arabie saoudite
+  - UAE OR E.A.U. OR Émirats
+  - Qatar
+  - Bahrain OR Bahreïn
+  - Oman
+  - Kuwait OR Koweït
+  - Turkey OR Türkiye OR Turquie
+  - Jordan OR Jordanie
+  - Egypt OR Égypte
+  - Israel OR Israël
+  - West Bank OR Cisjordanie
+  - Caucasus OR Caucase
+  - Armenia OR Arménie
+  - Azerbaijan OR Azerbaïdjan
+  - Nagorno-Karabakh OR Artsakh
+  - sanctions OR designations OR OFAC OR EU restrictive measures
+  - missiles OR drones OR UAV OR Shahed OR Fateh
+  - strikes OR airstrike OR bombardement
+  - maritime OR tanker OR AIS OR hijack
+  - de-escalation OR trêve OR ceasefire
+  - proxy OR militia OR réseau
+  - cross-border OR spillover
+  - deconfliction
+  - normalization OR normalisation
+  - corridor OR route terrestre # Nakhitchevan/Zangezur
+
+block_keywords:
+  # pour assainir le bruit (people/culture/sport/tribunes)
+  - people
+  - lifestyle
+  - sport
+  - opinion
+  - culture
+  - entertainment
+  - gallery
+  - photo essay
+  - podcast
+  - vidéo
+  - liveblog
+  - horoscope
+  - météo
+  - recette
+
+language_allowlist: [fr, en]      # mets [fr, en, ar, fa] si tu veux intégrer arabe/persan
+deduplicate:
+  mode: "title+url+canonical"
+  window_hours: 48
+
+per_feed_max: 12                  # ↓ un peu pour élargir la diversité sans dépasser le cap
+overall_max: 90                   # ↑ avant compression à 40 (voir ci-dessous)
+compress:
+  target: 40
+  method: "salience+diversity"    # sélectionne en gardant l’hétérogénéité (pays/thèmes/sources)
+  diversity_axes: ["country", "theme", "source"]
+
+scoring:
+  freshness_half_life_hours: 18
+  boost_if:
+    source_priority: true
+    has_entities: ["IAEA","E3","UN","EEAS","Hezbollah","IRGC","IDF","Houthi","PKK","SDF","RSF"]
+    matches_regex:
+      - "(?:IAEA|AIEA).*(?:inspect|resolution|Board|rapport|accord)"
+      - "(?:E3|France|Germany|UK).*(?:Iran|nuclear|sanction|talks|resumption)"
+      - "(?:corridor|Zangezur|Nakh(i|ch)chevan|Artsakh|Karabakh)"
+  downrank_if:
+    topic: ["culture","opinion","sport","lifestyle"]
+    contains_words: ["exclusive interview", "opinion", "column"]
+
+output:
+  # métadonnées utiles à la rédaction Chamsin
+  include_fields: ["title","summary","source","published_at","byline","country_guess","entities","geotags","topic","url"]
+  entity_resolve: true
+  country_ner_hint: ["IR","IQ","SY","LB","IL","PS","JO","EG","SA","AE","QA","BH","OM","YE","AM","AZ","GE","TR"]
+
+alerts:
+  # comme OFAC a retiré ses flux RSS, bascule sur emails/alertes UE/UK
+  ofac: "email: subscribe via GovDelivery USTREAS_61"   # RSS retiré le 31/01/2025 :contentReference[oaicite:23]{index=23}
+  eu_sanctions: "RSS via EUR-Lex pré-définis (restrictive measures)" # :contentReference[oaicite:24]{index=24}
+  uk_ofsi: "watch blog + list search (pas de RSS dédié)"            # :contentReference[oaicite:25]{index=25}
