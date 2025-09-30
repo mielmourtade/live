@@ -1,115 +1,155 @@
 [
   {
-    "title": "Video: Moldova’s president says election results show ‘Russia failed’",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/video-moldovas-president-says-election-results-show-russia?traffic_source=rss",
-    "summary": "Moldova&#039;s President Maia Sandu hailed her pro-EU party’s victory in parliamentary elections.",
-    "published": "Mon, 29 Sep 2025 15:39:27 +0000",
-    "country": "Autres",
-    "key": "9110d9abd2532f7d0a10d41496ade86d"
-  },
-  {
-    "title": "ICC Women’s World Cup 2025: Teams, schedule, tickets, India vs Pakistan",
-    "link": "https://www.aljazeera.com/sports/2025/9/29/icc-womens-world-cup-2025-teams-schedule-tickets-india-vs-pakistan?traffic_source=rss",
-    "summary": "From tournament format to venues and top players to watch, here&#039;s Al Jazeera&#039;s guide to the Women&#039;s Cricket World Cup.",
-    "published": "Mon, 29 Sep 2025 15:18:23 +0000",
-    "country": "Autres",
-    "key": "7548ebd68a12e45b743b081e1a2d084e"
-  },
-  {
-    "title": "Moldova election results: Who won and did the diaspora play a role?",
-    "link": "https://www.aljazeera.com/news/2025/9/29/moldova-election-results-who-won-and-did-the-diaspora-play-a-role?traffic_source=rss",
-    "summary": "Election was tense amid pro-EU government&#039;s fight to join the bloc and move further away from Russia.",
-    "published": "Mon, 29 Sep 2025 15:10:47 +0000",
-    "country": "Autres",
-    "key": "701863b85b435892929e5d2de26f5457"
-  },
-  {
-    "title": "White House official claims gunman in Michigan attack ‘hated’ Mormons",
-    "link": "https://www.aljazeera.com/news/2025/9/29/white-house-official-claims-gunman-in-michigan-attack-hated-mormons?traffic_source=rss",
-    "summary": "Authorities say they are still searching for a motive in shooting and fire that killed at least four people at a church.",
-    "published": "Mon, 29 Sep 2025 14:49:21 +0000",
-    "country": "Autres",
-    "key": "e1ef693cd07490c997d2f3634f07f626"
-  },
-  {
-    "title": "Pro-Palestinian protester interrupts UK finance minister’s speech",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/pro-palestinian-protester-interrupts-uk-finance-ministers-speech?traffic_source=rss",
-    "summary": "UK minister Rachel Reeves was interrupted by a protester holding a Palestinian flag during her speech",
-    "published": "Mon, 29 Sep 2025 14:44:33 +0000",
+    "title": "Israeli soldiers detain Palestinian children for ‘spying’ in West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/9/30/israeli-soldiers-detain-palestinian-children-for-spying-in-west-bank?traffic_source=rss",
+    "summary": "Israeli soldiers were filmed detaining two Palestinian children in Hebron, in the occupied West Bank,",
+    "published": "Tue, 30 Sep 2025 07:58:55 +0000",
     "country": "Israël/Palestine",
-    "key": "5077290fbaca5cb8fcce6c0ad36de96a"
+    "key": "50c581f5a743148c31373318cfff52ea"
   },
   {
-    "title": "Iraqi man convicted for trafficking people to fight for Russia in Ukraine",
-    "link": "https://www.aljazeera.com/news/2025/9/29/iraqi-man-convicted-for-trafficking-people-to-fight-for-russia-in-ukraine?traffic_source=rss",
-    "summary": "The man formed groups that were sent off to fight for money or in hopes of eventually getting to Europe.",
-    "published": "Mon, 29 Sep 2025 14:13:04 +0000",
+    "title": "UN General Assembly: What did world leaders say about Israel’s war on Gaza?",
+    "link": "https://www.aljazeera.com/news/2025/9/30/un-general-assembly-what-did-world-leaders-say-about-israels-war-on-gaza-4?traffic_source=rss",
+    "summary": "Here’s what world leaders said during the 80th UNGA session about Israel’s war on Gaza.",
+    "published": "Tue, 30 Sep 2025 07:58:44 +0000",
+    "country": "Israël/Palestine",
+    "key": "0d8e5418facc775bfd5891966f556cb4"
+  },
+  {
+    "title": "Typhoon Bualoi kills dozens in Vietnam and Philippines",
+    "link": "https://www.aljazeera.com/gallery/2025/9/30/typhoon-bualoi-kills-dozens-in-vietnam-and-philippines?traffic_source=rss",
+    "summary": "The deadly storm forces tens of thousands to evacuate and destroys thousands of homes.",
+    "published": "Tue, 30 Sep 2025 07:26:59 +0000",
+    "country": "Autres",
+    "key": "8836ef9c9e770a7aaeeed2484667b8d7"
+  },
+  {
+    "title": "Coco Gauff rallies to win against Belinda Bencic at China Open",
+    "link": "https://www.aljazeera.com/sports/2025/9/30/coco-gauff-rallies-to-win-against-belinda-bencic-at-china-open?traffic_source=rss",
+    "summary": "The two-time grand slam singles champion defeated Bencic in three sets to advance to the quarterfinals in Beijing.",
+    "published": "Tue, 30 Sep 2025 07:13:50 +0000",
+    "country": "Autres",
+    "key": "16d87ab243d9ecd5f06ce46e083a02cd"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,314",
+    "link": "https://www.aljazeera.com/news/2025/9/30/russia-ukraine-war-list-of-key-events-day-1314?traffic_source=rss",
+    "summary": "Here are the key events on day 1,314 of Russia’s war on Ukraine.",
+    "published": "Tue, 30 Sep 2025 06:44:37 +0000",
+    "country": "Autres",
+    "key": "41c8624483269efb204c8cee63e2843f"
+  },
+  {
+    "title": "School collapse in Indonesia leaves three dead, 38 missing",
+    "link": "https://www.aljazeera.com/news/2025/9/30/school-collapse-in-indonesia-leaves-one-student-dead-38-missing?traffic_source=rss",
+    "summary": "Indonesia&#039;s National Agency for Disaster Management says 77 victims were taken to hospitals for treatment.",
+    "published": "Tue, 30 Sep 2025 06:14:43 +0000",
+    "country": "Autres",
+    "key": "c29cf21db290ad90f0a23a3808c586f7"
+  },
+  {
+    "title": "Iraq’s shoemakers revive their ancient craft",
+    "link": "https://www.aljazeera.com/gallery/2025/9/30/iraqs-shoemakers-revive-their-ancient-craft?traffic_source=rss",
+    "summary": "Mosul’s shoemakers are restoring an ancient craft, creating jobs and hope after years of conflict.",
+    "published": "Tue, 30 Sep 2025 05:56:59 +0000",
     "country": "Irak",
-    "key": "5baf919e23e3471da4ae085e5bd320be"
+    "key": "13b75eda57cf18351b623fbac49f182d"
   },
   {
-    "title": "Video: Tel Aviv beach features Trump-Netanyahu art display",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/video-tel-aviv-beach-features-trump-netanyahu-art-display?traffic_source=rss",
-    "summary": "An installation on a Tel Aviv beach depicts US President Donald Trump and Israel&#039;s PM Netanyahu to call an end the war.",
-    "published": "Mon, 29 Sep 2025 14:09:44 +0000",
-    "country": "Israël/Palestine",
-    "key": "89a92c0f0277558c379df7e6b6d1549f"
-  },
-  {
-    "title": "Why is the UK introducing digital IDs – and why are they so controversial?",
-    "link": "https://www.aljazeera.com/news/2025/9/29/why-is-the-uk-introducing-digital-ids-and-why-are-they-so-controversial?traffic_source=rss",
-    "summary": "Keir Starmer&#039;s digital ID proposal has been criticised by rivals and civil liberties groups over privacy concerns.",
-    "published": "Mon, 29 Sep 2025 13:47:05 +0000",
+    "title": "VP Vance blames Democrats for looming US government shutdown",
+    "link": "https://www.aljazeera.com/news/2025/9/30/vp-vance-blames-democrats-for-looming-us-government-shutdown?traffic_source=rss",
+    "summary": "Congressional Democrats and Republicans failed to reach a spending deal after meeting with US President Donald Trump.",
+    "published": "Tue, 30 Sep 2025 05:33:37 +0000",
     "country": "Autres",
-    "key": "249eaa87b7bc782b385da3297f7373e6"
+    "key": "e2ef30e9772786b0344ce2e616492732"
   },
   {
-    "title": "US ArabCon 2025 highlights Palestinian liberation amid Gaza crisis",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/us-arabcon-2025-highlights-palestinian-liberation-amid-gaza-crisis?traffic_source=rss",
-    "summary": "This year’s ArabCon convention for Arab Americans centred on the Palestinian solidarity movement.",
-    "published": "Mon, 29 Sep 2025 13:37:14 +0000",
+    "title": "Dolphins’ Tyreek Hill suffers severe knee injury against Jets in NFL",
+    "link": "https://www.aljazeera.com/sports/2025/9/30/dolphins-tyreek-hill-suffers-severe-knee-injury-against-jets-in-nfl?traffic_source=rss",
+    "summary": "The Miami Dolphins wide receiver suffered what is believed to be a season-ending injury against the New York Jets.",
+    "published": "Tue, 30 Sep 2025 05:06:59 +0000",
+    "country": "Autres",
+    "key": "b4a1267e42c473454488998b3a6c5b99"
+  },
+  {
+    "title": "‘Operation Sindoor’: How cricket became latest India-Pakistan weapon of war",
+    "link": "https://www.aljazeera.com/news/2025/9/30/operation-sindoor-how-cricket-became-latest-india-pakistan-weapon-of-war?traffic_source=rss",
+    "summary": "The India-Pakistan rivalry turned the Asia Cup into a battlefield for nationalist politics. Is there hope for change?",
+    "published": "Tue, 30 Sep 2025 05:02:01 +0000",
+    "country": "Autres",
+    "key": "be646473dc63d6b550c25e73d7dd09ab"
+  },
+  {
+    "title": "YouTube to pay $24.5m to settle lawsuit over Trump’s account suspension",
+    "link": "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension?traffic_source=rss",
+    "summary": "Video platform settles lawsuit filed in response to Trump&#039;s suspension over the January 6, 2021, riot at US Capitol.",
+    "published": "Tue, 30 Sep 2025 03:27:14 +0000",
+    "country": "Autres",
+    "key": "27a7987739c344ccc28be073b2fad545"
+  },
+  {
+    "title": "Have Trump and Netanyahu really agreed on a Gaza peace plan? Key takeaways",
+    "link": "https://www.aljazeera.com/news/2025/9/30/have-trump-and-netanyahu-really-agreed-on-a-gaza-peace-plan-key-takeaways?traffic_source=rss",
+    "summary": "They say they have, but on Gaza&#039;s security and long-term governance, Netanyahu appears to differ from the plan.",
+    "published": "Tue, 30 Sep 2025 02:35:21 +0000",
     "country": "Israël/Palestine",
-    "key": "b07844d735fc4fbe7d81070b6baa4dae"
+    "key": "ebb23574f48d34f52f54b0240b9ac04e"
   },
   {
-    "title": "Pro-Palestine activist interrupts UK minister speech at Labour conference",
-    "link": "https://www.aljazeera.com/news/2025/9/29/pro-palestine-activist-interrupts-uk-minister-speech-at-labour-conference?traffic_source=rss",
-    "summary": "The protester disrupts Rachel Reeves&#039; speech to demand the government end &#039;complicity&#039; in the war in Gaza.",
-    "published": "Mon, 29 Sep 2025 13:01:47 +0000",
+    "title": "En direct : l'armée israélienne \"restera dans la majeure partie de Gaza\", affirme Netanyahu",
+    "link": "https://www.france24.com/fr/moyen-orient/20250930-en-direct-trump-israel-plan-paix-gaza-netanyahu-arm%C3%A9e-hamas",
+    "summary": "Le président américain Donald Trump a déclaré lundi que le Premier ministre israélien Benjamin Netanyahu avait accepté un plan de paix parrainé par les États-Unis visant à mettre fin à la guerre qui ravage la bande de Gaza depuis près de deux ans. Ce dernier a cependant assuré, mardi, que l'armée israélienne \"restera dans la majeure partie\" de l'enclave palestinienne. Suivez notre direct.",
+    "published": "Tue, 30 Sep 2025 08:01:24 GMT",
     "country": "Israël/Palestine",
-    "key": "6a1a9b9ff22728a62a2f6ebded9babd7"
+    "key": "0c1339830873005b98ccf114b13ecb46"
   },
   {
-    "title": "Al Jazeera follows forced displacement journeys from Gaza City",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-follows-forced-displacement-journeys-from-gaza-city?traffic_source=rss",
-    "summary": "Al Jazeera’s Hani Mahmoud followed the route of displaced families in Gaza struggling to find a place of refuge.",
-    "published": "Mon, 29 Sep 2025 12:57:57 +0000",
+    "title": "Ce que contient le plan de paix de Donald Trump pour Gaza",
+    "link": "https://www.france24.com/fr/moyen-orient/20250929-ce-que-contient-plan-de-paix-donald-trump-gaza-hamas-netanyahu",
+    "summary": "Le président américain Donald Trump a proposé lundi un plan en 20 points pour mettre fin à la guerre à Gaza entre Israël et le Hamas et au-delà sur l'avenir du territoire palestinien. Voici ce qu'il faut retenir.",
+    "published": "Mon, 29 Sep 2025 22:40:23 GMT",
     "country": "Israël/Palestine",
-    "key": "8b560f5c7fe6f0292d80e2115dd35026"
+    "key": "72240a7ee87921cee40c553ae07fcaec"
   },
   {
-    "title": "Humanitarian workers live an “unbearable reality” in Gaza",
-    "link": "https://www.aljazeera.com/video/quotable/2025/9/29/humanitarian-workers-live-an-unbearable-reality-in-gaza?traffic_source=rss",
-    "summary": "“We have been able to establish temporary learning spaces&quot;",
-    "published": "Mon, 29 Sep 2025 12:39:32 +0000",
+    "title": "Plan Trump pour Gaza : soutien sous conditions de Netanyahu, la réponse du Hamas se fait attendre",
+    "link": "https://www.france24.com/fr/moyen-orient/20250929-plan-de-paix-donald-trump-gaza-soutien-sous-conditions-benjamin-netanyahu-hamas",
+    "summary": "Le Premier ministre israélien Benjamin Netanyahu a apporté lundi son soutien sous conditions au plan de paix de Donald Trump pour Gaza. Huit pays arabes et musulmans ainsi que l'Autorité palestinienne ont salué \"les efforts\" du président américain, tandis que le Hamas n'a pas encore répondu.",
+    "published": "Mon, 29 Sep 2025 22:19:33 GMT",
     "country": "Israël/Palestine",
-    "key": "2d0f7ac43a896d8cb8cbcf47e196f4ae"
+    "key": "a278485c6676e5f37108422bfa26615d"
   },
   {
-    "title": "Guerre à Gaza : ce que contient le plan de paix en 21 points de Donald Trump",
+    "title": "REPLAY : Donald Trump et Benjamin Netanyahu s'expriment depuis la Maison Blanche",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20250929-replay-point-presse-donald-trump-benjamin-netanyahu-maison-blanche-gaza",
+    "summary": "Le Premier ministre israélien Benjamin Netanyahu a dit lundi 29 septembre à Washington \"soutenir\" le plan de Donald Trump pour mettre fin à la guerre tout en menaçant de \"terminer le travail\" si le Hamas le rejette.\"Je soutiens votre plan pour mettre fin à la guerre à Gaza, qui nous permet d'atteindre nos buts de guerre\", a déclaré Benjamin Netanyahu, s'exprimant lors d'une conférence de presse avec le président américain à la Maison Blanche. \"Tous nos otages, les vivants et les morts, vont tout de suite rentrer à la maison. Le Hamas sera désarmé. Gaza sera démilitarisée. Israël va (y) conserver la responsabilité de la sécurité, y compris pour un périmètre de sécurité, pour un certain temps.\"\"Si le Hamas rejette votre plan, M. le Président, ou s'ils disent l'accepter mais font ensuite tout pour le bloquer, Israël va terminer le travail soi-même\", a ajouté le Premier ministre israélien. Revivez la conférence de presse des deux dirigeants à la Maison Blanche.",
+    "published": "Mon, 29 Sep 2025 19:46:49 GMT",
+    "country": "Israël/Palestine",
+    "key": "1fbbcdb317a1075e7a672980364d11d1"
+  },
+  {
+    "title": "Édition spéciale : Benjamin Netanyahu à la Maison Blanche",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20250929-%C3%A9dition-sp%C3%A9ciale-b-netanyahu-%C3%A0-la-maison-blanche",
+    "summary": "Donald Trump reçoit, lundi 29 septembre, le Premier ministre israélien Benjamin Netanyahu à la Maison Blanche. Le Président américain a promis un \"accord\" pour Gaza et a exclu toute annexion de la Cisjordanie, tandis que Benjamin Netanyahu maintient un discours très offensif.",
+    "published": "Mon, 29 Sep 2025 18:23:30 GMT",
+    "country": "Israël/Palestine",
+    "key": "1cc057d18c4cef57792ac175182910b3"
+  },
+  {
+    "title": "Guerre à Gaza : ce que pourrait contenir le plan de paix en 21 points de Donald Trump",
     "link": "https://www.france24.com/fr/moyen-orient/20250929-guerre-%C3%A0-gaza-ce-que-contient-le-plan-de-paix-en-21-points-de-donald-trump",
     "summary": "Donald Trump reçoit Benjamin Netanyahu à la Maison Blanche lundi pour défendre son plan de paix en 21 points destiné à \"mettre fin à la guerre à Gaza\". Cessez-le-feu, libération d'otages et gouvernance sans le Hamas... Que sait-on de cette initiative, présentée la semaine dernière aux capitales arabes et musulmanes ?",
     "published": "Mon, 29 Sep 2025 14:58:51 GMT",
     "country": "Israël/Palestine",
-    "key": "c24a62e7bd588b860b73f465758093ea"
+    "key": "59acda7510213d90c6f813b5bde53f79"
   },
   {
-    "title": "En direct : Donald Trump reçoit Benjamin Netanyahu à la Maison Blanche pour discuter de Gaza",
+    "title": "Plan de paix pour Gaza : l'Autorité palestinienne salue les \"efforts déterminés\" de Donald Trump",
     "link": "https://www.france24.com/fr/moyen-orient/20250929-en-direct-rencontre-trump-netanyahu-gaza-israel-moyen-orient-negociations-otages-hamas",
-    "summary": "Donald Trump, qui reçoit lundi à la Maison Blanche le Premier ministre israélien Benjamin Netanyahu, a promis un \"accord\" sur Gaza. Le président américain a affirmé qu'il existait \"une réelle chance d'atteindre quelque chose de grand au Moyen-Orient\". Suivez notre direct.",
+    "summary": "Donald Trump, qui a reçu lundi à la Maison Blanche Benjamin Netanyahu, a affirmé qu'un accord est \"très près\" sur Gaza. De son côté le chef du gouvernement israélien a indiqué avoir accepté le plan du président américain, tout en mettant en garde le Hamas si jamais celui-ci le rejetait. Huit pays arabes et musulmans ainsi que l'Autorité palestinienne ont salué \"les efforts\" du président américain. Voici le fil du 29 septembre 2025.",
     "published": "Mon, 29 Sep 2025 14:17:19 GMT",
     "country": "Israël/Palestine",
-    "key": "e9db6790e523c2ab9bfdbb935600bc31"
+    "key": "aa1ee8c59881a0fc55f7735549493f04"
   },
   {
     "title": "L’Iran dit révéler des secrets du nucléaire israélien… Avec des documents en libre accès",
@@ -152,332 +192,348 @@
     "key": "a29dca0741cb8e96cc39657975f5350f"
   },
   {
-    "title": "Guerre à Gaza : des frappes israéliennes sur le camp de Nousseirat",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20250928-guerre-%C3%A0-gaza-des-frappes-isra%C3%A9liennes-sur-le-camp-de-nousseirat",
-    "summary": "Des chars israéliens ont pénétré dimanche dans les quartiers résidentiels de la ville de Gaza, alors que les autorités sanitaires locales ont signalé des dizaines d'appels désespérés d'habitants dans le besoin.",
-    "published": "Sun, 28 Sep 2025 10:35:41 GMT",
-    "country": "Israël/Palestine",
-    "key": "059ce5b72f49a7e1534f95033a283cd7"
+    "title": "En Moldavie, la peur du « danger russe » a constitué le principal levier de la victoire du parti de la présidente pro-européenne Maia Sandu",
+    "link": "https://www.lemonde.fr/international/article/2025/09/30/en-moldavie-la-peur-du-danger-russe-a-constitue-le-principal-levier-de-la-victoire-du-parti-de-la-presidente-pro-europeenne-maia-sandu_6643682_3210.html",
+    "summary": "Malgré des ingérences russes d’une ampleur inédite, l’opposition pro-Kremlin n’a pas remporté les élections législatives organisées, dimanche, dans cette ex-république soviétique de 2,6 millions d’habitants.",
+    "published": "Tue, 30 Sep 2025 07:50:40 +0200",
+    "country": "Autres",
+    "key": "121f1c331a6b414cb9760fb1b4efe8c7"
   },
   {
-    "title": "Nucléaire iranien : Téhéran promet \"une réponse ferme\" après les sanctions",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20250928-nucl%C3%A9aire-iranien-t%C3%A9h%C3%A9ran-promet-une-r%C3%A9ponse-ferme-apr%C3%A8s-les-sanctions",
-    "summary": "L'Iran a assuré dimanche qu'il prendrait \"une réponse ferme et appropriée\" après le rétablissement dans la nuit des sanctions de l'ONU liées à son programme nucléaire, levées il y a dix ans.",
-    "published": "Sun, 28 Sep 2025 08:46:55 GMT",
+    "title": "EN DIRECT, Gaza : la France se dit « prête à travailler à la mise en œuvre » du plan américain pour mettre fin à la guerre",
+    "link": "https://www.lemonde.fr/international/live/2025/09/30/en-direct-gaza-le-premier-ministre-espagnol-pedro-sanchez-fervent-critique-de-l-offensive-israelienne-dans-le-territoire-palestinien-salue-le-plan-de-donald-trump_6642982_3210.html",
+    "summary": "« La France appelle les parties au conflit à Gaza à se saisir sans délai de ce plan pour (…) rouvrir un horizon de paix et de sécurité collective », a dit le ministère des affaires étrangères, ajoutant qu’il s’agit d’un moment « décisif » pour permettre à Israël de retrouver un soutien international.",
+    "published": "Tue, 30 Sep 2025 06:58:30 +0200",
+    "country": "Israël/Palestine",
+    "key": "37f37005a246482eff9294a447a51a8f"
+  },
+  {
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "link": "https://www.lemonde.fr/international/live/2025/09/30/en-direct-guerre-en-ukraine-une-famille-de-quatre-personnes-tuee-dans-une-frappe-russe-a-soumy_6643222_3210.html",
+    "summary": "Une famille de quatre personnes a été tuée dans une frappe de drone russe dans la région de Soumy, dans le nord de l’Ukraine, a rapporté, mardi matin, le chef de l’administration militaire régionale.",
+    "published": "Tue, 30 Sep 2025 06:51:23 +0200",
+    "country": "Autres",
+    "key": "853f87b8755ca350aa59c9f382e9e116"
+  },
+  {
+    "title": "Timothy Snyder, historien : « Se laisser impressionner par les démonstrations de force de Trump, c’est accompagner une transition vers l’autoritarisme »",
+    "link": "https://www.lemonde.fr/idees/article/2025/09/30/timothy-snyder-historien-se-laisser-impressionner-par-les-demonstrations-de-force-de-trump-c-est-accompagner-une-transition-vers-l-autoritarisme_6643672_3232.html",
+    "summary": "Dans une tribune au « Monde », le professeur à l’université Yale encourage la société civile américaine à ne pas choisir l’indifférence et la passivité face aux dérives autoritaristes de l’administration Trump.",
+    "published": "Tue, 30 Sep 2025 06:00:17 +0200",
+    "country": "Autres",
+    "key": "05587f27fe011428feb83f9d2db065b6"
+  },
+  {
+    "title": "Pour les habitants de Marioupol en exil, l’espoir d’y revenir s’amenuise",
+    "link": "https://www.lemonde.fr/international/article/2025/09/30/pour-les-habitants-de-marioupol-en-exil-l-espoir-d-y-revenir-rapidement-s-amenuise_6643673_3210.html",
+    "summary": "Des dizaines de milliers d’Ukrainiens ont fui la ville détruite et conquise par les Russes en mai 2022. Alors que les négociations semblent au point mort, la communauté essaie de se reconstruire.",
+    "published": "Tue, 30 Sep 2025 06:00:13 +0200",
+    "country": "Autres",
+    "key": "f092327d0c0efa2f535cdeb2cab79635"
+  },
+  {
+    "title": "Cisjordanie : quatre vidéos pour comprendre l’histoire et la colonisation israélienne",
+    "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2025/09/30/que-se-passe-t-il-en-cisjordanie-comprendre-en-quatre-videos_6643671_6176282.html",
+    "summary": "Même si la bande de Gaza est au centre de l’attention depuis l’offensive israélienne qui a suivi les attentats du 7-Octobre, on ne peut pas comprendre le rapport de forces entre Palestiniens et Israéliens sans examiner en détail la situation en Cisjordanie.",
+    "published": "Tue, 30 Sep 2025 06:00:02 +0200",
+    "country": "Israël/Palestine",
+    "key": "6f1c200583019122a6bf10b4ce9de8d8"
+  },
+  {
+    "title": "Gaza : Benyamin Nétanyahou, sous pression, accepte le plan de paix de Trump, tout en posant ses conditions",
+    "link": "https://www.lemonde.fr/international/article/2025/09/30/benyamin-netanyahou-sous-pression-accepte-le-plan-de-paix-de-donald-trump-tout-en-posant-ses-conditions_6643668_3210.html",
+    "summary": "Le premier ministre israélien a insisté sur les limites qu’il a fixées au texte proposé par le président américain. Dans un pays déchiré par vingt-trois mois de guerre, l’accord a été accueilli positivement par l’opposition et les familles des otages du Hamas.",
+    "published": "Tue, 30 Sep 2025 05:50:01 +0200",
+    "country": "Israël/Palestine",
+    "key": "723bb2f6623261d2a361ba85d1b94a5f"
+  },
+  {
+    "title": "Aux Etats-Unis, un nouveau shutdown budgétaire se rapproche",
+    "link": "https://www.lemonde.fr/international/article/2025/09/30/etats-unis-le-bras-de-fer-budgetaire-entre-democrates-et-republicains-rapproche-le-pays-du-shutdown_6643667_3210.html",
+    "summary": "Pour éviter la paralysie, un accord doit être trouvé avant mardi soir à minuit, mais les discussions bloquent notamment sur le programme de santé Obamacare, que l’administration Trump souhaite supprimer.",
+    "published": "Tue, 30 Sep 2025 05:46:02 +0200",
+    "country": "Autres",
+    "key": "ebab19ea0a125b1189f26818fa2247f2"
+  },
+  {
+    "title": "Celso Amorim, l’influent conseiller spécial du président Lula",
+    "link": "https://www.lemonde.fr/international/article/2025/09/30/il-a-redessine-l-insertion-du-bresil-dans-le-monde-celso-amorim-l-influent-conseiller-special-du-president-lula_6643666_3210.html",
+    "summary": "Le diplomate le plus capé et le plus célèbre du Brésil pilote encore, à 83 ans, la politique étrangère de son pays. Retour sur la carrière de ce « sherpa » respecté, qui fustige aujourd’hui les Occidentaux tout en épargnant la Russie.",
+    "published": "Tue, 30 Sep 2025 05:45:00 +0200",
+    "country": "Autres",
+    "key": "75e9ab99d9d746d8577bdfe43bd89d1d"
+  },
+  {
+    "title": "En Algérie, un régime en équilibre instable derrière le raidissement autocratique",
+    "link": "https://www.lemonde.fr/afrique/article/2025/09/30/en-algerie-un-regime-en-equilibre-instable-derriere-le-raidissement-autocratique_6643665_3212.html",
+    "summary": "L’affaire de la disparition de l’ex-chef des services de sécurité intérieure, Nasser El-Djinn, a révélé la fragmentation du pouvoir en clans rivaux que dissimule mal l’apparente monopolisation autour du président de la République, Abdelmadjid Tebboune.",
+    "published": "Tue, 30 Sep 2025 05:30:18 +0200",
+    "country": "Autres",
+    "key": "cd93bf330952d0d0e6e5daabf976ca98"
+  },
+  {
+    "title": "Pour augmenter leurs dépenses militaires, les pays européens tentés de réduire l’Etat-providence",
+    "link": "https://www.lemonde.fr/economie/article/2025/09/30/a-travers-l-europe-la-tentation-des-coupes-sociales-pour-financer-la-defense_6643664_3234.html",
+    "summary": "A travers l’Europe, les Etats se sont engagés à augmenter leurs budgets dans la défense à hauteur de 3,5 % de leur PIB, une hausse historique qui sera très difficile à financer en maintenant le même système d’aides publiques.",
+    "published": "Tue, 30 Sep 2025 05:30:18 +0200",
+    "country": "Autres",
+    "key": "24093d3083f205271bc5f1959933a46c"
+  },
+  {
+    "title": "Jafar Panahi, réalisateur : « Pour tourner “Un simple accident”, tous ensemble avec notre matériel, nous tenions dans deux voitures »",
+    "link": "https://www.lemonde.fr/culture/article/2025/09/30/jafar-panahi-pour-tourner-un-simple-accident-tous-ensemble-avec-notre-materiel-nous-tenions-dans-deux-voitures_6643662_3246.html",
+    "summary": "Rencontré à Paris juste avant la sortie de son film, Palme d’or à Cannes, le réalisateur iranien revient sur les conditions de tournage et les menaces contre son équipe.",
+    "published": "Tue, 30 Sep 2025 05:30:18 +0200",
     "country": "Iran",
-    "key": "df9625b2d6eb3706e80bade7473aecc0"
+    "key": "ddae34e717cdd6c33ca5e355ff31c84e"
   },
   {
-    "title": "Raids israéliens sans relâche à Gaza : au moins 77 palestiniens tués samedi",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20250928-raids-isra%C3%A9liens-sans-re%C3%A2che-%C3%A0-gaza-au-moins-77-palestiniens-tu%C3%A9s-samedi",
-    "summary": "Au moins 77 morts dans des frappes israéliennes samedi à Gaza dévasté par près de deux ans de guerre.",
-    "published": "Sun, 28 Sep 2025 08:37:21 GMT",
+    "title": "Israeli forces kill 15 Palestinians waiting for aid in Gaza",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-15-palestinians-waiting-aid-gaza",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-15-palestinians-waiting-aid-gaza\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli forces kill 15 Palestinians waiting for aid in Gaza</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli forces on Tuesday killed at least 15 Palestinian aid seekers near the distribution centre in the central Gaza Strip, Al Jazeera Arabic reported, quoting&nbsp;Al-Awda and Al-Aqsa hospitals.</p> <p>The hospital also mentioned that many have been wounded in the attack by Israeli forces.&nbsp;</p> <p>Earlier reports suggested that Israeli forces have killed at least 25 Palestinians in Gaza since dawn. It is not yet clear whether the current figures are included in that number.&nbsp;</p> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 09:13:07 +0100",
     "country": "Israël/Palestine",
-    "key": "5ed98cd4d2fa57c7b12390fbb9f6f555"
+    "key": "2a74ddaae408df27b7af3a5ada055f9b"
   },
   {
-    "title": "Un an après, des milliers de partisans du Hezbollah commémorent la mort de Nasrallah",
-    "link": "https://www.france24.com/fr/moyen-orient/20250927-un-an-apr%C3%A8s-des-milliers-de-partisans-du-hezbollah-comm%C3%A9morent-la-mort-de-nasrallah",
-    "summary": "Des milliers de partisans du Hezbollah affluaient, samedi, au mausolée de leur ancien chef Hassan Nasrallah, assassiné par Israël il y a un an jour pour jour. Malgré son affaiblissement, le mouvement chiite réaffirme son refus du désarmement exigé par le pouvoir libanais.",
-    "published": "Sat, 27 Sep 2025 14:52:47 GMT",
-    "country": "Liban",
-    "key": "ad153f9e27f762515e7318781039c685"
-  },
-  {
-    "title": "Flotille pour Gaza : les appels à une protection diplomatique de la France se multiplient",
-    "link": "https://www.france24.com/fr/moyen-orient/20250927-flotille-pour-gaza-les-appels-%C3%A0-une-protection-diplomatique-de-la-france-se-multiplient",
-    "summary": "Un collectif de plus de 130 artistes et personnalités a réclamé, samedi, aux gouvernements français et belge une \"protection diplomatique\" de la flottille internationale en route avec de l’aide humanitaire vers Gaza. Les militants pro-palestiniens à bord ont fait état de plusieurs attaques de drones contre leurs embarcations.",
-    "published": "Sat, 27 Sep 2025 13:18:22 GMT",
+    "title": "Gaza death toll since dawn rises to 25",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-dawn-rises-25",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-dawn-rises-25\" rel=\"bookmark\"> <span class=\"field field-title\">Gaza death toll since dawn rises to 25</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli forces on Tuesday killed at least 25 Palestinians in Gaza since dawn, Al Jazeera Arabic reported, quoting hospital sources.&nbsp;</p> <p>The number includes at least seven Palestinians seeking aid in the central part of the besieged enclave.</p> <p>At least six Palestinians have been killed in an Israeli bombing of a house west of Deir el-Balah city in central Gaza.</p> <p>Three Palestinians from the same family were killed in an Israeli air strike on a tent housing displaced Palestinians near Khan Younis.</p> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 08:55:07 +0100",
     "country": "Israël/Palestine",
-    "key": "19aac9172e576c90550e6da8fad454a5"
+    "key": "0df9e6e4b91fa14be5e25f81a2798f7b"
   },
   {
-    "title": "La détresse d’un Nigérian expulsé par l’administration Trump et « transféré clandestinement au Togo »",
-    "link": "https://www.lemonde.fr/afrique/article/2025/09/29/la-detresse-d-un-nigerian-expulse-par-l-administration-trump-et-transfere-clandestinement-au-togo_6643475_3212.html",
-    "summary": "L’homme, âgé de 31 ans, a vécu douze ans aux Etats-Unis, avant d’être expulsé vers Ghana, puis transféré au Togo par des officiers des services ghanéens de l’immigration, avec trois autres ressortissants ouest-africains.",
-    "published": "Mon, 29 Sep 2025 18:04:05 +0200",
-    "country": "Autres",
-    "key": "42950133836f61739604c480ff1210ae"
-  },
-  {
-    "title": "Espagne : Valence et sa région toujours en alerte rouge inondations après des fortes pluies",
-    "link": "https://www.lemonde.fr/climat/article/2025/09/29/espagne-valence-et-sa-region-toujours-en-alerte-rouge-inondations-apres-des-fortes-pluies_6643306_1652613.html",
-    "summary": "Dans la nuit de dimanche à lundi, les précipitations ont provoqué quelques inondations et même fait déborder une ravine à Aldaia, l’une des localités valenciennes les plus touchées par les inondations tragiques de l’an dernier.",
-    "published": "Mon, 29 Sep 2025 17:19:02 +0200",
-    "country": "Autres",
-    "key": "fca0f08717b650a9eea42064733c4e8f"
-  },
-  {
-    "title": "Têtes de cochon devant des mosquées : onze arrestations en Serbie, selon le ministère de l’intérieur",
-    "link": "https://www.lemonde.fr/international/article/2025/09/29/tetes-de-cochon-devant-des-mosquees-onze-arrestations-en-serbie-selon-le-ministere-de-l-interieur_6643463_3210.html",
-    "summary": "Neuf têtes de porc, animal considéré comme impur par l’islam, avaient été découvertes au début de septembre devant des mosquées de la capitale française et de la région parisienne.",
-    "published": "Mon, 29 Sep 2025 16:40:34 +0200",
-    "country": "Autres",
-    "key": "c02e0c6763e1620ffa50b80617501e90"
-  },
-  {
-    "title": "EN DIRECT, Gaza : Donald Trump accueille Benyamin Nétanyahou à la Maison Blanche et se dit « très confiant » sur la possibilité d’un accord dans la bande de Gaza",
-    "link": "https://www.lemonde.fr/international/live/2025/09/29/en-direct-gaza-les-etats-unis-exhortent-israel-et-le-hamas-a-faire-quelques-concessions-avant-la-rencontre-entre-donald-trump-et-benyamin-netanyahou_6642982_3210.html",
-    "summary": "Le premier ministre israélien vient d’arriver à la Maison Blanche, où le président américain l’a accueilli, peu après avoir promis un « accord » à Gaza et avoir mis son veto à l’annexion de la Cisjordanie. Une conférence de presse conjointe des deux dirigeants est prévue à l’issue de leur échange, à 19 h 15 (heure de Paris).",
-    "published": "Mon, 29 Sep 2025 16:30:46 +0200",
+    "title": "Israeli forces storm West Bank town with bulldozers",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-west-bank-town-bulldozers",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-west-bank-town-bulldozers\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli forces storm West Bank town with bulldozers</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli forces on Tuesday stormed the town of Bruqin in the northern West Bank, accompanied by military bulldozers, to carry out a demolition operation, Al Jazeera Arabic reported.&nbsp;</p> <p>Reports also mentioned that Israeli forces stormed the towns of Saida and Allar, north of Tulkarm in the West Bank.&nbsp;</p> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 08:50:01 +0100",
     "country": "Israël/Palestine",
-    "key": "249bd28ef697058c9737fa4c93b951da"
+    "key": "e5641c1f8a997329290c0718519682b1"
   },
   {
-    "title": "Clément Beaune, haut-commissaire à la stratégie et au plan : « La notion de souveraineté européenne est devenue notre meilleur produit d’export »",
-    "link": "https://www.lemonde.fr/idees/article/2025/09/29/clement-beaune-haut-commissaire-a-la-strategie-et-au-plan-la-notion-de-souverainete-europeenne-est-devenue-notre-meilleur-produit-d-export_6643462_3232.html",
-    "summary": "Dans une tribune au « Monde », le responsable de la planification mesure le chemin parcouru par l’Union européenne depuis le Brexit et le Covid-19, et formule trois idées pour affronter les nouveaux défis de la politique économique de Trump et des guerres en Ukraine et à Gaza.",
-    "published": "Mon, 29 Sep 2025 16:30:06 +0200",
+    "title": "Not British, but Indian soldiers liberated Haifa from Ottomans, city mayor says",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/not-british-indian-soldier-liberated-haifa-ottomans-city-mayor-says",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/not-british-indian-soldier-liberated-haifa-ottomans-city-mayor-says\" rel=\"bookmark\"> <span class=\"field field-title\">Not British, but Indian soldiers liberated Haifa from Ottomans, city mayor says</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Mayor of Haifa, Yona Yahav, on Monday said that it was not the British but Indian soldiers who&nbsp;\"liberated Haifa from the Ottomans\" and&nbsp;that new history textbooks will highlight their role, news agency PTI reported.&nbsp;</p> <p>“Constantly we were told that this city was freed by the British till somebody from the Historical Society knocked at my door one day and said that they have done a thorough research and found that it wasn’t the British but the Indians who freed this city (from the Ottomans),” said Mayor of Haifa, Yona Yahav.</p> <p>\"In every school, we are changing the texts and saying that it wasn’t the British but the Indians who liberated us,\" Yahav said while addressing a gathering.&nbsp;</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\">VIDEO | The Israeli city of Haifa on Monday paid tributes to fallen Indian soldiers, with the Mayor noting that the city's school history books are being changed to correct that it was Indian troops and not the British who liberated the city from Ottoman rule.<br /> <br /> “I was born in… <a href=\"https://t.co/cSXsGxuDnA\">pic.twitter.com/cSXsGxuDnA</a></p> — Press Trust of India (@PTI_News) <a href=\"https://twitter.com/PTI_News/status/1972657965644620010?ref_src=twsrc%5Etfw\">September 29, 2025</a></blockquote> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 07:52:56 +0100",
     "country": "Israël/Palestine",
-    "key": "0b83d517e2ef8f8554d74588cd23dee3"
+    "key": "d401f1295358d8de574b17e77f82cc25"
   },
   {
-    "title": "« Entre l’Argentine et les Etats-Unis, les mauvais comptes font les bons amis »",
-    "link": "https://www.lemonde.fr/idees/article/2025/09/29/entre-l-argentine-et-les-etats-unis-les-mauvais-comptes-font-les-bons-amis_6643456_3232.html",
-    "summary": "Donald Trump est prêt à un « soutien inconditionnel » au régime de Javier Milei pour surmonter la pression des marchés financiers sur le peso. L’initiative exprime surtout une solidarité idéologique, dont les Argentins risquent de faire les frais, explique Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
-    "published": "Mon, 29 Sep 2025 15:48:30 +0200",
-    "country": "Autres",
-    "key": "7e67e7574eb55fa663a0b3a40f5c919a"
-  },
-  {
-    "title": "Le prix Vaclav-Havel des droits de l’homme décerné au journaliste ukrainien Maksym Boutkevytch",
-    "link": "https://www.lemonde.fr/international/article/2025/09/29/le-prix-vaclav-havel-des-droits-de-l-homme-decerne-au-journaliste-ukrainien-maksym-boutkevytch_6643450_3210.html",
-    "summary": "Fondateur de la radio indépendante Hromadske Radio et cofondateur du centre de défense des libertés Zmina, il a été libéré en octobre 2024, dans le cadre d’un échange de prisonniers, après avoir été capturé par les forces russes.",
-    "published": "Mon, 29 Sep 2025 15:24:14 +0200",
-    "country": "Autres",
-    "key": "1d50f163b46aa97df45e4919a0717b27"
-  },
-  {
-    "title": "EN DIRECT, guerre en Ukraine : les Etats-Unis, favorables à des frappes ukrainiennes en Russie, envisagent de vendre des missiles Tomahawk aux Européens",
-    "link": "https://www.lemonde.fr/international/live/2025/09/29/en-direct-guerre-en-ukraine-les-etats-unis-favorables-a-des-frappes-ukrainiennes-en-russie-envisagent-de-vendre-des-missiles-tomahawk-aux-europeens_6643222_3210.html",
-    "summary": "Ces propos s’inscrivent dans un changement de ton significatif de la part de l’administration américaine. La semaine dernière, Donald Trump avait jugé que l’Ukraine pourrait « regagner son territoire dans sa forme originelle et peut-être même aller plus loin », après avoir assuré pendant des mois qu’elle devrait, au contraire, probablement céder des territoires.",
-    "published": "Mon, 29 Sep 2025 15:06:02 +0200",
-    "country": "Autres",
-    "key": "7d1b469a24a5e362f5fef2e8a813aa10"
-  },
-  {
-    "title": "Le gouvernement indien réprime sévèrement la lutte des habitants du Ladakh pour réclamer des droits",
-    "link": "https://www.lemonde.fr/international/article/2025/09/29/le-gouvernement-indien-reprime-severement-la-lutte-des-habitants-du-ladakh-pour-reclamer-des-droits_6643447_3210.html",
-    "summary": "Le visage de la contestation de cette région himalayenne sous tutelle de Delhi, Sonam Wangchuk, en grève de la faim, a été arrêté et transporté dans une prison au Rajasthan.",
-    "published": "Mon, 29 Sep 2025 14:50:24 +0200",
-    "country": "Autres",
-    "key": "3e217eaf43ec64514c7fc774c563af3f"
-  },
-  {
-    "title": "L’Inde épargnée par les révoltes de la génération Z",
-    "link": "https://www.lemonde.fr/international/article/2025/09/29/l-inde-epargnee-par-les-revoltes-de-la-generation-z_6643441_3210.html",
-    "summary": "Malgré des vulnérabilités similaires à ses voisins, la taille du pays, sa diversité, son fédéralisme rendent difficiles la formation de grands mouvements susceptibles de renverser un gouvernement.",
-    "published": "Mon, 29 Sep 2025 14:32:54 +0200",
-    "country": "Autres",
-    "key": "1f08d1f133ad6d06a8888b210099dd29"
-  },
-  {
-    "title": "En Israël, la recherche et les universités face à une vague inédite de boycotts",
-    "link": "https://www.lemonde.fr/international/article/2025/09/29/en-israel-la-recherche-et-les-universites-face-a-une-vague-inedite-de-boycotts_6643440_3210.html",
-    "summary": "Près d’un millier de scientifiques ont signé une pétition demandant que le CERN, le plus important laboratoire en physique des particules du monde, réévalue sa coopération avec l’Etat hébreu, en réaction à l’anéantissement de la bande de Gaza par l’armée israélienne.",
-    "published": "Mon, 29 Sep 2025 14:25:53 +0200",
+    "title": "Flight tracking websites show Turkish drones above flotilla: Report",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/flight-tracking-websites-show-turkish-drones-above-flotilla-report",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/flight-tracking-websites-show-turkish-drones-above-flotilla-report\" rel=\"bookmark\"> <span class=\"field field-title\">Flight tracking websites show Turkish drones above flotilla: Report</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Flight tracking websites on Tuesday showed multiple drones originating from Turkey's Corlu airbase circling over the Global Sumud Flotilla, Reuters news agency <a href=\"https://www.reuters.com/world/middle-east/drones-turkey-circle-gaza-aid-flotilla-boats-sail-east-2025-09-29/#:~:text=Flight%20tracking%20websites%20showed%20that,around%20the%20embattled%20Gaza%20Strip.\">reported</a>.&nbsp;</p> <p>Turkish foreign and defence ministries and the intelligence agency did not respond to requests for comment from the Reuters news agency.</p> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 07:20:00 +0100",
     "country": "Israël/Palestine",
-    "key": "cda24b41804ddc392ccbfbc3391d8a13"
+    "key": "ad9e00541218abd358316d90502baa84"
   },
   {
-    "title": "« Le XXIᵉ siècle écrase tout sur son passage. Comment finir une tragédie ? » : le texte du dramaturge Wajdi Mouawad après la reconnaissance de la Palestine",
-    "link": "https://www.lemonde.fr/international/article/2025/09/29/wajdi-mouawad-dramaturge-le-xxi-siecle-ecrase-tout-sur-son-passage-comment-finir-une-tragedie_6643434_3210.html",
-    "summary": "L’auteur franco-libanais a suivi Emmanuel Macron à New York pour l’Assemblée générale des Nations unies, au cours de laquelle la France a reconnu la Palestine. A l’aide d’Homère et d’Eschyle, il décrit, dans un texte pour « Le Monde », la difficulté d’y faire résonner les mots de la justice.",
-    "published": "Mon, 29 Sep 2025 12:36:18 +0200",
+    "title": "Netanyahu: We turned the tables on Hamas as Israel holds most of Gaza",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-we-turned-tables-hamas-israel-holds-most-gaza",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-we-turned-tables-hamas-israel-holds-most-gaza\" rel=\"bookmark\"> <span class=\"field field-title\">Netanyahu: We turned the tables on Hamas as Israel holds most of Gaza</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli Prime Minister, in a video statement on Tuesday, said that&nbsp;he has turned the tables on Hamas and isolated it while Israeli forces remain in most of the Gaza Strip.&nbsp;</p> <p>\"Instead of Hamas isolating us, we turned the tables and isolated it. Now the entire world is pressuring Hamas to accept the conditions we set - the release of all the hostages, while the IDF remains in most of the Strip,\" Netanyahu said in a video statement at the end of the visit to Washington.</p> <p>Speaking in Hebrew,&nbsp;Netanyahu said that the Trump plan allows Israeli forces to remain in Gaza and rules out Palestinian statehood, Israeli media reported, translating the message.&nbsp;</p> <blockquote class=\"twitter-tweet\"> <p dir=\"rtl\" lang=\"iw\">רה\"מ נתניהו בחשבון בתום הביקור בוושינגטון: \"במקום שחמאס יבודד אותנו, הפכנו את היוצרות ובודדנו אותו. עכשיו כל העולם לוחץ על חמאס לקבל את התנאים שהצבנו - שחרור כל החטופים, כשצה\"ל נשאר ברוב הרצועה\"<a href=\"https://t.co/DI2XeUJKgk\">pic.twitter.com/DI2XeUJKgk</a></p> — כאן חדשות (@kann_news) <a href=\"https://twitter.com/kann_news/status/1972817490226102497?ref_src=twsrc%5Etfw\">September 30, 2025</a></blockquote> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 07:14:24 +0100",
     "country": "Israël/Palestine",
-    "key": "f839d6dd7678cae6e7aff3119cdebcf5"
+    "key": "f1e540fd22dadda505840c1d63f7285b"
   },
   {
-    "title": "UAE lobbied Netanyahu to accept Trump Gaza plan: Report",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-lobbied-netanyahu-accept-trump-gaza-plan-report",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/uae-lobbied-netanyahu-accept-trump-gaza-plan-report\" rel=\"bookmark\"> <span class=\"field field-title\">UAE lobbied Netanyahu to accept Trump Gaza plan: Report</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p></p> <p>The UAE lobbied Israeli Prime Minister Benjamin Netanyahu to accept President Donald Trump’s Gaza peace proposal and to abandon plans to annex the occupied West Bank, Reuters reported on Monday.&nbsp;</p> <p>The UAE position on Trump's Gaza peace plan was delivered to Netanyahu by its Foreign Minister, &nbsp;Abdullah bin Zayed, on the sidelines of the UN General Assembly in New York on Friday, Reuters said.&nbsp;</p> <p>The UAE told Netanyahu that annexation would prevent the expansion of the Abraham Accords to countries like Indonesia and Saudi Arabia.&nbsp;</p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 17:17:48 +0100",
+    "title": "Israel continues bombing homes, 11 Palestinians killed across Gaza",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-bombing-homes-11-palestinians-killed-across-gaza",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-bombing-homes-11-palestinians-killed-across-gaza\" rel=\"bookmark\"> <span class=\"field field-title\">Israel continues bombing homes, 11 Palestinians killed across Gaza</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli forces on Tuesday killed at least 11 people&nbsp;in Gaza since dawn, Al Jazeera Arabic has reported, quoting hospital sources.</p> <p>Israeli forces fired at aid-seekers near Gaza’s Netzarim, the report said.&nbsp;</p> <p>At least six Palestinians have also been killed in an Israeli bombing of a house west of Deir el-Balah city in central Gaza.</p> <p>Three&nbsp;Palestinians from the same family were killed in an Israeli air strike on a tent housing displaced Palestinians&nbsp;near Khan Younis.</p> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 07:00:35 +0100",
     "country": "Israël/Palestine",
-    "key": "8adfe7abf2f1fb1fc4531121c2dddd1d"
+    "key": "d1d315e3154bf9632f9e1e05df04e019"
   },
   {
-    "title": "Israel detains dozens of Palestinians in occupied West Bank",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-detains-dozens-palestinians-occupied-west-bank",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-detains-dozens-palestinians-occupied-west-bank\" rel=\"bookmark\"> <span class=\"field field-title\">Israel detains dozens of Palestinians in occupied West Bank</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israel arbitrarily detained dozens of Palestinians at checkpoints in the occupied West Bank on Monday, according to Palestinian news agency Wafa.&nbsp;</p> <p>Around 20 young Palestinian men were detained at the Atara military checkpoint, located to the north of Ramallah city.</p> <p>According to Wafa, Israel has ramped up&nbsp;arbitrary restrictions and detentions in the area.</p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 17:14:14 +0100",
+    "title": "Trump's plan offers new possibilities for aid delivery, UN relief chief says",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-plan-offers-new-possibilities-aid-delivery-un-relief-chief-says",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/trumps-plan-offers-new-possibilities-aid-delivery-un-relief-chief-says\" rel=\"bookmark\"> <span class=\"field field-title\">Trump's plan offers new possibilities for aid delivery, UN relief chief says</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Tom Fletcher, the head of the UN humanitarian agency (OCHA), said that Trump's Gaza plan would offer “new possibilities for humanitarians to deliver lifesaving aid at the scale desperately needed by civilians”.</p> <p>In a post on social media, Fletcher said the plan also facilitates “hostages finally coming home”.&nbsp;</p> <p>“We are ready and eager to work – in a practical and principled way – to seize this moment for peace,” he added.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\">President Trump’s plan opens new possibilities for humanitarians to deliver lifesaving aid at the scale desperately needed by civilians. And hostages finally coming home.<br /> <br /> We are ready and eager to work - in a practical and principled way - to seize this moment for peace.</p> — Tom Fletcher (@UNReliefChief) <a href=\"https://twitter.com/UNReliefChief/status/1972807524467319201?ref_src=twsrc%5Etfw\">September 29, 2025</a></blockquote> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 05:49:40 +0100",
     "country": "Israël/Palestine",
-    "key": "b88f7c008c556214222cac271b6f259d"
+    "key": "07afde2dd20476ca6f8d8f517838f8fd"
   },
   {
-    "title": "White House says both sides need to make concessions in Gaza for a ceasefire",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-both-sides-need-make-concessions-gaza-ceasefire",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-both-sides-need-make-concessions-gaza-ceasefire\" rel=\"bookmark\"> <span class=\"field field-title\">White House says both sides need to make concessions in Gaza for a ceasefire</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>The White House said both Hamas and Israel need to make concessions in order for a ceasefire in Gaza.&nbsp;</p> <p>The comments from&nbsp;Press Secretary Karoline Leavitt come as US President Donald Trump is set to meet Israeli Prime Minister Benjamin Netanyahu at the White House.</p> <p></p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 16:38:48 +0100",
+    "title": "Morning update",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-421",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-421\" rel=\"bookmark\"> <span class=\"field field-title\">Morning update</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Good morning Middle East Eye readers,</p> <p>Here are the latest updates on the situation in Gaza:</p> <ul> <li> <p>US President Donald Trump has announced a 20-point plan to end the war in Gaza, saying he fully supports Israel’s goal of “destroying Hamas” if it refuses to accept the proposal.</p> </li> <li> <p>The United Kingdom has endorsed Trump’s initiative, which has also drawn support from France, Italy, and a number of Arab and Muslim states, including Qatar, Saudi Arabia, Egypt, and Pakistan.</p> </li> <li> <p>However, the leader of Palestinian Islamic Jihad dismissed the plan as a \"recipe for aggression\" against the Palestinians.&nbsp;</p> </li> <li> <p>Meanwhile, Israeli Prime Minister Benjamin Netanyahu issued an apology to Qatar’s prime minister for the&nbsp;Israeli strike on Doha earlier this month.</p> </li> <li> <p>Even as talks continued in Washington, Israeli attacks persisted in Gaza, leaving at least 39 people dead. Across the border, an Israeli drone strike in southern Lebanon killed one person.</p> </li> </ul> </div> </div> </article>",
+    "published": "Tue, 30 Sep 2025 05:33:54 +0100",
     "country": "Israël/Palestine",
-    "key": "93b97041122026b37788ab357e908e5c"
+    "key": "ebd701dcc429caf50f2f3c8239f85951"
   },
   {
-    "title": "Ousted head of Algerian intelligence 'flees country aboard speedboat'",
-    "link": "https://www.middleeasteye.net/news/ousted-head-algerian-intelligence-flees-country-aboard-speedboat",
-    "summary": "<article class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/ousted-head-algerian-intelligence-flees-country-aboard-speedboat\" rel=\"bookmark\"> <span class=\"field field-title\">Ousted head of Algerian intelligence 'flees country aboard speedboat'</span> </a> </h2> <footer> <div class=\"author\"> Submitted by <span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/mee-staff\" lang=\"lang\" title=\"View user profile.\">MEE staff</a></span> on <span class=\"field field-created\"><time datetime=\"2025-09-29T14:49:42+01:00\" title=\"29 September 2025 14:49 BST\">Mon, 09/29/2025 - 14:49</time> </span> </div> </footer> <div class=\"content\"> <div class=\"field field-field-subhead\">Major General Abdelkader Haddad, under house arrest in Algiers since his dismissal in May, feared for his life and reached Spain by sea, reports Spanish newspaper El Confidencial</div> <div class=\"field field-field-main-image\"> <source height=\"900\" type=\"image/webp\" width=\"1400\" /> <img alt=\"alt\" height=\"900\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/Algeria-soldiers-parade-capital-5-July-2022-anniversary-independence-Kramdi-AFP.jpg.jpg?itok=UtF-5xfB\" width=\"1400\" /> </div> <div class=\"field field-field-cutline\">Algerian soldiers parade down a street in the capital Algiers on 5 July 2022, as the country celebrates the 60th anniversary of its independence (Ryad Kramdi/AFP)</div> <div class=\"field field-field-wide-photo-video\">Off</div> <div class=\"field field-body clearfix\"><p style=\"margin-top: 16px;\">One of <a href=\"https://www.middleeasteye.net/countries/algeria\">Algeria</a>'s most powerful military figures who recently fell from grace, Major General Abdelkader Haddad, fled the country aboard a speedboat for Spain fearing for his life, according to Spanish newspaper <a href=\"https://www.elconfidencial.com/mundo/2025-09-25/el-general-que-estaba-al-frente-de-la-seguridad-nacional-en-argelia-huye-a-espana_4215416/\">El Confidencial</a>.</p> <p>Haddad, better known by his nickname Nasser El Djinn (“the Devil”), headed the General Directorate of Internal Security (DGSI), Algeria's most influential intelligence service, for nearly a year.</p> <p>He was dismissed in May for unspecified reasons, after which he was incarcerated in military prisons and then placed under house arrest in an upscale Algiers neighbourhood. He was due to be tried soon.</p> <p>The charges against the former close associate of President Abdelmadjid Tebboune, whose <a href=\"https://www.middleeasteye.net/news/algeria-presidential-election-climate-repression\">re-election</a> Haddad supported in September 2024, remain unknown.</p> <p>Observers <a href=\"https://www.lepoint.fr/monde/algerie-la-fuite-de-l-ex-patron-de-la-dgsi-ebranle-les-sommets-de-l-etat-21-09-2025-2599160_24.php\">presume</a> his fall from grace is due to investigations he launched into suspected corruption and profiteering involving high-ranking families with ties to the ruling class.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>According to El Confidencial journalist Ignacio Cembrero, Haddad managed to elude the Algerian military police and escape in the early hours of 19 September.</p> <p>Sources in the Algerian diaspora and Spanish police told Cembrero that Haddad crossed the Mediterranean by boat and reached Alicante.</p> <p>Upon arriving in the city in southern Spain, where he owns property, Haddad told sources he fled because he knew he would be killed before appearing before a judge and his death would be presented as a suicide.</p> <p>Shortly before El Confidencial's revelations, Le Monde <a href=\"https://www.lemonde.fr/afrique/article/2025/09/20/a-alger-deploiement-securitaire-apres-la-fuite-de-l-ancien-patron-des-services-de-renseignement_6642012_3212.html\">reported</a> that Haddad's disappearance had led to a massive security deployment in Algiers and its outskirts on 18 and 19 September, with police and military roadblocks, vehicle searches causing massive traffic jams, and helicopters flying over the area.</p> <p>While Algerian authorities and media kept quiet about Haddad’s escape, rumours began to circulate about his whereabouts, with some Algerian influencers living abroad relaying reports that he had surrendered to the authorities.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <h3>Clan struggles</h3> <p>According to Le Monde, Haddad’s escape sent shockwaves through the top brass, as it could only have happened owing to complicity within the security apparatus.</p> <p>The incident, according to the French newspaper, reveals the divisions and recurring instability within the Algerian political and security system, and is said to have fuelled tensions between the president and the army chief of staff, Said Chengriha, amid suspicions of a coup d'etat being plotted.</p> <p>Algeria has had five heads of the DGSI and seven heads of the foreign intelligence service since Tebboune came to power in 2019.</p> <div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/algeria-bans-gaza-support-march-amid-fears-political-unrest\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/palestine-manifestation-alger-2023-afp.jpg.webp?itok=4E0iZ17U\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">Algeria bans Gaza march amid fears of political unrest</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/algeria-bans-gaza-support-march-amid-fears-political-unrest\">Read More »</a> </div> <p>Since the Hirak, the mass protest movement that led to the ousting of longtime ruler Abdelaziz Bouteflika in 2019, purges have become cyclical in the country. Le Monde counts around 200 senior officers, including 30 generals, behind bars.</p> <p>According to analysts, the mechanisms within the Algerian security system that previously served to conceal internal tensions started to break down in 2015 when Bouteflika and his army chief <a href=\"https://www.middleeasteye.net/opinion/ahmed-gaid-salah-temptation-history\">Ahmed Gaid Salah</a> decided to disband the Intelligence and Security Department (DRS), which coordinated domestic, foreign and military intelligence services, under the leadership of <a href=\"https://www.middleeasteye.net/news/analysis-life-after-toufik\">Mohamed “Toufik” Mediene</a>.</p> <p>This shook the system formed around the three main actors of Algerian power - the army, the presidency and the DRS - at a time when Bouteflika was encouraging the rise of oligarchs, thereby introducing a fourth pole of influence where profiteering practices were rife.</p> <p>For Cembrero, who points out that Haddad himself has been accused of committing atrocities during the civil war in the 1990s, the escape highlights \"the clan struggles\" that have persisted within the Algerian army for nearly a decade.</p> <p>\"The seemingly most powerful generals can find themselves behind bars overnight,\"&nbsp;he wrote.</p> </div> <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/algeria\" hreflang=\"en\">Inside Algeria</a></div> <div class=\"field field-field-coauthor-location\"> <div> </div> <div> </div> <div> </div> <div> </div> </div> <div class=\"field field-field-article-location\"> </div> <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div> <div class=\"field field-field-post-date-override\"> <div>Post Date Override</div> <div>0</div> </div> <div class=\"field field-field-update-date-override\"> <div>Update Date</div> <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time> </div> </div> <div class=\"field field-field-update-date-check\"> <div>Update Date Override</div> <div>0</div> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 16:28:55 +0100",
+    "title": "UK says it 'strongly backs' Trump's Gaza plan",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-it-strongly-backs-trumps-gaza-plan",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-it-strongly-backs-trumps-gaza-plan\" rel=\"bookmark\"> <span class=\"field field-title\">UK says it 'strongly backs' Trump's Gaza plan</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>The United Kingdom &nbsp;government on Monday threw its weight behind US President Donald Trump's new plan to end Israel's genocide in Gaza.&nbsp;</p> <p>\"We strongly support his efforts to end the fighting, release the hostages and ensure the provision of urgent humanitarian assistance for the people of Gaza. This is our top priority and should happen immediately,\" Prime Minister Keir Starmer's office said in a statement.&nbsp;</p> </div> </div> </article>",
+    "published": "Mon, 29 Sep 2025 23:58:19 +0100",
     "country": "Israël/Palestine",
-    "key": "293a4057906773d388efd61d6f1f64fe"
+    "key": "a787ffbfc7fb6c6505b2010c71382f7c"
   },
   {
-    "title": "A breakdown of Tony Blair’s bizarre proposal to run Gaza",
-    "link": "https://www.middleeasteye.net/news/breakdown-tony-blairs-bizarre-proposal-run-gaza",
-    "summary": "<article class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/breakdown-tony-blairs-bizarre-proposal-run-gaza\" rel=\"bookmark\"> <span class=\"field field-title\">A breakdown of Tony Blair’s bizarre proposal to run Gaza</span> </a> </h2> <footer> <div class=\"author\"> Submitted by <span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/rayhan-uddin\" lang=\"lang\" title=\"View user profile.\">Rayhan Uddin</a></span> on <span class=\"field field-created\"><time datetime=\"2025-09-29T14:36:56+01:00\" title=\"29 September 2025 14:36 BST\">Mon, 09/29/2025 - 14:36</time> </span> </div> </footer> <div class=\"content\"> <div class=\"field field-field-subhead\">Proposed transitional authority will have global billionaires and businesspeople at top and Palestinians at bottom, according to leaked draft </div> <div class=\"field field-field-main-image\"> <source height=\"788\" type=\"image/webp\" width=\"1400\" /> <img alt=\"Former British prime minister Tony Blair speaks at a session during the World Economic Forum (WEF) annual meeting in Davos on 22 January 2025 (AFP/Fabrice Coffrini)\" height=\"788\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/Davos-Tony-Blair-World-Economic-Forum-22-January-2025-AFP.jpg.jpg?itok=zln6ljLc\" width=\"1400\" /> </div> <div class=\"field field-field-cutline\">Former British prime minister Tony Blair speaks at a session during the World Economic Forum (WEF) annual meeting in Davos on 22 January 2025 (AFP/Fabrice Coffrini)</div> <div class=\"field field-field-wide-photo-video\">Off</div> <div class=\"field field-body clearfix\"><p>An unlikely answer has been found for who should lead the process of running Gaza after Israel’s genocidal war: Tony Blair.&nbsp;</p> <p>It was revealed last week that the former British prime minister - <a href=\"https://www.middleeasteye.net/news/tony-blair-relationship-middle-east-leaving-office\">a controversial figure in the Middle East</a>, to say the least - was being considered to <a href=\"https://www.middleeasteye.net/news/tony-blair-proposed-chief-gaza-transitional-authority-reports-say\">lead a transitional authority</a> in the enclave.&nbsp;</p> <p>Haaretz has now published a <a href=\"https://img.haarets.co.il/bs/00000199-91d1-dc12-a5df-99dbab200000/92/aa/ba8288df45af907255ae16fafa34/blair-plan.pdf\">leaked draft plan</a> of what Gaza would look like under Blair’s initiative.&nbsp;<br /> <br /> The plan reveals a hierarchy in which an international board of billionaires and businesspeople sit at the top, while highly vetted \"neutral\" <a href=\"https://www.middleeasteye.net/countries/palestine\">Palestinian</a> administrators are at the bottom.&nbsp;</p> <p>It sets out a three-year plan, budgeted at $90m in the first year, $134m in the second and $164m in the third (these are solely management expenses, and don’t include reconstruction or aid).&nbsp;</p> <p>The administration would work closely with <a href=\"https://www.middleeasteye.net/countries/israel\">Israel</a>, <a href=\"https://www.middleeasteye.net/countries/egypt\">Egypt</a> and the <a href=\"https://www.middleeasteye.net/countries/us\">US</a>, and, according to Israeli sources cited by Haartez, has the backing of the White House.&nbsp;<br /> <br /> Middle East Eye breaks down key highlights from the 21-page leaked document.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <h3>Board of billionaires</h3> <p>Gaza International Transitional Authority, or Gita, is the name given to the new institution which will administer the Palestinian enclave.&nbsp;</p> <p>According to the draft, Gita will be run by an international board which has “supreme political and legal authority for Gaza during the transitional period”.</p> <p>The board will be in charge of all appointments, and supervise every component of the authority.&nbsp;</p> <p>It will be made up of between seven and 10 members, including a chair.&nbsp;</p> <p>The board will include a senior UN official, with Sigrid Kaag, the UN’s special coordinator for the Middle East peace process, cited as an example.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>It would also include “leading international figures with executive and financial expertise”.&nbsp;</p> <p>Three names are cited as potential candidates: Marc Rowan, a billionaire who owns one of America’s largest private equity firms, Naguib Sawiris, an Egyptian billionaire in the telecommunications and technology sector, and Aryeh Lightstone, chief executive of the Abraham Accords Peace Institute.</p> <p>Lightstone was a senior adviser to David Friedman, a staunch defender of Israel’s illegal settlement movement, when he was US ambassador to Israel between 2017 and 2021 under Donald Trump’s first administration.</p> <div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/tony-blair-relationship-middle-east-leaving-office\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/BLAIR_BETHLEHEM_AFP.jpg.webp?itok=SyE4HV14\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">Tony Blair's controversial relationship with the Middle East since leaving office</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/tony-blair-relationship-middle-east-leaving-office\">Read More »</a> </div> <p>According to Haaretz, he was also deeply involved in the creation of the highly controversial Gaza Humanitarian Foundation.&nbsp;</p> <p>Not every single board member will be a billionaire or have links to Israel or America.&nbsp;</p> <p>There will be “at least one qualified Palestinian representative”, potentially coming from the “business or security sector”. It wasn’t made clear what “qualified” means.</p> <p>And finally, the document said that the board would have “a strong representation of Muslim members to ensure regional legitimacy and cultural credibility”.</p> <p>These Muslim figures would ideally have the political support of their countries, but also “long standing business credibility”.&nbsp;</p> <p>Members of the board would be “nominated by contributing states and confirmed through a process coordinated by the UN”.&nbsp;</p> <p>The board would report to the UN Security Council, which would ultimately grant it authority to carry out its functions.&nbsp;</p> <p>The Security Council currently includes non-permanent members that have been highly critical of Israel’s genocide in Gaza, such as Algeria, Pakistan and Slovenia, in addition to permanent members Russia and China.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>It would be interesting to see if these countries would approve a transitional government in Gaza run mostly by non-Palestinian billionaires and business figures.&nbsp;</p> <h3>The chairman (probably Blair)</h3> <p>Various media outlets have reported that Blair is being touted <a href=\"https://www.bbc.co.uk/news/articles/c3drmk95xlzo\">to be the chair of the transitional authority</a>, though his name is not mentioned in the draft.&nbsp;</p> <p>Public-private partnerships to run government projects, one of Blair’s hallmark policies as prime minister of the UK, is mentioned in the document.&nbsp;</p> <p>According to the draft plan, the chairman will serve as the “senior political executive, principal spokesperson, and strategic coordinator for the entire transitional authority”.&nbsp;</p> <div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/opinion/trump-blair-chilling-plan-gaza-no-room-palestinian-holocaust\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/palestine-gaza-graves-deir-al-balah-june-2025-eyad-baba-afp.jpg.webp?itok=RoeT4tw_\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">Trump Gaza plan: Blair joins the vultures feeding on a Palestinian Holocaust</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/trump-blair-chilling-plan-gaza-no-room-palestinian-holocaust\">Read More »</a> </div> <p>They would be appointed through “international consensus” and endorsement by the UN Security Council. There is no mention of Palestinian consensus in choosing them.&nbsp;</p> <p>If Blair is indeed the proposed chairman, he may have his work cut out gaining “international consensus” for his appointment.&nbsp;</p> <p>His <a href=\"https://www.middleeasteye.net/news/tony-blair-relationship-middle-east-leaving-office\">handling of the Iraq war</a> as premier of the UK, as well as his <a href=\"https://www.middleeasteye.net/news/tony-blair-relationship-middle-east-leaving-office\">dealings</a> with a string of autocrats, has left him deeply unpopular across the globe.&nbsp;</p> <p>The chair will represent Gita “in all diplomatic, donor and intergovernmental forums”. They will also lead “strategic security diplomacy” with other actors, “including Israel, Egypt and the United States”.&nbsp;</p> <p>The document notes that initially, Gita’s senior officials won’t be in Gaza.&nbsp;</p> <p>In the first year, they’ll be based in “coordination cells” such as El-Arish in Egypt’s Sinai and “remote policy hubs” such as Cairo and Amman.&nbsp;</p> <p>There would be partial deployment into Gaza by the second year, before “full operatationalisation” into the enclave in the third year.&nbsp;</p> <h3>Hierarchical structure</h3> <p>An organisational chart at the end of the document lays out the hierarchical structure of Gita, with the board and chairman at the top.&nbsp;</p> <p>A security body, the “International Security Force”, is on the same row as the board and chairman and appears to be outside of the hierarchy.&nbsp;</p> <p>This body will man crossings into Gaza, naval approaches and “perimeter zones” in coordination with Israel and Egypt.&nbsp;</p> <figure class=\"media-block\"> <div class=\"group-inner\"> <div alt=\"The hierarchical structure of a proposed Gaza transitional authority, included in a leaked draft plan (Haaretz)\" class=\"embedded-entity\"> <img alt=\"The hierarchical structure of a proposed Gaza transitional authority, included in a leaked draft plan (Haaretz)\" height=\"1662\" src=\"https://www.middleeasteye.net/sites/default/files/gita-structure-info.jpeg\" width=\"1500\" /> </div> <figcaption>The hierarchical structure of a proposed Gaza transitional authority, included in a leaked draft plan (Haaretz)</figcaption> </div> </figure> <p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p> <p><span><img alt=\"alt\" height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p> <p>It will also run “targeted operations to prevent the resurgence of armed groups”.</p> <p>There is no mention of Hamas in the entire document.</p> <p>Directly underneath the board and the chairman will be a number of bodies and structures - none of which appear to be directly Palestinian-run - including an investment and economic development authority and an “executive secretariat”.</p> <p>The latter will coordinate daily operations, including digital creating systems to identify Palestinians in Gaza and “digital platforms for licensing and permits”.</p> <p>Below that layer are several officials overseeing humanitarian work, reconstruction, legislative and legal issues, and security, as well as a coordinator with the Palestinian Authority (PA).</p> <p>It is below this, at the very bottom of the chart, where we see named Palestinian involvement: the “Palestinian Executive Authority”.</p> <h3>Palestinian Executive Authority, with little authority</h3> <p>Despite the name, the Palestinian Executive Authority, at the bottom of the hierarchy, has little to no independent authority.&nbsp;</p> <p>It is separate from the PA, which administers parts of the occupied West Bank.</p> <p>It would be made up of technocratic ministries that administer health, education, water supply and energy, labour market policies, housing, local criminal justice and welfare, among a few other policy areas.&nbsp;</p> <p>It would be headed up by a “Palestinian Chief Executive Officer”, appointed by the international board.&nbsp;</p> <div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/opinion/recognition-palestine-repeat-wests-oslo-peace-fraud\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/British%20Prime%20Minister%20Keir%20Starmer%20and%20French%20President%20Emmanuel%20Macron%20on%20August%2018%2C%202025%20in%20Washington-afp.jpg.webp?itok=Jr-vq88W\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">Recognition of Palestine is a repeat of the West’s Oslo 'peace' fraud</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/recognition-palestine-repeat-wests-oslo-peace-fraud\">Read More »</a> </div> <p>It’s notable that the language used for all roles throughout the document, like board, chairman and CEO, reflects a business structure rather than a country or territory.&nbsp;</p> <p>The Palestinian CEO will lead the process of identifying “directors” (not ministers) to head up the various departments like health, education, infrastructure and planning.&nbsp;</p> <p>The directors will need to “meet standards of technical competence, integrity, and neutrality”.&nbsp;</p> <p>The international board of billionaires and businesspeople will have the final say on appointments “to safeguard institutional legitimacy and independence”.&nbsp;</p> <p>“All department heads are subject to performance review and can be dismissed or replaced in accordance with transitional governance procedures,” the document notes.&nbsp;</p> <p>An Israeli source told Haaretz that the Palestinian Executive Authority would be completely subordinate to the board and have no independent authority.&nbsp;</p> <p>As such, it would be far weaker than the technocratic administration set out in a joint Arab plan led by Egypt earlier this year.&nbsp;</p> <p>Below the Palestinian Executive Authority are a number of municipal roles related to the running of local public services and utilities.&nbsp;</p> <p>“All mayors and senior municipal administrators are nominated by the Palestinian Executive Authority and formally appointed by the GITA International Board,” the plan states.&nbsp;</p> <p>Once again, it is also spelled out that any Palestinian appointees to such roles “must meet strict standards of political neutrality”.&nbsp;</p> <p>It is not spelled out whether the likes of Aryeh Lightstone, the pro-Israel former adviser named in the document as a potential board member, is considered “politically neutral”.</p> <h3>International law</h3> <p>There are various judicial and legal arms to the authority, too.&nbsp;</p> <p>That includes a legislative and legal supervisor who, among other things, would ensure that the transitional authority was operating in a manner “consistent with international law”.&nbsp;</p> <p>Given how closely this authority states that it will work with Israel, which has been breaching international law in the West Bank and Gaza for over seven decades, it will have its work cut out.&nbsp;</p> <p>There will also be a “judicial board” to oversee due process, legal compliance and justice sector reforms.&nbsp;</p> <p>The board will be “chaired by a reputable Arab jurist, preferably Palestinian”.&nbsp;</p> <p>Interestingly, one of its roles will include legally protecting the “right to return” for any Palestinian in Gaza who decides to voluntarily leave their home.&nbsp;</p> <p>“GITA does not facilitate or endorse population relocation but ensures that all voluntary movement is conducted in accordance with international law and rights protections,” the plan states.&nbsp;</p> <p>Palestinians will likely be sceptical of any such promises, particularly from an authority that will have Israeli backing.&nbsp;</p> <p>During <a href=\"https://www.middleeasteye.net/news/nakba-palestine-catastrophe-explained\">the Nakba</a> in 1948, when 750,000 Palestinians were forced from their homes in what is now Israel, many thought they would be gone for just days. Over 77 years later, they still have not been allowed to return.&nbsp;</p> <p>The draft plan mentions that Gita will work “in close consultation” with the PA, with a view to eventually handing management over to it.&nbsp;</p> <p>It doesn’t set out a timetable for when this will happen.&nbsp;</p> </div> <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/israel-genocide-gaza\" hreflang=\"en\">Israel's genocide in Gaza</a></div> <div class=\"field field-field-coauthor-location\"> <div> </div> <div> </div> <div> </div> <div> </div> </div> <div class=\"field field-field-article-location\"> </div> <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div> <div class=\"field field-field-post-date-override\"> <div>Post Date Override</div> <div>0</div> </div> <div class=\"field field-field-update-date-override\"> <div>Update Date</div> <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time> </div> </div> <div class=\"field field-field-update-date-check\"> <div>Update Date Override</div> <div>0</div> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 16:19:25 +0100",
+    "title": "Islamic Jihad leader rejects Trump's Gaza plan",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/islamic-jihad-leader-rejects-trumps-gaza-plan",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/islamic-jihad-leader-rejects-trumps-gaza-plan\" rel=\"bookmark\"> <span class=\"field field-title\">Islamic Jihad leader rejects Trump's Gaza plan</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>&nbsp;The Secretary-General of the Islamic Jihad Movement, Ziyad Al-Nakhalah, has denounced US President Donald Trump's plan to end Israel's genocide in Gaza.</p> <p>Nakhalah told Al-Araby news that Trump's plan was was an American-Israeli agreement and a full expression of Israel's position.&nbsp;</p> <p>\"Israel is trying to impose through the United States what it was unable to achieve through war,\" he added.&nbsp;</p> <p>Islamic Jihad, earlier issued a statement condemning Trump's plan.&nbsp;</p> </div> </div> </article>",
+    "published": "Mon, 29 Sep 2025 23:21:50 +0100",
     "country": "Israël/Palestine",
-    "key": "6b940b24bba3e829e8208618ef72b292"
+    "key": "9320d4d3431aa798637d0c6bb24cfc2d"
   },
   {
-    "title": "Netanyahu arrives in Washington for meeting with Trump",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-arrives-washington-dc-meeting-trump",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-arrives-washington-dc-meeting-trump\" rel=\"bookmark\"> <span class=\"field field-title\">Netanyahu arrives in Washington for meeting with Trump</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli Prime Minister Benjamin Netanyahu has arrived in Washington for a meeting with US President Donald Trump.</p> <p>The pair are set to discuss Trump's 21-point Gaza peace plan. White House press secretary Karoline Leavitt told Fox news earlier that Israel and Hamas are \"very close\" to securing a deal.</p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 16:02:47 +0100",
+    "title": "EU chief welcomes Trump Gaza plan",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-chief-welcomes-trump-gaza-plan",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/eu-chief-welcomes-trump-gaza-plan\" rel=\"bookmark\"> <span class=\"field field-title\">EU chief welcomes Trump Gaza plan</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"> <p>European Union chief Antonio Costa on Monday urged all parties to \"seize this moment to give peace a genuine chance\" after US President Donald Trump announced his plan to end Israel's genocide in Gaza.</p> <p>\"I welcome President (Trump's) plan to end the war in&nbsp;Gaza&nbsp;and I am encouraged by Prime Minister (Benjamin) Netanyahu's positive response,\" Costa said on X.</p> <p>\"The situation in&nbsp;Gaza&nbsp;is intolerable. Hostilities must end, and all hostages must be released immediately,\" he added.</p> </div> </div> </article>",
+    "published": "Mon, 29 Sep 2025 23:04:26 +0100",
     "country": "Israël/Palestine",
-    "key": "5ebfcd394922aa00b64503e915fcb484"
+    "key": "47249ffa01312af4fe0b310d1abbcceb"
   },
   {
-    "title": "Labour Party conference: Will Palestinians get a mention in Starmer’s speech?",
-    "link": "https://www.middleeasteye.net/opinion/labour-party-conference-will-palestinians-get-mention-starmers-speech",
-    "summary": "<article class=\"opinion default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/opinion/labour-party-conference-will-palestinians-get-mention-starmers-speech\" rel=\"bookmark\"> <span class=\"field field-title\">Labour Party conference: Will Palestinians get a mention in Starmer’s speech?</span> </a> </h2> <footer> <div class=\"author\"> Submitted by <span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/jeremy-corbyn\" lang=\"lang\" title=\"View user profile.\">Jeremy Corbyn</a></span> on <span class=\"field field-created\"><time datetime=\"2025-09-29T10:15:43+01:00\" title=\"29 September 2025 10:15 BST\">Mon, 09/29/2025 - 10:15</time> </span> </div> </footer> <div class=\"content\"> <div class=\"field field-field-subhead\">The legacy of Keir Starmer's government will be its complicity in one of the greatest crimes against humanity of our times</div> <div class=\"field field-field-main-image\"> <source height=\"788\" type=\"image/webp\" width=\"1400\" /> <img alt=\"alt\" height=\"788\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/An%20image%20of%20Britain%27s%20Prime%20Minister%20Keir%20Starmer%20is%20pictured%20on%20promotional%20material%20on%20the%20first%20day%20of%20the%20annual%20Labour%20Party%20conference%20in%20Liverpool%2C%20north-west%20England%2C%20on%20September%2028%2C%202025.-afp.jpg.jpg?itok=3vyNrljw\" width=\"1400\" /> </div> <div class=\"field field-field-cutline\">An image of Britain's Prime Minister Keir Starmer is pictured on promotional material on the first day of the annual Labour Party conference in Liverpool, north-west England, on 28 September 2025 (AFP)</div> <div class=\"field field-field-wide-photo-video\">On</div> <div class=\"field field-body clearfix\"><p style=\"line-height: 1.38;\">This week is <a href=\"https://www.middleeasteye.net/news/labour-vote-full-israel-arms-ban-party-conference\">the Labour Party conference</a>. I have sent my apologies. I’ll be in <a href=\"https://www.middleeasteye.net/tags/south-africa-1211294169\">South Africa</a> for a <a href=\"https://www.middleeasteye.net/countries/palestine\">Palestine</a> Solidarity Tour, alongside <a href=\"https://www.facebook.com/reel/750728504590842\">Mustafa Barghouti</a>, the leader and founder of the Palestinian National Initiative.</p> <p style=\"line-height: 1.38;\">It was South Africa that <a href=\"https://www.middleeasteye.net/explainers/israels-genocide-gaza-whatever-happened-south-africas-case-icj\">launched </a>a case against<a href=\"https://www.middleeasteye.net/countries/israel\"> Israel</a> at the International Court of Justrice (ICJ), accusing Israel of genocide.&nbsp;</p> <p style=\"line-height: 1.38;\">I had the honour of <a href=\"https://www.youtube.com/watch?v=njI4XvY2Fmg\">attending</a> that case. It was a momentous display of international solidarity from a people who know what it’s like to endure - and dismantle - apartheid.</p> <p style=\"line-height: 1.38;\">At the time of the speech of Keir Starmer, the British prime minister, I will be at the Nelson Mandela Foundation in Johannesburg.</p> <p style=\"line-height: 1.38;\">Following the news of a ceasefire deal in Gaza last January, the foundation <a href=\"https://www.nelsonmandela.org/news/entry/nelson-mandela-foundation-statement-regarding-the-gaza-ceasefire-deal\">posted</a> on its website that: \"There must be an acknowledgement of – and accountability for – what Palestinians have endured since late 2023.\"</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <h3 style=\"line-height: 1.38;\">The Gaza Tribunal&nbsp;</h3> <p>During my transit to South Africa, I continued work on our report, following <a href=\"https://www.middleeasteye.net/opinion/amid-fragile-ceasefire-gaza-tribunal-more-crucial-than-ever\">the Gaza Tribunal</a> we <a href=\"https://www.facebook.com/MiddleEastEye/videos/jeremy-corbyn-investigates-british-complicity-in-israeli-war-crimes-in-public-tr/829343003084357/\">hosted</a> earlier this month.</p> <p>Our tribunal was a two-day inquiry into <a href=\"https://www.middleeasteye.net/countries/uk\">Britain</a>’s role in Israeli war crimes in Gaza.</p> <div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-text align-right\"> <div class=\"mee-readmore-description\">How UK bureaucracy enables Israel's genocide</div> <div class=\"mee-readmore-author\">Katie Fallon</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/uk-bureaucracy-enables-israels-genocide-how\">Read More »</a> </div> <p>We heard from a range of survivors, witnesses, as well as a range of international law experts, lawyers and whistleblowers.</p> <p>That included Dr&nbsp;<a href=\"https://www.middleeasteye.net/users/professor-nick-maynard\">Nick Maynard </a>and Dr&nbsp;<a href=\"https://www.youtube.com/watch?v=Ewx9Qkpv86I\">Victoria Rose</a>, who gave <a href=\"https://www.middleeasteye.net/video/war-children-doctor-tells-harrowing-experience-gaza-victoria-rose\">harrowing testimonies</a> of their experiences working in hospitals in Gaza.</p> <p>They recalled the haunting screams of children, whose limbs were amputated without anaesthetic.&nbsp;</p> <p>Perhaps the most damning indictment of British complicity was from<a href=\"https://www.middleeasteye.net/news/ex-official-was-ordered-make-uk-arms-report-look-less-bad-gaza-tribunal-hears\"> Mark Smith</a>, a British Foreign Office official who resigned in protest over continued arms sales to Israel.&nbsp;</p> <p>He described how he was <a href=\"https://www.middleeasteye.net/news/ex-official-was-ordered-make-uk-arms-report-look-less-bad-gaza-tribunal-hears\">routinely asked</a> to amend his reports on the legality of arms exports so they \"sounded less bad\".</p> <h3>Inquiry - take two</h3> <p>Earlier this year I tried to<a href=\"https://www.middleeasteye.net/news/jeremy-corbyn-uk-government-israel-gaza-block-truth\"> present a Bill</a> to Parliament for an independent, <a href=\"https://www.theguardian.com/uk-news/2016/jul/06/iraq-inquiry-key-points-from-the-chilcot-report\">Chilcot-style </a>public inquiry into Britain’s support for&nbsp;<a href=\"https://www.middleeasteye.net/countries/israel\" target=\"_blank\">Israeli</a>&nbsp;military operations in Gaza, but it was blocked by the government.</p> <blockquote> <p>Just like Iraq, the UK government is doing everything it can to protect itself from scrutiny. Just like Iraq, it will not succeed</p> </blockquote> <p>The government’s official response<a href=\"https://www.facebook.com/JeremyCorbynMP/posts/the-government-says-there-is-no-need-for-an-inquiry-into-british-complicity-in-i/1325382805619917/\"> states</a> that \"there is no need for an inquiry\" and \"such an inquiry would be unnecessary as there is no confusion about UK military operations in Gaza\".</p> <p>Once we have finalised our Tribunal Report, we will be presenting it to the government. We will, once again, be demanding an official, public inquiry into British complicity.</p> <p>It is worth noting that we held the Tribunal at Church House. It was here that I made an apology on behalf of the Labour Party for its disastrous decision to invade <a href=\"https://www.middleeasteye.net/countries/iraq\">Iraq</a>.</p> <p>Unfortunately, this was not the last time a Labour prime minister has appointed himself the messiah of the free world.</p> <p>Today, history is repeating itself. Just like Iraq, the government is doing everything it can to protect itself from scrutiny. Just like Iraq, it will not succeed in its attempts to hide the truth.&nbsp;</p> <h3>A reckoning is coming</h3> <p>Earlier this month, the UN Independent International Commission of Inquiry <a href=\"https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza\">confirmed</a> that Israel has committed <a href=\"https://www.middleeasteye.net/topics/israel-genocide-gaza\">genocide in Gaza</a>. The UN report has significant implications for British ministers and officials.</p> <div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/opinion/those-who-still-deny-gaza-genocide-are-complicit-israels-atrocities\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/A%20group%20of%20activists%20hold%20placards%20during%20a%20protest%20that%20the%20%2522Artists%20with%20Palestine%2522%20platform%20have%20organized%20in%20Madrid%20on%2015%20September%2C%202025%20%28Reuters%29.jpg.webp?itok=xEnP_uDa\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">Those who still deny the Gaza genocide are complicit in Israel's atrocities&nbsp;</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/those-who-still-deny-gaza-genocide-are-complicit-israels-atrocities\">Read More »</a> </div> <p>Time and time again, we have reminded the government of its legal and moral obligations to prevent genocide. Time and time again, our calls have been met with evasion, obfuscation and denial.</p> <p>To this day, we still do not know <a href=\"https://www.declassifieduk.org/70-questions-the-uk-government-must-answer-about-gaza/\">what legal advice</a> the government has received on an assessment of genocide, or whether that advice will be made public.</p> <p>No one can pretend they did not know what was happening. Today, some politicians have finally started to backtrack.</p> <p>We have noticed their change in rhetoric, but we will never forget their moral cowardice when it mattered the most.</p> <p>Today, schoolchildren are taught about history’s worst crimes against humanity. In the future, our history books will shame those who enabled one of the greatest crimes of our time.</p> <p>This government’s legacy will be its complicity in one of the greatest crimes against humanity of the century.&nbsp;</p> <h3>A real political choice</h3> <p>I need not watch the prime minister’s speech to know what he will say: <a href=\"https://www.middleeasteye.net/opinion/uk-starmer-all-guns-no-butter-policy-will-cost-him-dearly\">defence</a>, defence, defence.</p> <p>The government has not been generous to<a href=\"https://www.instagram.com/reel/DPEdghViJot/\"> children in poverty </a>or <a href=\"https://www.theguardian.com/commentisfree/2025/jul/07/disability-cuts-educational-rights-special-needs-children-parents\">the disabled</a>. But there is one area where the government has been very generous indeed. That area is <a href=\"https://www.middleeasteye.net/opinion/wages-not-weapons-uk-defence-spending-soars-labour-movement-takes-stand\">arms spending</a>: new nuclear weapons, more nuclear-powered submarines, and more F35 planes from the USA.</p> <div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-text align-right\"> <div class=\"mee-readmore-description\">Recognition of Palestine is a repeat of the West’s Oslo 'peace' fraud</div> <div class=\"mee-readmore-author\">Jonathan Cook</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/recognition-palestine-repeat-wests-oslo-peace-fraud\">Read More »</a> </div> <p>The government could have pursued a foreign policy that defends human rights and brings about peace.</p> <p>Instead, as images of starving children circulate around the world, our government has ensured it will be remembered for the human suffering it has refused to alleviate.&nbsp;</p> <p>It is abundantly clear that people are yearning for something different; for a world that cares for each other and cares for all.</p> <p>That is why we have launched a new kind of political party. One that harnesses the collective call for peace. One that believes in the equal value of all human life. One that will always stand with the people of Palestine.&nbsp;</p> <p>Our founding conference will be very different from Labour's. It will vow to stop, rather than deny, the genocide in Gaza. It will empower members to shape the future of our party and our country. And it will kickstart a mass, democratic movement that will finally offer people hope in a more equal, sustainable and peaceful world.&nbsp;</p> <p>If you want to be part of this, you just need to become a member of&nbsp;<a href=\"http://yourparty.uk/\" target=\"_blank\">yourparty.uk</a>. This is how you can take Your Party into your hands. This is how you can help build a real alternative. This is how you can bring something rare back into politics: hope.&nbsp;</p> <p>For too long, people have been denied a real political choice. Not anymore.&nbsp;</p> <p><em>The views expressed in this article belong to the author and do not necessarily reflect the editorial policy of Middle East Eye.</em>&nbsp;</p> </div> <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/gaza-extermination\" hreflang=\"en\">Gaza extermination</a></div> <div class=\"field field-field-landing-title\">Starmer’s Labour has enabled genocide. Now a new party of peace will fight injustice</div> <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/opinion/all\" hreflang=\"en\">Opinion</a></div> <div class=\"field field-field-post-date-override\"> <div>Post Date Override</div> <div>0</div> </div> <div class=\"field field-field-update-date-override\"> <div>Update Date</div> <div><time datetime=\"2020-05-04T21:29:16+01:00\">Mon, 05/04/2020 - 21:29</time> </div> </div> <div class=\"field field-field-update-date-check\"> <div>Update Date Override</div> <div>0</div> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 15:39:14 +0100",
+    "title": "Musk attacks ADL, calling it a ‘hate group’ that ‘hates Christians’",
+    "link": "https://www.timesofisrael.com/musk-attacks-adl-calling-it-a-hate-group-that-hates-christians/",
+    "summary": "<p>Billionaire makes accusation in response to post about group's page on 'Christian Identity,' a specific white supremacist theology that portrays Jews as descendants of Satan</p> <p>The post <a href=\"https://www.timesofisrael.com/musk-attacks-adl-calling-it-a-hate-group-that-hates-christians/\">Musk attacks ADL, calling it a &#8216;hate group&#8217; that &#8216;hates Christians&#8217;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/01/AFP__20250120__36UX28A__v2__HighRes__UsPoliticsTrumpInauguration-e1737672697105-1024x640.jpg\" title=\"Musk attacks ADL, calling it a &#8216;hate group&#8217; that &#8216;hates Christians&#8217;\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 08:05:43 +0000",
     "country": "Israël/Palestine",
-    "key": "77afe9dd156b9b9d9b3eadc478535a0d"
+    "key": "a2c4a33074b82aebca9e662dfe700f1e"
   },
   {
-    "title": "Israeli attack on Gaza City kills two",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-gaza-city-kills-two",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-gaza-city-kills-two\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli attack on Gaza City kills two</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>An Israeli attack on Gaza City has killed at least two people, Al Jazeera is reporting, citing medical sources.</p> <p>According to sources at al-Shifa Hospital, the attack struck al-Thalathini Street in central Gaza.</p> <p>The Palestinian health ministry in Gaza reported earlier on Monday that at least 50 Palestinians, including five aid seekers, were killed in Israeli attacks across the enclave in the last 24 hours.</p> <p>Most of the victims were killed in attacks on Gaza City, where Israel is escalating its military assault.</p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 15:32:34 +0100",
+    "title": "Likely Houthi attack on Dutch ship wounds 2, forces crew to abandon vessel",
+    "link": "https://www.timesofisrael.com/likely-houthi-attack-on-dutch-ship-wounds-2-forces-crew-to-abandon-vessel/",
+    "summary": "<p>Minervagracht remains ablaze, abandoned in Gulf of Aden as Yemeni group again widens area of attacks; one mariner severely wounded and airlifted for care, second said to be stable</p> <p>The post <a href=\"https://www.timesofisrael.com/likely-houthi-attack-on-dutch-ship-wounds-2-forces-crew-to-abandon-vessel/\">Likely Houthi attack on Dutch ship wounds 2, forces crew to abandon vessel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25273080254616-1024x640.jpg\" title=\"Likely Houthi attack on Dutch ship wounds 2, forces crew to abandon vessel\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 07:54:57 +0000",
     "country": "Israël/Palestine",
-    "key": "122b264014171f18df54d23d559a7510"
+    "key": "5f1635250c270b28eb4f8ae7ab7d47ee"
   },
   {
-    "title": "White House says 'very close' to Gaza peace deal ahead of Netanyahu meeting with Trump",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-very-close-gaza-peace-deal-ahead-netanyahu-meeting",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-very-close-gaza-peace-deal-ahead-netanyahu-meeting\" rel=\"bookmark\"> <span class=\"field field-title\">White House says 'very close' to Gaza peace deal ahead of Netanyahu meeting with Trump</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israel and Hamas are \"very close\" to reaching a Gaza peace deal, White House press secretary Karoline Leavitt told Fox News.</p> <p>Leavitt said President Donald Trump would outline a 21-point peace plan with Israeli Prime Minister Benjamin Netanyahu at the White House on Monday.</p> <p>Also on Monday, Trump is set to speak to leaders in Qatar, who have served as intermediaries with Hamas, she added.</p> <p>\"To reach a reasonable deal for both sides, both sides have to give up a little bit and might leave the table a little bit unhappy, but that is ultimately how we are going to end this conflict,\" she said.</p> <p>The meeting is set to take place at 11am local time (3pm GMT).</p> <p><em>Reporting by Reuters</em></p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 15:12:57 +0100",
+    "title": "‘Today we burn Jews’: Argentine students chant on bus that had Jewish passengers",
+    "link": "https://www.timesofisrael.com/today-we-burn-jews-argentine-students-chant-on-bus-that-had-jewish-passengers/",
+    "summary": "<p>Students from Escuela Humanos, which says it trains 'ambassadors of peace,' seen in video shouting antisemitic slogan as tour coordinator apparently joins in; Milei: 'Reprehensible'</p> <p>The post <a href=\"https://www.timesofisrael.com/today-we-burn-jews-argentine-students-chant-on-bus-that-had-jewish-passengers/\">&#8216;Today we burn Jews&#8217;: Argentine students chant on bus that had Jewish passengers</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/image-1024x640.png\" title=\"&#8216;Today we burn Jews&#8217;: Argentine students chant on bus that had Jewish passengers\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 06:52:36 +0000",
     "country": "Israël/Palestine",
-    "key": "126f89c6e2e84d44729fb97553ca7e97"
+    "key": "e10ec644a800ea4f414321c248e426e8"
   },
   {
-    "title": "UAE urges Netanyahu to accept Trump Gaza plan",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-urges-netanyahu-accept-trump-gaza-plan",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/uae-urges-netanyahu-accept-trump-gaza-plan\" rel=\"bookmark\"> <span class=\"field field-title\">UAE urges Netanyahu to accept Trump Gaza plan</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>The UAE has urged Israeli Prime Minister Benjamin Netanyahu to accept US President Donald Trump's Gaza peace proposal ahead of a meeting between the two on Monday, a delegate told Reuters.</p> <p>According to the delegate, UAE Foreign Minister Sheikh Abdullah bin Zayed also warned Netanyahu in a meeting at the UN General Assembly in New York on Friday to abandon plans to annex the occupied West Bank, saying that it would stop further Israeli normalisation deals with Saudi Arabia and Indonesia.</p> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 14:51:29 +0100",
+    "title": "Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border",
+    "link": "https://www.timesofisrael.com/israeli-man-killed-in-car-chase-with-idf-amid-apparent-smuggling-attempt-on-egypt-border/",
+    "summary": "<p>Car carrying several suspected smugglers crashes into army vehicle during chase; army believes they were set to use drones to bring contraband into Israel</p> <p>The post <a href=\"https://www.timesofisrael.com/israeli-man-killed-in-car-chase-with-idf-amid-apparent-smuggling-attempt-on-egypt-border/\">Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/01/DSC08736-1024x640.jpg\" title=\"Israeli man killed in car chase with IDF amid apparent smuggling attempt on Egypt border\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 06:26:59 +0000",
     "country": "Israël/Palestine",
-    "key": "bfabb665a12a39ff0936190612018042"
+    "key": "d85d28013c345af028864b52fd2e2f5e"
   },
   {
-    "title": "UK Middle East minister appears to accept 'risk of genocide' in Gaza",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-middle-east-minister-appears-accept-risk-genocide-gaza",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/uk-middle-east-minister-appears-accept-risk-genocide-gaza\" rel=\"bookmark\"> <span class=\"field field-title\">UK Middle East minister appears to accept 'risk of genocide' in Gaza</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p><a href=\"https://www.middleeasteye.net/countries/uk\" target=\"_blank\">Britain's&nbsp;</a>Middle East minister has apparently accepted that there is a \"risk\" of genocide in&nbsp;<a href=\"https://www.middleeasteye.net/topics/israel-genocide-gaza\" target=\"_blank\">Gaza</a>, but has been accused of misleading Labour Party members over the contents of a major UN report.</p> <p>On Sunday, Hamish Falconer spoke during the Labour Party's annual conference in Liverpool in favour of a motion broadly supportive of government policy on Gaza, which Labour delegates will vote on on Monday evening.</p> <p>The motion, seen by Middle East Eye, notes that on 16 September, the \"United Nations Independent Commission of Inquiry found a risk of genocide against&nbsp;<a href=\"https://www.middleeasteye.net/countries/palestine\" target=\"_blank\">Palestinians&nbsp;</a>in Gaza\".</p> <p>In fact, the UN report went further, and concluded that&nbsp;<a href=\"https://www.middleeasteye.net/countries/israel\" target=\"_blank\">Israel&nbsp;</a>has committed genocide and is still committing genocide in Gaza.</p> <p>Despite this inaccuracy, Falconer's support for the motion citing the UN report indicates an acceptance that Israel has committed human rights abuses in Gaza that justify the designation of \"genocide\".</p> <h3><a href=\"https://www.middleeasteye.net/news/uks-middle-east-minister-appears-accept-risk-genocide-gaza\">Read more:&nbsp;UK Middle East minister appears to accept 'risk of genocide' in Gaza</a></h3> <div alt=\"Hamish McDonald\" class=\"embedded-entity\"> <img alt=\"Hamish McDonald\" height=\"787\" src=\"https://www.middleeasteye.net/sites/default/files/images-story/London-Hamish-McDonald-Palestinian-embassy-22-September-2025-afp.jpg\" width=\"1400\" /> </div> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 14:35:41 +0100",
+    "title": "Netanyahu secures key edits to Trump plan to slow and limit Israel’s withdrawal from Gaza",
+    "link": "https://www.timesofisrael.com/netanyahu-secures-key-edits-to-trump-plan-to-slow-and-limit-israels-withdrawal-from-gaza/",
+    "summary": "<p>US proposal for ending war says IDF will only pull back when specific benchmarks met and buffer zone to be established, after earlier version was more vague on Israel's red lines</p> <p>The post <a href=\"https://www.timesofisrael.com/netanyahu-secures-key-edits-to-trump-plan-to-slow-and-limit-israels-withdrawal-from-gaza/\">Netanyahu secures key edits to Trump plan to slow and limit Israel&#8217;s withdrawal from Gaza</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25272727284472-1024x640.jpg\" title=\"Netanyahu secures key edits to Trump plan to slow and limit Israel&#8217;s withdrawal from Gaza\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 05:32:00 +0000",
     "country": "Israël/Palestine",
-    "key": "5ba1cb8657406b3883fdd0c57eee680b"
+    "key": "4992ab02d77fb03526a51ddb15286a48"
   },
   {
-    "title": "Israeli attack in southern Lebanon kills one",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-southern-lebanon-kills-one",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-southern-lebanon-kills-one\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli attack in southern Lebanon kills one</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>An Israeli drone strike in southern&nbsp; Lebanon has killed one person, the country's National News Agency is reporting.</p> <p>According to the report, the attack killed the driver of an excavator in the Shamisyah area of Shomor in the Bekaa Valley.</p> <p>Footage circulating on social media appeared to show emergency teams carrying the victim away on a stretcher in the attack's aftermath.</p> <p>Additionally, the agency reported that two more people were wounded in a separate Israeli attack on the main road in the southern town of Aitaroun.</p> <blockquote class=\"twitter-tweet\"> <p dir=\"rtl\" lang=\"ar\">بالفيديو<br /> <br /> مشاهد من مكان الغارة على منطقة \"الشمسية\" في سحمر – البقاع الغربي، والتي استهدفت حفّارة وأدّت إلى إصابة سائقها <a href=\"https://t.co/McyK27HnLJ\">pic.twitter.com/McyK27HnLJ</a></p> — Annahar النهار (@Annahar) <a href=\"https://twitter.com/Annahar/status/1972627669654393301?ref_src=twsrc%5Etfw\">September 29, 2025</a></blockquote> </div> </div> </article>",
-    "published": "Mon, 29 Sep 2025 14:32:52 +0100",
+    "title": "Trump’s unique diplomacy offers Netanyahu a path to goals in Gaza and beyond",
+    "link": "https://www.timesofisrael.com/trumps-unique-diplomacy-offers-netanyahu-a-path-to-goals-in-gaza-and-beyond/",
+    "summary": "<p>Reshuffling conflict after increasingly rough diplomatic stretch for Israel, US president harnesses broad support for plan to free hostages, disarm Hamas, and transform Middle East</p> <p>The post <a href=\"https://www.timesofisrael.com/trumps-unique-diplomacy-offers-netanyahu-a-path-to-goals-in-gaza-and-beyond/\">Trump&#8217;s unique diplomacy offers Netanyahu a path to goals in Gaza and beyond</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250929__77676Q9__v2__HighRes__DonaldTrumpMeetsIsraeliPmBenjaminNetanyahu-e1759160097771-1024x640.jpg\" title=\"Trump&#8217;s unique diplomacy offers Netanyahu a path to goals in Gaza and beyond\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 04:59:24 +0000",
     "country": "Israël/Palestine",
-    "key": "6839e85607c335e3a734dcfa408df566"
+    "key": "22c523c0e1276bac4b475f147adff69b"
   },
   {
-    "title": "Police officer questioned for alleged involvement in May Golan corruption case",
-    "link": "https://www.timesofisrael.com/police-officer-questioned-for-alleged-involvement-in-may-golan-corruption-case/",
-    "summary": "<p>Officer said to be relative of key suspect in alleged financial crimes surrounding social equality minister, whose top aide is reportedly to be indicted in separate drug case</p> <p>The post <a href=\"https://www.timesofisrael.com/police-officer-questioned-for-alleged-involvement-in-may-golan-corruption-case/\">Police officer questioned for alleged involvement in May Golan corruption case</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/F250915AVS0010-e1759159220472-1024x640.jpg\" title=\"Police officer questioned for alleged involvement in May Golan corruption case\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 15:50:54 +0000",
+    "title": "Thessaloniki’s Armenian minority and Jewish past are bound by a shared history of genocide",
+    "link": "https://www.timesofisrael.com/thessalonikis-armenian-minority-and-jewish-past-are-bound-by-a-shared-history-of-genocide/",
+    "summary": "<p>Greek port city with longstanding Armenian community was mostly Jewish before the Holocaust; Armenians emphasize marking 1915 genocide, which Netanyahu recently recognized</p> <p>The post <a href=\"https://www.timesofisrael.com/thessalonikis-armenian-minority-and-jewish-past-are-bound-by-a-shared-history-of-genocide/\">Thessaloniki’s Armenian minority and Jewish past are bound by a shared history of genocide</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/Akis-Dagazian92225-copy-e1758783856594-1024x640.jpg\" title=\"Thessaloniki’s Armenian minority and Jewish past are bound by a shared history of genocide\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 04:49:21 +0000",
     "country": "Israël/Palestine",
-    "key": "e64968d3572cd4fd61e03bbeab8b179c"
+    "key": "5e7cbd397236f888d372d632fc4c80a1"
   },
   {
-    "title": "Ship ablaze after being hit with projectile in Gulf of Aden, in likely Houthi attack",
-    "link": "https://www.timesofisrael.com/ship-ablaze-after-being-hit-with-projectile-in-gulf-of-aden-in-likely-houthi-attack/",
-    "summary": "<p>Yemeni media reports possible ballistic missile launch by Iran-backed rebels; Houthis often wait to take credit for attacks</p> <p>The post <a href=\"https://www.timesofisrael.com/ship-ablaze-after-being-hit-with-projectile-in-gulf-of-aden-in-likely-houthi-attack/\">Ship ablaze after being hit with projectile in Gulf of Aden, in likely Houthi attack</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250926__76WD2KE__v1__HighRes__YemenIsraelPalestinianConflict-1024x640.jpg\" title=\"Ship ablaze after being hit with projectile in Gulf of Aden, in likely Houthi attack\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 15:33:42 +0000",
+    "title": "Fortnite removes ‘Peacemaker’ dance ’emote’ that users said resembled a swastika",
+    "link": "https://www.timesofisrael.com/fortnite-removes-peacemaker-dance-emote-that-users-said-resembled-a-swastika/",
+    "summary": "<p>'Peaceful hips emote' in hit video game is linked to character in television series 'Peacemaker' who finds alternate reality version of the US where the Nazis won World War II</p> <p>The post <a href=\"https://www.timesofisrael.com/fortnite-removes-peacemaker-dance-emote-that-users-said-resembled-a-swastika/\">Fortnite removes ‘Peacemaker’ dance ’emote’ that users said resembled a swastika</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/fortnite-1024x640.jpg\" title=\"Fortnite removes ‘Peacemaker’ dance ’emote’ that users said resembled a swastika\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 03:38:31 +0000",
+    "country": "Israël/Palestine",
+    "key": "35d722f933e1670403d48f9e07a62c21"
+  },
+  {
+    "title": "Kibbutz Gevim left exposed on Oct. 7; residents’ defense averted massacre — probe",
+    "link": "https://www.timesofisrael.com/kibbutz-gevim-left-exposed-on-oct-7-residents-defense-averted-massacre-probe/",
+    "summary": "<p>Military investigation finds local security squad held off Hamas terrorists for hours until reinforcements arrived, preventing gunmen from breaching the community's perimeter</p> <p>The post <a href=\"https://www.timesofisrael.com/kibbutz-gevim-left-exposed-on-oct-7-residents-defense-averted-massacre-probe/\">Kibbutz Gevim left exposed on Oct. 7; residents’ defense averted massacre — probe</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/Screenshot-2025-09-29-125804-1024x640.jpg\" title=\"Kibbutz Gevim left exposed on Oct. 7; residents’ defense averted massacre — probe\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 03:00:52 +0000",
+    "country": "Israël/Palestine",
+    "key": "381618152d1c2d7875b78999525fb133"
+  },
+  {
+    "title": "London music festival cancels Israeli DJ despite his public pro-Palestinian advocacy",
+    "link": "https://www.timesofisrael.com/london-music-festival-cancels-israeli-dj-after-outcry-from-ravers-for-palestine-group/",
+    "summary": "<p>Move comes after Anti-Israel Ravers for Palestine group accused DJ Roi Perez of embodying 'the colonial narrative of a benevolent, queer-friendly liberal Zionism'</p> <p>The post <a href=\"https://www.timesofisrael.com/london-music-festival-cancels-israeli-dj-after-outcry-from-ravers-for-palestine-group/\">London music festival cancels Israeli DJ despite his public pro-Palestinian advocacy</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/perez1-1024x640.jpg\" title=\"London music festival cancels Israeli DJ despite his public pro-Palestinian advocacy\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 02:46:17 +0000",
+    "country": "Israël/Palestine",
+    "key": "c18c11c0d6255d1ba0c791b0373333f0"
+  },
+  {
+    "title": "After two years of war, US public backs Palestinians over Israel for first time — poll",
+    "link": "https://www.timesofisrael.com/after-two-years-of-war-us-public-backs-palestinians-over-israel-for-first-time-poll/",
+    "summary": "<p>Support for Jewish state has plummeted after nearly two years of war against Hamas in Gaza, with younger voters and Democrats most hostile, survey says</p> <p>The post <a href=\"https://www.timesofisrael.com/after-two-years-of-war-us-public-backs-palestinians-over-israel-for-first-time-poll/\">After two years of war, US public backs Palestinians over Israel for first time &#8212; poll</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250926__76TT6TN__v1__HighRes__UsUnDiplomacyUngaIsraelPalestinianConflictProte-1024x640.jpg\" title=\"After two years of war, US public backs Palestinians over Israel for first time &#8212; poll\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 02:31:06 +0000",
+    "country": "Israël/Palestine",
+    "key": "5acb4cdb03a3fb9d18b8d299427c74f5"
+  },
+  {
+    "title": "Key right-wing Netanyahu ally Smotrich pans Gaza plan, but indicates he may accept it",
+    "link": "https://www.timesofisrael.com/liveblog-september-30-2025/",
+    "summary": "<p>Shares on Tel Aviv exchange jump on optimism for war to end * Hamas studying proposal but yet to officially respond * Israel reportedly willing to pay compensation to family of Qatari security guard killed in Doha strike</p> <p>The post <a href=\"https://www.timesofisrael.com/liveblog-september-30-2025/\">Key right-wing Netanyahu ally Smotrich pans Gaza plan, but indicates he may accept it</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/F250929OBH105-1-e1759218228456-1024x640.jpg\" title=\"Key right-wing Netanyahu ally Smotrich pans Gaza plan, but indicates he may accept it\" width=\"160\" /></figure>",
+    "published": "Tue, 30 Sep 2025 02:05:06 +0000",
+    "country": "Israël/Palestine",
+    "key": "0034db25e614bf8bcf9591890cfea393"
+  },
+  {
+    "title": "Diplomatic solution is only way to resolve Iran’s nuclear issue: Foreign Minister Araghchi",
+    "link": "https://en.irna.ir/news/85953729/Diplomatic-solution-is-only-way-to-resolve-Iran-s-nuclear-issue",
+    "summary": "Araghchi told American news network CNN that the US-Israeli military action against Iran’s nuclear sites and the E3’s push for reimposing UN sanctions against Iran have only complicated the situation.",
+    "published": "Tue, 30 Sep 2025 08:06:04 GMT",
     "country": "Iran",
-    "key": "eab7203baaf3ba6a1eed7ad00373e03f"
+    "key": "d4892a79ffe12ef139eff40143883a3d"
   },
   {
-    "title": "Gallant calls on Likud to reject path of Ben Gvir as party meets to expel him",
-    "link": "https://www.timesofisrael.com/gallant-calls-on-likud-to-reject-path-of-ben-gvir-as-party-meets-to-expel-him/",
-    "summary": "<p>Activists accuse former defense minister of damaging Likud and undermining Netanyahu, but he insists he's fighting for the party</p> <p>The post <a href=\"https://www.timesofisrael.com/gallant-calls-on-likud-to-reject-path-of-ben-gvir-as-party-meets-to-expel-him/\">Gallant calls on Likud to reject path of Ben Gvir as party meets to expel him</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/F250929AVS107-1024x640.jpg\" title=\"Gallant calls on Likud to reject path of Ben Gvir as party meets to expel him\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 15:18:32 +0000",
-    "country": "Israël/Palestine",
-    "key": "852a2a141cac3788d2da98639d68d517"
+    "title": "Araghchi: UNSCR 2231 will expire on October 18",
+    "link": "https://en.irna.ir/photo/85953753/Araghchi-UNSCR-2231-will-expire-on-October-18",
+    "summary": "Foreign Minister Abbas Araghchi has said the United Nations Security Council Resolution 2231 will expire on October 18 and the terminated sanctions cannot be reimposed.",
+    "published": "Tue, 30 Sep 2025 07:48:08 GMT",
+    "country": "Autres",
+    "key": "db9f28a7e260b01b1edad8eccc016641"
   },
   {
-    "title": "‘Alarming’ survey: US college students prefer Palestinians as an ally over Israel",
-    "link": "https://www.timesofisrael.com/alarming-survey-us-college-students-prefer-palestinians-as-an-ally-over-israel/",
-    "summary": "<p>Poll by Yale University's Buckley Institute also finds nearly half of students think it's okay to shout down speakers, and that Cuba's economic model is better than the US's</p> <p>The post <a href=\"https://www.timesofisrael.com/alarming-survey-us-college-students-prefer-palestinians-as-an-ally-over-israel/\">&#8216;Alarming&#8217; survey: US college students prefer Palestinians as an ally over Israel</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/10/AP24120853935798-1024x640.jpg\" title=\"&#8216;Alarming&#8217; survey: US college students prefer Palestinians as an ally over Israel\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 14:29:32 +0000",
-    "country": "Israël/Palestine",
-    "key": "93a4a63ca8dcaf71900b619cca56a3c5"
+    "title": "US excessive demands blocked agreement: Araghchi",
+    "link": "https://en.irna.ir/news/85953671/US-excessive-demands-blocked-agreement-Araghchi",
+    "summary": "Araghchi said that because of the Americans’ excessive demands and the Europeans’ alignment with them, Iran could not reach a settlement with them.",
+    "published": "Tue, 30 Sep 2025 07:45:52 GMT",
+    "country": "Iran",
+    "key": "cfb7fb4ec2b1b997ee9a2af2386f2fb8"
   },
   {
-    "title": "Two rockets fired at Israel from Strip as IDF pushes into Gaza City",
-    "link": "https://www.timesofisrael.com/two-rockets-fired-at-israel-from-strip-as-idf-pushes-into-gaza-city/",
-    "summary": "<p>Projectiles fall short inside Palestinian enclave; Gazan authorities report 18 killed in attacks as Israeli military conducts 140 strikes, destroys Hamas weapons depot</p> <p>The post <a href=\"https://www.timesofisrael.com/two-rockets-fired-at-israel-from-strip-as-idf-pushes-into-gaza-city/\">Two rockets fired at Israel from Strip as IDF pushes into Gaza City</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/bef3f43f-778e-4e9c-ba6b-e84748d66da7_0-1-1024x640.jpg\" title=\"Two rockets fired at Israel from Strip as IDF pushes into Gaza City\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 13:37:18 +0000",
-    "country": "Israël/Palestine",
-    "key": "33c755c3877bcfe007585c875ab44a79"
+    "title": "‘Rostamzad’ musical concert in Tehran",
+    "link": "https://en.irna.ir/photo/85953579/Rostamzad-musical-concert-in-Tehran",
+    "summary": "On the evening of September 29, the National Orchestra of Iran presented a concert at Vahdat Hall titled “Rostamzad”, a composition for string orchestra. The performance unfolded across 17 musical scenes, narrating episodes from the Ferdowsi’s Shahnameh (written between c. 977 and 1010 CE). The storyline begins with the birth of Zal and culminates in the birth of Rostam, the legendary hero of Ferdowsi’s epic. The two-night orchestral event was composed and guest-conducted by Amir Pourkhalaji.",
+    "published": "Tue, 30 Sep 2025 06:08:21 GMT",
+    "country": "Iran",
+    "key": "565155d56f2c1c102a31474dbe4e2519"
   },
   {
-    "title": "84 years after Babyn Yar massacre, names of 1,000 previously unknown victims revealed",
-    "link": "https://www.timesofisrael.com/84-years-after-babyn-yar-massacre-names-of-1000-previously-unknown-victims-revealed/",
-    "summary": "<p>Under the shadow of Russian invasion, researchers scramble to digitize artifacts of Ukrainian Jewish life, providing new insights into the murder of 33,771 Jews in Kyiv in September 1941</p> <p>The post <a href=\"https://www.timesofisrael.com/84-years-after-babyn-yar-massacre-names-of-1000-previously-unknown-victims-revealed/\">84 years after Babyn Yar massacre, names of 1,000 previously unknown victims revealed</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP25027357566538-1-1024x640.jpg\" title=\"84 years after Babyn Yar massacre, names of 1,000 previously unknown victims revealed\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 13:27:37 +0000",
-    "country": "Israël/Palestine",
-    "key": "be04e19641952f9519fe16ab507b07cd"
+    "title": "Araghchi meets Cuban Foreign Minister",
+    "link": "https://en.irna.ir/news/85953429/Araghchi-meets-Cuban-Foreign-Minister",
+    "summary": "Iranian Foreign Minister Abbas Araghchi met with his Cuban counterpart Bruno Rodriguez on Monday local time on the sidelines of the 80th Annual Meeting United Nations General Assembly.",
+    "published": "Mon, 29 Sep 2025 20:42:26 GMT",
+    "country": "Iran",
+    "key": "8671dd4f09590205411f8c5b0353126c"
   },
   {
-    "title": "Turkey saves activists from leaky ship, as Gaza-bound flotilla nears Israeli waters",
-    "link": "https://www.timesofisrael.com/turkey-saves-activists-from-leaky-ship-as-gaza-bound-flotilla-nears-israeli-waters/",
-    "summary": "<p>Red Crescent coordinates evacuation of 12 activists, after malfunction on one of 50 vessels aiming to break blockade on Strip and deliver symbolic humanitarian aid</p> <p>The post <a href=\"https://www.timesofisrael.com/turkey-saves-activists-from-leaky-ship-as-gaza-bound-flotilla-nears-israeli-waters/\">Turkey saves activists from leaky ship, as Gaza-bound flotilla nears Israeli waters</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250926__76WH2ZQ__v1__HighRes__GreeceIsraelPalestinianAidFlotilla-1-1024x640.jpg\" title=\"Turkey saves activists from leaky ship, as Gaza-bound flotilla nears Israeli waters\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 13:12:10 +0000",
-    "country": "Israël/Palestine",
-    "key": "ae3709a13cff14c135d5363168a3b750"
+    "title": "Araghchi meets UN chief in New York",
+    "link": "https://en.irna.ir/news/85953412/Araghchi-meets-UN-chief-in-New-York",
+    "summary": "Iranian Foreign Minister Abbas Araghchi met with Antonio Guterres, Secretary-General of the United Nations, on the sidelines of the 80th Annual Meeting of the UN General Assembly.",
+    "published": "Mon, 29 Sep 2025 20:11:54 GMT",
+    "country": "Iran",
+    "key": "9efa11a5486fae60b9c1ecb0d0f6a76a"
   },
   {
-    "title": "Outgoing general slams IDF for not taking responsibility for failures",
-    "link": "https://www.timesofisrael.com/outgoing-general-slams-idf-for-not-taking-responsibility-for-failures/",
-    "summary": "<p>At handover ceremony, Maj. Gen. Nimrod Aloni says army's 'concept of responsibility has been trampled and desecrated'; Maj. Gen. Dan Goldfus takes over Depth Corps</p> <p>The post <a href=\"https://www.timesofisrael.com/outgoing-general-slams-idf-for-not-taking-responsibility-for-failures/\">Outgoing general slams IDF for not taking responsibility for failures</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/WhatsApp_Image_2025-09-29_at_12.37.45-1024x640.jpeg\" title=\"Outgoing general slams IDF for not taking responsibility for failures\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 13:10:32 +0000",
-    "country": "Israël/Palestine",
-    "key": "fcce0e731171b351252345ba21397e41"
-  },
-  {
-    "title": "With ‘super-Sparta’ speech, Netanyahu snarls a tech sector already entangled by war",
-    "link": "https://www.timesofisrael.com/with-super-sparta-speech-netanyahu-snarls-a-tech-sector-already-entangled-by-war/",
-    "summary": "<p>Saying out loud what many quietly understood, PM's talk of an increasingly isolated economy seen as unhelpful for an industry struggling to navigate effects of global anti-Israel sentiment</p> <p>The post <a href=\"https://www.timesofisrael.com/with-super-sparta-speech-netanyahu-snarls-a-tech-sector-already-entangled-by-war/\">With &#8216;super-Sparta&#8217; speech, Netanyahu snarls a tech sector already entangled by war</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/MixCollage-29-Sep-2025-01-02-PM-6385-1024x640.jpg\" title=\"With &#8216;super-Sparta&#8217; speech, Netanyahu snarls a tech sector already entangled by war\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 12:56:12 +0000",
-    "country": "Israël/Palestine",
-    "key": "8e64bed8e010b9911f95ff668f6c6b0e"
-  },
-  {
-    "title": "Daily Briefing Sept. 29: Day 724 – Gaza City nearly encircled as IDF deepens operations",
-    "link": "https://www.timesofisrael.com/daily-briefing-sept-29-day-724-gaza-city-nearly-encircled-as-idf-deepens-operations/",
-    "summary": "<p>Military correspondent Emanuel Fabian on the Lebanon front a year after Hezbollah head Hassan Nasrallah's assassination, and the undeterred Houthis' latest missile</p> <p>The post <a href=\"https://www.timesofisrael.com/daily-briefing-sept-29-day-724-gaza-city-nearly-encircled-as-idf-deepens-operations/\">Daily Briefing Sept. 29: Day 724 &#8211; Gaza City nearly encircled as IDF deepens operations</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/bef3f43f-778e-4e9c-ba6b-e84748d66da7_0-1-1024x640.jpg\" title=\"Daily Briefing Sept. 29: Day 724 &#8211; Gaza City nearly encircled as IDF deepens operations\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 12:31:42 +0000",
-    "country": "Israël/Palestine",
-    "key": "bf133a81c38813d61c2be2d2c9a57a4e"
-  },
-  {
-    "title": "Palestinian charged with attempted murder with terror motive for Kibbutz Tzuba stabbing",
-    "link": "https://www.timesofisrael.com/palestinian-charged-with-attempted-murder-with-terror-motive-for-kibbutz-tzuba-stabbing/",
-    "summary": "<p>Indictment alleges East Jerusalem resident Muhammed Hassan attacked diners at hotel 'because they were Jews,' and that he said he hoped to be shot by security forces</p> <p>The post <a href=\"https://www.timesofisrael.com/palestinian-charged-with-attempted-murder-with-terror-motive-for-kibbutz-tzuba-stabbing/\">Palestinian charged with attempted murder with terror motive for Kibbutz Tzuba stabbing</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/WhatsApp-Image-2025-09-12-at-14.49.02-e1757679911503-1024x640.jpeg\" title=\"Palestinian charged with attempted murder with terror motive for Kibbutz Tzuba stabbing\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 12:00:03 +0000",
-    "country": "Israël/Palestine",
-    "key": "b8cc488a5f072dcb3a5fce3ab60e9e13"
-  },
-  {
-    "title": "Memory Under Fire: Holocaust Research and Education Continues in Ukraine - Sponsored Content",
-    "link": "https://www.timesofisrael.com/spotlight/memory-under-fire-holocaust-research-and-education-continues-in-ukraine/",
-    "summary": "<p>Even as missiles rain on Kyiv, the Babyn Yar Holocaust Memorial Center restores names of the Holocaust victims, digitizes archives, and defends truth against both bombs and denial.</p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/memory-under-fire-holocaust-research-and-education-continues-in-ukraine/\">Memory Under Fire: Holocaust Research and Education Continues in Ukraine</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/image1-1024x640.png\" title=\"Memory Under Fire: Holocaust Research and Education Continues in Ukraine\" width=\"160\" /></figure>",
-    "published": "Mon, 29 Sep 2025 11:44:24 +0000",
-    "country": "Israël/Palestine",
-    "key": "df5b09e6511cedd5c47e5354491c3ee2"
+    "title": "Pezeshkian: Snapback mechanism is a struggle to legitimize illegal actions by West",
+    "link": "https://en.irna.ir/news/85953349/Pezeshkian-Snapback-mechanism-is-a-struggle-to-legitimize-illegal",
+    "summary": "President Pezeshkian considered the \"snapback\" mechanism an attempt to justify illegal actions by Western countries.",
+    "published": "Mon, 29 Sep 2025 18:59:25 GMT",
+    "country": "Autres",
+    "key": "e201e964dd919ae8c1b079794efdb718"
   },
   {
     "title": "Pezeshkian offers condolences on demise of Ayatollah Sistani’s wife",
@@ -520,203 +576,147 @@
     "key": "7d3dcaca2159524a0e5130f2dcfd9aee"
   },
   {
-    "title": "Exclusive I Iran’s nuclear activities to intensify after sanctions: MP",
-    "link": "https://en.irna.ir/news/85952718/Exclusive-I-Iran-s-nuclear-activities-to-intensify-after-sanctions",
-    "summary": "An Iranian lawmaker emphasized that the Islamic Republic will continue its peaceful nuclear activities stronger than before, following the activation of the snapback mechanism.",
-    "published": "Mon, 29 Sep 2025 13:03:55 GMT",
+    "title": "Madagascar’s government dissolves amid protests",
+    "link": "https://en.mehrnews.com/news/237161/Madagascar-s-government-dissolves-amid-protests",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Madagascar’s president, Andry Rajoelina, has dissolved the government after youth-led protests over water and power cuts.",
+    "published": "Tue, 30 Sep 2025 08:17:05 GMT",
     "country": "Iran",
-    "key": "d36d25dd4c07a760f0adc6da4b370454"
+    "key": "a52d387c14079ef457530833d1bd7426"
   },
   {
-    "title": "Iran and Uzbekistan sign MoU on developing cultural cooperation",
-    "link": "https://en.irna.ir/news/85952645/Iran-and-Uzbekistan-sign-MoU-on-developing-cultural-cooperation",
-    "summary": "Iran and Uzbekistan signed a memorandum of understanding on cultural cooperation in Tashkent.",
-    "published": "Mon, 29 Sep 2025 12:59:00 GMT",
+    "title": "School collapse in Indonesia leaves three dead, 38 missing",
+    "link": "https://en.mehrnews.com/news/237160/School-collapse-in-Indonesia-leaves-three-dead-38-missing",
+    "summary": "TEHRAN, Sep. 30 (MNA) – At least three students have been killed and dozens are missing following the collapse of an Islamic boarding school in Indonesia’s East Java province, authorities have said.",
+    "published": "Tue, 30 Sep 2025 08:06:28 GMT",
     "country": "Iran",
-    "key": "365546707975534e40cb0662b7ce2d5c"
+    "key": "f27d51be20c1af14ae684b3107fa580c"
   },
   {
-    "title": "Pezeshkian vows to uphold Iran’s dignity, blames West for hypocrisy",
-    "link": "https://en.irna.ir/news/85953159/Pezeshkian-vows-to-uphold-Iran-s-dignity-blames-West-for-hypocrisy",
-    "summary": "President Pezeshkian vowed his administration would tirelessly defend Iran's dignity, blaming Western countries for hypocrisy.",
-    "published": "Mon, 29 Sep 2025 12:55:16 GMT",
+    "title": "VIDEO: Top General visits Army, IRGC naval units",
+    "link": "https://en.mehrnews.com/news/237159/VIDEO-Top-General-visits-Army-IRGC-naval-units",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Chief of Staff of the Iranian Armed Forces Major General Abdolrahim Mousavi inspected Army and IRGC naval units in Hormozgan Province to monitor their offensive and defensive capabilities.",
+    "published": "Tue, 30 Sep 2025 08:06:10 GMT",
     "country": "Iran",
-    "key": "e5875de179f83dafb4925b2e3f14ad1d"
+    "key": "5f42879bd58077dccc11a06746e0b368"
   },
   {
-    "title": "Leader extends condolences to Ayatollah Sistani over passing of his wife",
-    "link": "https://en.irna.ir/news/85953140/Leader-extends-condolences-to-Ayatollah-Sistani-over-passing",
-    "summary": "Ayatollah Khamenei extended his condolences to Grand Ayatollah Seyyed Ali Sistani following the passing of his wife.",
-    "published": "Mon, 29 Sep 2025 11:56:19 GMT",
+    "title": "Western states use snapback mechanism to justify illegal acts",
+    "link": "https://en.mehrnews.com/news/237150/Western-states-use-snapback-mechanism-to-justify-illegal-acts",
+    "summary": "TEHRAN, Sep. 30 (MNA) – President Masoud Pezeshkian described the snapback mechanism as an attempt by certain Western countries to legitimize their illegal actions.",
+    "published": "Tue, 30 Sep 2025 07:53:15 GMT",
+    "country": "Iran",
+    "key": "d76c6bd77cf83d68d7b370cfc0c31398"
+  },
+  {
+    "title": "9 security personal dead in an IED explosion in NW Pakistan",
+    "link": "https://en.mehrnews.com/news/237158/9-security-personal-dead-in-an-IED-explosion-in-NW-Pakistan",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Multiple people were killed and injured in an explosion in the northern parts of Pakistan.",
+    "published": "Tue, 30 Sep 2025 07:36:46 GMT",
+    "country": "Iran",
+    "key": "30a5271144a21d19bc108a6a93e94ea7"
+  },
+  {
+    "title": "Iran expects fall in oil revenues in year to late March",
+    "link": "https://en.mehrnews.com/news/237157/Iran-expects-fall-in-oil-revenues-in-year-to-late-March",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Iran expects a fall in annual oil export revenues in the calendar year to late March amid lower international oil prices.",
+    "published": "Tue, 30 Sep 2025 07:29:03 GMT",
+    "country": "Iran",
+    "key": "7db67b5de38cf8d4c4392c5b7c3e9620"
+  },
+  {
+    "title": "120 Iranians set to return home after US deportation orders",
+    "link": "https://en.mehrnews.com/news/237156/120-Iranians-set-to-return-home-after-US-deportation-orders",
+    "summary": "TEHRAN, Sep. 30 (MNA) – 120 Iranians will be returning home from the United States in the coming days following deportation orders by US immigration authorities.",
+    "published": "Tue, 30 Sep 2025 07:05:04 GMT",
+    "country": "Iran",
+    "key": "79812629afbfef278b87f0405d393e24"
+  },
+  {
+    "title": "Trump Gaza plan to ignite entire region, fuel more conflicts",
+    "link": "https://en.mehrnews.com/news/237155/Trump-Gaza-plan-to-ignite-entire-region-fuel-more-conflicts",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Secretary-General of Palestinian Islamic Jihad (PIJ) dismissed Trump's plan to end Gaza war, calling it “nothing but a full American-Israeli agreement.”",
+    "published": "Tue, 30 Sep 2025 06:53:26 GMT",
+    "country": "Iran",
+    "key": "912c8e67cbcb061916b5687e4141cda0"
+  },
+  {
+    "title": "Israel might be suspended from World Cup",
+    "link": "https://en.mehrnews.com/news/237154/Israel-might-be-suspended-from-World-Cup",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Athletes around the world are Pressuring UEFA to suspend Israel’s national team and clubs from international competitions.",
+    "published": "Tue, 30 Sep 2025 06:47:53 GMT",
+    "country": "Iran",
+    "key": "3d277769f101f1b6b49919df42135026"
+  },
+  {
+    "title": "8 Arab, Islamic countries welcome Trump Gaza plan",
+    "link": "https://en.mehrnews.com/news/237153/8-Arab-Islamic-countries-welcome-Trump-Gaza-plan",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Foreign Ministers of Egypt, Jordan, United Arab Emirates, Indonesia, Pakistan, Turkey, Saudi Arabia, and Qatar issued joint statement over Trump's proposal to end the Qaza war.",
+    "published": "Tue, 30 Sep 2025 06:42:48 GMT",
+    "country": "Iran",
+    "key": "f7e05e6e439aec396eb5ac6dc38257ec"
+  },
+  {
+    "title": "Hamas reviews Trump’s Gaza ceasefire plan as PIJ rejects",
+    "link": "https://en.mehrnews.com/news/237151/Hamas-reviews-Trump-s-Gaza-ceasefire-plan-as-PIJ-rejects",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Hamas is reviewing Trump’s Gaza ceasefire plan after being briefed by Qatar and Egypt, while Islamic Jihad rejected it as “nothing but a full American-Israeli agreement.”",
+    "published": "Tue, 30 Sep 2025 06:24:55 GMT",
+    "country": "Iran",
+    "key": "4f2b8905ea7946c1c7a1df371b51fa16"
+  },
+  {
+    "title": "Documentary: Iran discloses confidential Israeli data",
+    "link": "https://en.mehrnews.com/news/237152/Documentary-Iran-discloses-confidential-Israeli-data",
+    "summary": "TEHRAN, Sep. 30 (MNA) – Iran has released a groundbreaking documentary revealing sensitive Israeli intelligence, offering an unprecedented look inside the secretive world of Mossad operations. Here you can watch the full Spider's Hideout documentary.",
+    "published": "Tue, 30 Sep 2025 06:23:40 GMT",
+    "country": "Iran",
+    "key": "f9836379403331b616c9d98daba7c855"
+  },
+  {
+    "title": "آیا سیدحسن نصرالله زیرزمین زندگی می‌کرد؟؛ روایتی خلاف نگاه کلیشه‌ای",
+    "link": "https://www.mehrnews.com/news/6606094/%D8%A2%DB%8C%D8%A7-%D8%B3%DB%8C%D8%AF%D8%AD%D8%B3%D9%86-%D9%86%D8%B5%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%B2%DB%8C%D8%B1%D8%B2%D9%85%DB%8C%D9%86-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D9%85%DB%8C-%DA%A9%D8%B1%D8%AF-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C-%D8%AE%D9%84%D8%A7%D9%81-%D9%86%DA%AF%D8%A7%D9%87-%DA%A9%D9%84%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C",
+    "summary": "نویسنده کتاب «روح‌الامین» گفت: هدفم این بوده که مخاطب دریابد سیدحسن نصرالله، برخلاف تصورات کلیشه‌ای، یکی از همان مردمی است که از دل جامعه برخاسته و در میان آنان زندگی کرده است.",
+    "published": "Tue, 30 Sep 2025 08:24:00 GMT",
     "country": "Autres",
-    "key": "ef14557578847fc1270d5595f97005a8"
+    "key": "6a1ccc2b0d53a1a49bc71cb13c1da860"
   },
   {
-    "title": "In photos: Firefighters Day in Iran",
-    "link": "https://en.irna.ir/photo/85952982/In-photos-Firefighters-Day-in-Iran",
-    "summary": "The Firefighters Day ceremony was held at Tehran’s Milad Tower on September 29, 2025, with President Masoud Pezeshkian in attendance.",
-    "published": "Mon, 29 Sep 2025 11:13:33 GMT",
-    "country": "Iran",
-    "key": "3f83b68173af825b07b18bcac6807970"
-  },
-  {
-    "title": "Israel renews threats against Global Sumud Flotilla as humanitarian fleet nears Gaza",
-    "link": "https://en.irna.ir/news/85952705/Israel-renews-threats-against-Global-Sumud-Flotilla-as-humanitarian",
-    "summary": "The Global Sumud Flotilla, carrying humanitarian aid and activists from multiple countries, has been sailing toward Gaza in a bid to challenge Israel’s 19-year blockade of the Palestinian territory.",
-    "published": "Mon, 29 Sep 2025 10:37:51 GMT",
-    "country": "Israël/Palestine",
-    "key": "c0dbc49745dd28a833ee2c8f5a34c879"
-  },
-  {
-    "title": "Tomb of Shams Tabrizi in Iran’s Khoy",
-    "link": "https://en.irna.ir/photo/85952984/Tomb-of-Shams-Tabrizi-in-Iran-s-Khoy",
-    "summary": "The Shams Tabrizi mausoleum in Khoy, northwestern Iran, is a historic monument dating back to the Safavid period (1501-1736), featuring a cylindrical tower adorned with ram horns and animal skulls, reportedly added by Shah Ismail (1487-1524) to display the king’s hunting prowess. Shams Tabrizi (1185–1248) was a Persian poet who is credited as the spiritual instructor of Rumi (1207–1273).",
-    "published": "Mon, 29 Sep 2025 10:14:01 GMT",
-    "country": "Iran",
-    "key": "e3a3c2c71294d3cfe7ae1fb8aa7cbf0b"
-  },
-  {
-    "title": "Israeli regime tries to hide casualties after Iran strikes",
-    "link": "https://en.mehrnews.com/news/237134/Israeli-regime-tries-to-hide-casualties-after-Iran-strikes",
-    "summary": "TEHRAN, Sep. 29 (MNA) – A senior military advisor to the Leader of the Islamic Revolution says that at least 16 Israeli pilots were killed in Iranian missile strikes in the June war, stressing the regime tries to prevent revelations of casualties.",
-    "published": "Mon, 29 Sep 2025 15:28:00 GMT",
-    "country": "Iran",
-    "key": "b9ebf6500436de6519fbb034174581f6"
-  },
-  {
-    "title": "Israeli Navy preparing to attack Gaza-bound Sumud flotilla",
-    "link": "https://en.mehrnews.com/news/237131/Israeli-Navy-preparing-to-attack-Gaza-bound-Sumud-flotilla",
-    "summary": "TEHRAN, Sep. 29 (MNA) – As Global Sumud Flotilla is attempting to carry out a humanitarian mission, Zionist media outlets have reported that Israeli Navy's special forces are preparing to attack the vessels of the fleet.",
-    "published": "Mon, 29 Sep 2025 15:08:39 GMT",
-    "country": "Iran",
-    "key": "0fae75a175eb117a0455f3995fe270f4"
-  },
-  {
-    "title": "Syrian resistance group says hit Israeli occupying troopers",
-    "link": "https://en.mehrnews.com/news/237133/Syrian-resistance-group-says-hit-Israeli-occupying-troopers",
-    "summary": "TEHRAN, Sep. 29 (MNA) – A group by the name of Syrian National Resistance has claimed responsibility for an attack on Israeli occupying forces.",
-    "published": "Mon, 29 Sep 2025 14:48:25 GMT",
-    "country": "Iran",
-    "key": "4b7a0e22eb29df66a955b6ee84f0c832"
-  },
-  {
-    "title": "Incident reported for a vessel in Yemen Aden Gulf",
-    "link": "https://en.mehrnews.com/news/237129/Incident-reported-for-a-vessel-in-Yemen-Aden-Gulf",
-    "summary": "TEHRAN, Sep. 29 (MNA) – Media have reported that a ship has been hit by a projectile in the Gulf of Aden next to Yemen.",
-    "published": "Mon, 29 Sep 2025 14:30:45 GMT",
-    "country": "Iran",
-    "key": "e95e6bcea2651e7d2a719774cefc0c2e"
-  },
-  {
-    "title": "At least 12 dead, 17 missing as Storm Bualoi batters Vietnam",
-    "link": "https://en.mehrnews.com/news/237127/At-least-12-dead-17-missing-as-Storm-Bualoi-batters-Vietnam",
-    "summary": "TEHRAN, Sep. 29 (MNA) – At least 12 people were killed and 17 fishermen went missing after Tropical Storm Bualoi struck central Vietnam, state media reported Monday.",
-    "published": "Mon, 29 Sep 2025 12:27:32 GMT",
-    "country": "Iran",
-    "key": "0902b725961827207089e8abdaca78e3"
-  },
-  {
-    "title": "Israeli strike levels Gaza high-rise, drives out hundreds",
-    "link": "https://en.mehrnews.com/news/237125/Israeli-strike-levels-Gaza-high-rise-drives-out-hundreds",
-    "summary": "TEHRAN, Sep. 29 (MNA) – Israeli forces bombed the Mecca Tower in Gaza City on Sunday, shortly after warning residents to leave, witnesses said.",
-    "published": "Mon, 29 Sep 2025 12:11:28 GMT",
-    "country": "Iran",
-    "key": "edb7d2e36eebdd5e4a8b4fdf9a0385f1"
-  },
-  {
-    "title": "Leader offers condolences on demise of Ayt. Sistani's wife",
-    "link": "https://en.mehrnews.com/news/237126/Leader-offers-condolences-on-demise-of-Ayt-Sistani-s-wife",
-    "summary": "TEHRAN, Sep. 29 (MNA) – Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei offered his condolences over the passing of wife of Grand Ayatollah Ali al-Sistani, Iraq’s most senior Shiite cleric.",
-    "published": "Mon, 29 Sep 2025 12:08:47 GMT",
-    "country": "Iran",
-    "key": "45c0368504ae3afae49ea4e86eaa5e26"
-  },
-  {
-    "title": "Enemies defeated in 12-day Israeli war due to miscalculation",
-    "link": "https://en.mehrnews.com/news/237121/Enemies-defeated-in-12-day-Israeli-war-due-to-miscalculation",
-    "summary": "TEHRAN, Sep. 29 (MNA) – Deputy Commander-in-Chief of the Islamic Revolution Guard Corps (IRGC) Brigadier General Ali Fadavi says enemies failed to achieve their predefined objectives during 12-day Israeli war against Iran due to their miscalculation.",
-    "published": "Mon, 29 Sep 2025 12:01:52 GMT",
-    "country": "Iran",
-    "key": "ec40c1b418fccd78a4bd4a631c729002"
-  },
-  {
-    "title": "Iranian nation to never give in to pressures: Pezeshkian",
-    "link": "https://en.mehrnews.com/news/237124/Iranian-nation-to-never-give-in-to-pressures-Pezeshkian",
-    "summary": "TEHRAN, Sep. 29 (MNA) – The Iranian President, Masoud Pezeshkian, has said that the enemy's dream of forcing the Iranian nation to give in to pressures will never come true.",
-    "published": "Mon, 29 Sep 2025 11:38:32 GMT",
-    "country": "Iran",
-    "key": "4b4bce40b88503b1bb295c33a5842298"
-  },
-  {
-    "title": "Israeli troops surround hospital in Gaza",
-    "link": "https://en.mehrnews.com/news/237122/Israeli-troops-surround-hospital-in-Gaza",
-    "summary": "TEHRAN, Sep. 29 (MNA) – At least 90 people have been blocked in a hospital building in Gaza City following a shelling attack by the Israeli regime's forces.",
-    "published": "Mon, 29 Sep 2025 10:42:49 GMT",
-    "country": "Iran",
-    "key": "0fd112142e047d9042441ad03105131f"
-  },
-  {
-    "title": "Germany's Lufthansa to cut 4,000 jobs by 2030",
-    "link": "https://en.mehrnews.com/news/237119/Germany-s-Lufthansa-to-cut-4-000-jobs-by-2030",
-    "summary": "TEHRAN, Sep. 29 (MNA) – German airline group Lufthansa said Monday it will cut 4,000 jobs, nearly four percent of its workforce -- a move underscoring the slump gripping Europe's largest economy.",
-    "published": "Mon, 29 Sep 2025 10:28:25 GMT",
-    "country": "Iran",
-    "key": "ec45e8398e08b348324dba1ab8731e60"
-  },
-  {
-    "title": "N Korea, China agree to deepen ties to resist US hegemony",
-    "link": "https://en.mehrnews.com/news/237115/N-Korea-China-agree-to-deepen-ties-to-resist-US-hegemony",
-    "summary": "TEHRAN, Sep. 29 (MNA) – The foreign ministers of North Korea and China have agreed to bolster bilateral relations as part of their efforts to resist the pressures of global hegemony.",
-    "published": "Mon, 29 Sep 2025 10:28:01 GMT",
-    "country": "Iran",
-    "key": "cd8cc531d4ccdcf5916dedcd2dfec337"
-  },
-  {
-    "title": "جریمه ٢١٠ میلیارد ریالی برای استخراج غیر قانونی رمز ارز در زرند",
-    "link": "https://www.mehrnews.com/news/6606292/%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%D9%A2%D9%A1%D9%A0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%B2%D8%B1%D9%86%D8%AF",
-    "summary": "کرمان- رئیس دادگستری شهرستان زرند از صدور یکی از سنگین‌ترین احکام مالی در حوزه مقابله با استخراج غیرمجاز رمز ارز در استان کرمان به مبلغ ٢١٠ میلیارد ریال خبر داد.",
-    "published": "Mon, 29 Sep 2025 16:18:45 GMT",
+    "title": "«مکتب نصرالله» به اسلام‌آباد رسید",
+    "link": "https://www.mehrnews.com/news/6603798/%D9%85%DA%A9%D8%AA%D8%A8-%D9%86%D8%B5%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "همزمان با اولین سالگرد شهادت دبیرکل حزب‌الله لبنان، از ترجمه اردوی کتاب «مکتب نصرالله» رونمایی شد.",
+    "published": "Tue, 30 Sep 2025 08:23:00 GMT",
     "country": "Autres",
-    "key": "c31ca176028f99408bedac6dd2b89a68"
+    "key": "d5c663c2933c7bcb910d1b0aa5921655"
   },
   {
-    "title": "رایزنی «ترامپ» و امیر قطر",
-    "link": "https://www.mehrnews.com/news/6606274/%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%88-%D8%A7%D9%85%DB%8C%D8%B1-%D9%82%D8%B7%D8%B1",
-    "summary": "رئیس جمهور آمریکا پیش از دیدار با نخست وزیر اشغالگران صهیونیست در کاخ سفید با امیر قطر رایزنی کرد.",
-    "published": "Mon, 29 Sep 2025 16:17:07 GMT",
+    "title": "سرپرست بهزیستی بوشهر: دشتستان و دشتی پیرترین شهرستان‌های استان هستند",
+    "link": "https://www.mehrnews.com/news/6606859/%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D8%A8%D9%87%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AF%D8%B4%D8%AA%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%AF%D8%B4%D8%AA%DB%8C-%D9%BE%DB%8C%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86",
+    "summary": "بوشهر- سرپرست اداره کل بهزیستی استان بوشهر گفت: دشتستان و دشتی پیرترین شهرستان‌های استان محسوب می‌شوند و شهرستان کنگان جوان‌ترین شهرستان استان است.",
+    "published": "Tue, 30 Sep 2025 08:22:35 GMT",
     "country": "Autres",
-    "key": "3f943e14b5f9e0f2c3a6bc2b8994c9e3"
+    "key": "a03477db26512c305cf918ae8461a6c4"
   },
   {
-    "title": "رئیس اداره بازرسی فرمانداری شهرستان تهران منصوب شد",
-    "link": "https://www.mehrnews.com/news/6606301/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%A7%D8%AF%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%DB%8C-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%86%D8%B5%D9%88%D8%A8-%D8%B4%D8%AF",
-    "summary": "رئیس اداره بازرسی فرمانداری شهرستان تهران با حکم هادی شرفی، مدیرکل بازرسی استانداری تهران منصوب شد.",
-    "published": "Mon, 29 Sep 2025 16:16:15 GMT",
+    "title": "فلش مموری تبلیغاتی؛ هدیه‌ای ماندگار برای برندینگ و معرفی کسب‌وکار",
+    "link": "https://www.mehrnews.com/news/6606826/%D9%81%D9%84%D8%B4-%D9%85%D9%85%D9%88%D8%B1%DB%8C-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%DB%8C-%D9%87%D8%AF%DB%8C%D9%87-%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%DB%8C%D9%86%DA%AF-%D9%88-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%DA%A9%D8%B3%D8%A8-%D9%88%DA%A9%D8%A7%D8%B1",
+    "summary": "در این مطلب به شما خواهیم گفت چرا سرمایه‌گذاری روی فلش مموری تبلیغاتی یک انتخاب هوشمندانه است و چگونه با انتخاب درست این هدیه کوچک، می‌توانید تأثیری بزرگ و ماندگار روی ذهن مخاطب بگذارید.",
+    "published": "Tue, 30 Sep 2025 08:22:25 GMT",
     "country": "Autres",
-    "key": "e020e8b6b6abdbe2bc28412c76855346"
+    "key": "ae33eb7cacb3d7d4a822b1eaa4c31397"
   },
   {
-    "title": "پروژه ساخت باغ موزه دفاع مقدس استان مرکزی با جدیت دنبال می‌شود",
-    "link": "https://www.mehrnews.com/news/6606223/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D8%A7%D8%BA-%D9%85%D9%88%D8%B2%D9%87-%D8%AF%D9%81%D8%A7%D8%B9-%D9%85%D9%82%D8%AF%D8%B3-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%AC%D8%AF%DB%8C%D8%AA-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-    "summary": "اراک- در این ویدئو توضیحات سرهنگ غلامرضا کریمی، مدیر کل حفظ آثار و نشر ارزشهای دفاع مقدس و مقاومت استان مرکزی در خصوص پیگیری و تکمیل باغ موزه دفاع مقدس را ملاحظه می کنید.",
-    "published": "Mon, 29 Sep 2025 16:12:50 GMT",
+    "title": "بی‌سایه تا ماه؛ روایتی از«محمود جعفری دهقی» استاد نامدار ایران‌شناسی",
+    "link": "https://www.mehrnews.com/news/6606881/%D8%A8%DB%8C-%D8%B3%D8%A7%DB%8C%D9%87-%D8%AA%D8%A7-%D9%85%D8%A7%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A7%D8%B2-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%AC%D8%B9%D9%81%D8%B1%DB%8C-%D8%AF%D9%87%D9%82%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF-%D9%86%D8%A7%D9%85%D8%AF%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D9%86%D8%A7%D8%B3%DB%8C",
+    "summary": "قسمت ششم از مجموعه مستند «آئینه عمر» با عنوان «بی‌سایه تا ماه» به زندگی و خدمات فرهنگی و پژوهشی محمود جعفری دهقی، ایران‌شناس و استاد برجسته فرهنگ و زبان‌های باستانی دانشگاه تهران می پردازد.",
+    "published": "Tue, 30 Sep 2025 08:21:27 GMT",
     "country": "Autres",
-    "key": "59e66c529677b72d33dce6994c0a4773"
+    "key": "21e6948ec2e96989771817471ca6f755"
   },
   {
-    "title": "معلم فداکار همدانی جان دو دانش آموز را نجات داد؛ غرق شدن ۲ نفر",
-    "link": "https://www.mehrnews.com/news/6606294/%D9%85%D8%B9%D9%84%D9%85-%D9%81%D8%AF%D8%A7%DA%A9%D8%A7%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86%DB%8C-%D8%AC%D8%A7%D9%86-%D8%AF%D9%88-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%B1%D8%A7-%D9%86%D8%AC%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AF-%D8%BA%D8%B1%D9%82-%D8%B4%D8%AF%D9%86-%DB%B2-%D9%86%D9%81%D8%B1",
-    "summary": "همدان- حادثه غرق‌شدگی در محدوده انتهای سد اکباتان همدان، جان دو نفر را گرفت.",
-    "published": "Mon, 29 Sep 2025 16:12:06 GMT",
+    "title": "سرانه مصرف آبزیان در بروجرد پایین‌تر از میانگین کشوری است",
+    "link": "https://www.mehrnews.com/news/6606841/%D8%B3%D8%B1%D8%A7%D9%86%D9%87-%D9%85%D8%B5%D8%B1%D9%81-%D8%A2%D8%A8%D8%B2%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%85%DB%8C%D8%A7%D9%86%DA%AF%DB%8C%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA",
+    "summary": "خرم‌آباد - رئیس شیلات بروجرد، گفت: سرانه مصرف آبزیان در این شهرستان پایین‌تر از میانگین کشوری است.",
+    "published": "Tue, 30 Sep 2025 08:20:38 GMT",
     "country": "Autres",
-    "key": "3cc46ce34095999100c2e5643b4151aa"
-  },
-  {
-    "title": "آتش‌نشانان نماد ایثار و اعتماد مردم هستند",
-    "link": "https://www.mehrnews.com/news/6606295/%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86%D8%A7%D9%86-%D9%86%D9%85%D8%A7%D8%AF-%D8%A7%DB%8C%D8%AB%D8%A7%D8%B1-%D9%88-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%85%D8%B1%D8%AF%D9%85-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
-    "summary": "کرمانشاه - استاندار کرمانشاه در آیین گرامیداشت روز آتش‌نشانی با حضور در سازمان آتش‌نشانی، ضمن تبریک این روز، از جانفشانی و ایثارگری آتش‌نشانان قدردانی کرد.",
-    "published": "Mon, 29 Sep 2025 16:11:39 GMT",
-    "country": "Autres",
-    "key": "6248a74eff1e2e7f4641eee82c1ff854"
+    "key": "3f36ce0bdce0a5ad2f4e41431a6daa62"
   }
 ]
