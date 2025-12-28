@@ -1,99 +1,115 @@
 [
   {
-    "title": "Ukraine will try “to get some concessions” from Trump at meeting",
-    "link": "https://www.aljazeera.com/video/quotable/2025/12/28/aje-onl-qt_ben_aris-281225?traffic_source=rss",
-    "summary": "Ben Aris talks about the meeting on Dec 28 between Ukrainian President Zelenskyy and US President Trump",
-    "published": "Sun, 28 Dec 2025 08:00:53 +0000",
-    "country": "Autres",
-    "key": "09d0d0c1863134b6e60de982a2249c72"
-  },
-  {
-    "title": "Kosovo votes in snap election in bid to end a year of political deadlock",
-    "link": "https://www.aljazeera.com/news/2025/12/28/kosovo-votes-in-snap-election-to-end-a-year-of-political-deadlock?traffic_source=rss",
-    "summary": "The Balkan nation votes again as PM Albin Kurti seeks majority to break the stalemate and form a government.",
-    "published": "Sun, 28 Dec 2025 07:10:33 +0000",
-    "country": "Autres",
-    "key": "8ba1d37e733d413ebfd25213de7ce4d4"
-  },
-  {
-    "title": "Brazil court orders house arrest for Bolsonaro accomplices",
-    "link": "https://www.aljazeera.com/news/2025/12/28/brazil-court-orders-house-arrest-for-bolsonaro-accomplices?traffic_source=rss",
-    "summary": "Move comes after a former police chief convicted in the coup plot was caught in Paraguay trying to flee to El Salvador.",
-    "published": "Sun, 28 Dec 2025 07:08:32 +0000",
-    "country": "Autres",
-    "key": "341df702be66d2486e2791b39bbf3e6c"
-  },
-  {
-    "title": "The TAZARA turns 50: Riding the railway that bridges Tanzania and Zambia",
-    "link": "https://www.aljazeera.com/features/longform/2025/12/28/the-tazara-turns-50-riding-the-railway-that-bridges-tanzania-and-zambia?traffic_source=rss",
-    "summary": "Businesspeople, students, tourists among those sharing space on the 1,860km TAZARA railway built by China in the 1970s.",
-    "published": "Sun, 28 Dec 2025 05:57:08 +0000",
-    "country": "Autres",
-    "key": "ddc564c596877ac5b3264d561127d846"
-  },
-  {
-    "title": "UK curbs DRC visas, announces migrant return deals with Angola, Namibia",
-    "link": "https://www.aljazeera.com/news/2025/12/28/uk-curbs-drc-visas-announces-migrant-return-deals-with-angola-namibia?traffic_source=rss",
-    "summary": "Home Office announces visa restrictions on DRC for alleged failure to cooperate with UK&#039;s new migrant return policy.",
-    "published": "Sun, 28 Dec 2025 04:40:15 +0000",
-    "country": "Autres",
-    "key": "9d91b3563cbacac53d3350ddc53cdf11"
-  },
-  {
-    "title": "Myanmar votes as military holds first election since 2021 coup",
-    "link": "https://www.aljazeera.com/news/2025/12/28/polls-open-in-myanmar-as-military-stages-first-election-since-2021-coup?traffic_source=rss",
-    "summary": "The UN, human rights groups and opposition parties say the electoral process is not free, fair or credible.",
-    "published": "Sun, 28 Dec 2025 02:13:01 +0000",
-    "country": "Autres",
-    "key": "bb62ee8881de492081931a71ecc9b193"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,403",
-    "link": "https://www.aljazeera.com/news/2025/12/28/russia-ukraine-war-list-of-key-events-day-1403?traffic_source=rss",
-    "summary": "These are the key developments from day 1,403 of Russia’s war on Ukraine.",
-    "published": "Sun, 28 Dec 2025 00:54:07 +0000",
-    "country": "Autres",
-    "key": "ac41d5555704b2acd04471a51ccc2530"
-  },
-  {
-    "title": "Palestinians suffer flooded tents and debris as cold and rain lash Gaza",
-    "link": "https://www.aljazeera.com/news/2025/12/27/palestinians-suffer-flooded-tents-and-debris-as-cold-and-rain-lash-gaza?traffic_source=rss",
-    "summary": "Authorities in the enclave warn that the downpour could intensify into a full-blown storm.",
-    "published": "Sat, 27 Dec 2025 22:54:39 +0000",
-    "country": "Israël/Palestine",
-    "key": "ca99c23eff9d8772d264085925a68f1c"
-  },
-  {
-    "title": "Nigeria reach AFCON knockouts despite late Tunisia scare",
-    "link": "https://www.aljazeera.com/sports/2025/12/27/nigeria-reach-afcon-knockouts-despite-late-tunisia-scare?traffic_source=rss",
-    "summary": "Nigeria handed nervy ending by Tunisia but hold on to become second team to reach 2025 Africa Cup of Nations knockouts.",
-    "published": "Sat, 27 Dec 2025 22:35:47 +0000",
-    "country": "Autres",
-    "key": "b4a93967f233b3f372f3cbe0ca9642b4"
-  },
-  {
-    "title": "Villa come back at Chelsea, while Arsenal and Man City win again",
-    "link": "https://www.aljazeera.com/sports/2025/12/27/villa-comeback-at-chelsea-while-arsenal-and-man-city-win-again?traffic_source=rss",
-    "summary": "Aston Villa win 2-1 at Chelsea in the English Premier League, while leaders Arsenal and Man City maintain pace.",
-    "published": "Sat, 27 Dec 2025 21:59:42 +0000",
-    "country": "Autres",
-    "key": "6f19f6f10b3cb1693c179514c3a9ebc6"
-  },
-  {
-    "title": "Iran president says US, Israel, Europe waging ‘full-fledged war’ on country",
-    "link": "https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country?traffic_source=rss",
-    "summary": "If Israel and the US were to attack Iran again, they would &#039;face a more decisive response&#039;, Pezeshkian warns.",
-    "published": "Sat, 27 Dec 2025 21:22:04 +0000",
+    "title": "Javad Zarif: Main threat to the Middle East is Israel, not Iran",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2025/12/28/javad-zarif-main-threat-to-the-middle-east-is-israel-not-iran?traffic_source=rss",
+    "summary": "Iran’s former foreign minister argues Israel, backed by the US, has killed every opportunity for peace.",
+    "published": "Sun, 28 Dec 2025 14:43:12 +0000",
     "country": "Iran",
-    "key": "0f2132e414149e66b39936c5f38be121"
+    "key": "0444501ae051589c1c560eaa89e5f097"
   },
   {
-    "title": "Do Donald Trump’s strikes in Nigeria serve any purpose?",
-    "link": "https://www.aljazeera.com/video/inside-story/2025/12/27/do-donald-trumps-strikes-in-nigeria-serve-any-purpose?traffic_source=rss",
-    "summary": "The US president says air strikes are against ISIL, claiming the group targets Christians.",
-    "published": "Sat, 27 Dec 2025 19:16:15 +0000",
+    "title": "Protests turn deadly during demonstration in Syrian city of Latakia",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/28/protests-turn-deadly-during-demonstration-in-syrian-city-of-latakia?traffic_source=rss",
+    "summary": "Fighting has broken out at a demonstration in the city of Latakia in Syria, killing at least three people.",
+    "published": "Sun, 28 Dec 2025 14:26:10 +0000",
+    "country": "Syrie",
+    "key": "57547cf1caab2bf75b452be524b4beb0"
+  },
+  {
+    "title": "Niger’s military rulers order ‘general mobilisation’ against armed groups",
+    "link": "https://www.aljazeera.com/news/2025/12/28/niger-military-rulers-order-general-mobilisation-against-armed-groups?traffic_source=rss",
+    "summary": "Military rulers expand emergency powers, warning that people, property, and services may be requisitioned.",
+    "published": "Sun, 28 Dec 2025 14:23:27 +0000",
     "country": "Autres",
-    "key": "71247baadc7484485e81db3f8ea297a2"
+    "key": "deb2bebaa31a517466a52aca5407bd29"
+  },
+  {
+    "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss",
+    "summary": "Israel has held Gaza doctor Hussam Abu Safia for an entire year without charge.",
+    "published": "Sun, 28 Dec 2025 14:01:57 +0000",
+    "country": "Israël/Palestine",
+    "key": "e111fc6badd44e390d5b23c4e9531476"
+  },
+  {
+    "title": "Syria protests live: Deadly clashes erupt as hundreds demonstrate",
+    "link": "https://www.aljazeera.com/news/liveblog/2025/12/28/syria-protests-live-deadly-clashes-erupt-as-thousands-demonstrate?traffic_source=rss",
+    "summary": "Hundreds of people take to the streets in Tartous and Latakia to demand the release of former soldiers.",
+    "published": "Sun, 28 Dec 2025 13:57:53 +0000",
+    "country": "Syrie",
+    "key": "e078b9f1489438fc1f3fa06c8ff8a370"
+  },
+  {
+    "title": "Video: What do Rohingya refugees think about Myanmar’s election?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/28/video-what-do-rohingya-refugees-think-about-myanmars-election?traffic_source=rss",
+    "summary": "Myanmar&#039;s election is unlikely to change the reality for more than 1M Rohingya refugees in Bangladesh.",
+    "published": "Sun, 28 Dec 2025 13:32:29 +0000",
+    "country": "Autres",
+    "key": "fe958e64808e733ca58168b3d4a70b22"
+  },
+  {
+    "title": "US-Israel ties: What Netanyahu and Trump will discuss in Florida",
+    "link": "https://www.aljazeera.com/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?traffic_source=rss",
+    "summary": "Trump to host Netanyahu at Mar-a-Lago amid Washington&#039;s push for phase two of Gaza ceasefire as strategy gaps grow.",
+    "published": "Sun, 28 Dec 2025 13:28:33 +0000",
+    "country": "Israël/Palestine",
+    "key": "fd4d5938232dc2672b42bba240ca200d"
+  },
+  {
+    "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+    "link": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss",
+    "summary": "Extreme weather leaves thousands homeless as tents collapse amid strong wind and heavy rain.",
+    "published": "Sun, 28 Dec 2025 13:20:21 +0000",
+    "country": "Israël/Palestine",
+    "key": "a87b54646b9cd52d95fc6a178500ddf4"
+  },
+  {
+    "title": "LIVE: Sabalenka vs Kyrgios: ‘Battle of the Sexes’ tennis match",
+    "link": "https://www.aljazeera.com/sports/liveblog/2025/12/28/live-sabalenka-vs-kyrgios-battle-of-the-sexes-tennis-match?traffic_source=rss",
+    "summary": "Follow the build-up, analysis and live text commentary of the exhibition mixed singles tennis match in Dubai.",
+    "published": "Sun, 28 Dec 2025 13:20:00 +0000",
+    "country": "Autres",
+    "key": "9e06fdb507a8282d8fa62b2b0f9e9040"
+  },
+  {
+    "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
+    "link": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss",
+    "summary": "Somalia&#039;s president calls for unity at emergency session of parliament, which declares the Israeli move &#039;null and void&#039;.",
+    "published": "Sun, 28 Dec 2025 13:02:19 +0000",
+    "country": "Israël/Palestine",
+    "key": "d49b51bab3e62768d6fc8f1187dd61f2"
+  },
+  {
+    "title": "Video: Israel slammed for recognising breakaway region of Somaliland",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/28/video-israel-slammed-for-recognising-breakaway-region-of-somaliland?traffic_source=rss",
+    "summary": "Several countries and regional blocs have condemned Israel&#039;s recognition of Somaliland, a breakaway region of Somalia.",
+    "published": "Sun, 28 Dec 2025 12:33:26 +0000",
+    "country": "Israël/Palestine",
+    "key": "a59dfd57ccd32f1fb92a983102a53f46"
+  },
+  {
+    "title": "Libya lays army chief of staff to rest in Misrata",
+    "link": "https://www.aljazeera.com/news/2025/12/28/libya-lays-army-chief-of-staff-to-rest-in-misrata?traffic_source=rss",
+    "summary": "Five officers, including chief of staff General al-Haddad, were flying from Turkiye to Libya when their plane crashed.",
+    "published": "Sun, 28 Dec 2025 12:30:31 +0000",
+    "country": "Autres",
+    "key": "fbc47dd4d3d22ee3e8e2b3a8c3d3d1fc"
+  },
+  {
+    "title": "Syrie : plusieurs manifestants alaouites tués par les forces de l'ordre",
+    "link": "https://www.france24.com/fr/moyen-orient/20251228-syrie-deux-manifestants-alaouites-tu%C3%A9s-par-les-forces-de-l-ordre",
+    "summary": "Des milliers de manifestants appartenant à la communauté alaouite sont descendus dans la rue, dimanche, en Syrie, deux jours après l'attaque d'une de leurs mosquées qui a fait huit morts. Au moins trois personnes ont été tuées par les forces de l'ordre, alors qu'elles dispersaient un rassemblement dans la ville côtière de Lattaquié.",
+    "published": "Sun, 28 Dec 2025 14:19:56 GMT",
+    "country": "Autres",
+    "key": "1e65737cc3dc971987653827c6aff9c9"
+  },
+  {
+    "title": "Iran-Israël : le récit des 12 jours de guerre ouverte",
+    "link": "https://www.france24.com/fr/moyen-orient/20251228-iran-isra%C3%ABl-le-r%C3%A9cit-des-12-jours-de-guerre-ouverte",
+    "summary": "Du 13 au 24 juin 2025, Israël et l’Iran s'affrontent à coups de missiles et de frappes aériennes. Un conflit qui affaiblit considérablement la République islamique, touche durement certaines villes israéliennes et dont l'issue est décidée dans le Bureau ovale. En lettres capitales sur son réseau social, c'est Donald Trump qui lui a donné son nom : “La guerre des douze jours”. Récit.",
+    "published": "Sun, 28 Dec 2025 08:54:15 GMT",
+    "country": "Iran",
+    "key": "9fca4777269a7cd6b0d23db67e2cf6ad"
   },
   {
     "title": "Yémen : l'Arabie saoudite menace les séparatistes d'une action militaire",
@@ -176,26 +192,58 @@
     "key": "8870a580bd8c5a5fb5ecf8b6eb5b98bb"
   },
   {
-    "title": "Bethléem fête son premier Noël depuis le début de la guerre à Gaza",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20251225-bethl%C3%A9em-f%C3%AAte-son-premier-no%C3%ABl-depuis-le-d%C3%A9but-de-la-guerre-%C3%A0-gaza",
-    "summary": "Bethléem, ville de Cisjordanie occupée et berceau du christianisme, a célébré mercredi son premier Noël festif depuis le début de la guerre à Gaza, alors qu'à des milliers de kilomètres de là, le pape Léon XIV célébrait au Vatican la première messe de Noël de son pontificat.",
-    "published": "Thu, 25 Dec 2025 08:46:07 GMT",
-    "country": "Israël/Palestine",
-    "key": "3922faba0a4e9e88fb7707737f64d8bb"
+    "title": "L’Iran lance de Russie trois satellites d’observation, signe du développement de ses activités aérospatiales",
+    "link": "https://www.lemonde.fr/international/article/2025/12/28/l-iran-lance-de-russie-trois-satellites-d-observation-signe-du-developpement-de-ses-activites-aerospatiales_6659656_3210.html",
+    "summary": "Ces satellites seront placés en orbite à 500 kilomètres de la Terre et auront une durée de vie de trois à cinq ans. Les gouvernements occidentaux craignent que ces systèmes de lancement intègrent des technologies interchangeables avec celles qui sont utilisées dans les missiles balistiques capables de livrer une ogive nucléaire.",
+    "published": "Sun, 28 Dec 2025 17:13:40 +0100",
+    "country": "Iran",
+    "key": "4e8dfaef378ebba552500d59d8c2f64b"
   },
   {
-    "title": "Syrie : un haut responsable de l'EI arrêté près de Damas avec l’appui de la coalition",
-    "link": "https://www.france24.com/fr/moyen-orient/20251225-syrie-haut-responsable-ei-arr%C3%AAt%C3%A9-appui-coalition",
-    "summary": "Les forces de sécurité syriennes ont annoncé l’arrestation, mercredi soir près de Damas, d’un haut responsable du groupe État islamique, lors d’une opération menée avec la coalition internationale dirigée par les États-Unis. Cette annonce intervient plus de 10 jours après une attaque meurtrière attribuée à l’EI contre des soldats américains dans le centre du pays.",
-    "published": "Thu, 25 Dec 2025 08:27:34 GMT",
+    "title": "En Espagne, trois personnes portées disparues après des pluies diluviennes près de Malaga",
+    "link": "https://www.lemonde.fr/climat/article/2025/12/28/en-espagne-trois-personnes-portees-disparues-apres-des-pluies-diluviennes-pres-de-malaga_6659640_1652613.html",
+    "summary": "L’agence météorologique nationale espagnole a abaissé de rouge à orange son niveau d’alerte en Andalousie, mais les fortes pluies se concentrent désormais sur le littoral de la région de Valence, déjà endeuillée il y a un peu plus d’un an par des inondations.",
+    "published": "Sun, 28 Dec 2025 17:07:20 +0100",
     "country": "Autres",
-    "key": "5d286c3a136bd27f03bf8ef5f158e028"
+    "key": "809e52c83600196b40917cc3b62de7b6"
+  },
+  {
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Floride pour sa réunion avec Donald Trump",
+    "link": "https://www.lemonde.fr/international/live/2025/12/28/en-direct-guerre-en-ukraine-beaucoup-de-choses-pourraient-etre-resolues-avant-le-nouvel-an-dit-volodymyr-zelensky-avant-sa-rencontre-avec-donald-trump_6659606_3210.html",
+    "summary": "Le président ukrainien a atterri à Miami, quelques heures avant sa rencontre avec le président américain, prévue à 19 heures (heure de Paris) à Palm Beach, rapportent les médias ukrainiens. Selon Kiev, un appel téléphonique entre des dirigeants européens et les présidents ukrainien et américain est prévu dans la foulée.",
+    "published": "Sun, 28 Dec 2025 15:23:58 +0100",
+    "country": "Autres",
+    "key": "89d0b08df9563cfc8d32349d0d9ae68b"
+  },
+  {
+    "title": "En Syrie, les forces de sécurité tuent deux personnes en dispersant une manifestation alaouite, selon l’OSDH",
+    "link": "https://www.lemonde.fr/international/article/2025/12/28/en-syrie-les-forces-de-securite-tuent-deux-personnes-en-dispersant-une-manifestation-alaouite-selon-l-osdh_6659648_3210.html",
+    "summary": "Des milliers de Syriens alaouites ont participé, dimanche, à des manifestations dans plusieurs villes pour réclamer la fin des violences à la suite de l’attaque meurtrière d’une mosquée de cette communauté musulmane minoritaire dans le pays survenue à Homs vendredi.",
+    "published": "Sun, 28 Dec 2025 15:23:32 +0100",
+    "country": "Autres",
+    "key": "fbeb2a18acca644659f6e184de83c198"
+  },
+  {
+    "title": "Radoslaw Sikorski, vice-premier ministre de Pologne : « Le défi de l’UE consiste à traduire son poids économique en influence et en leadership mondiaux »",
+    "link": "https://www.lemonde.fr/idees/article/2025/12/28/radoslaw-sikorski-vice-premier-ministre-de-pologne-le-defi-de-l-ue-consiste-a-traduire-son-poids-economique-en-influence-et-en-leadership-mondiaux_6659641_3232.html",
+    "summary": "Le ministre des affaires étrangères polonais appelle, dans une tribune au « Monde », au renfort de la coopération européenne en matière de sécurité, de migration, de technologie et de politique étrangère et à une alliance occidentale accrue avec les Etats-Unis.",
+    "published": "Sun, 28 Dec 2025 13:30:07 +0100",
+    "country": "Autres",
+    "key": "db4738f2092df3978bb597ac9a1557e4"
+  },
+  {
+    "title": "Dans la bande de Gaza, des centaines de milliers d’hommes, femmes et enfants vivent dans des tentes, sous la pluie et le vent glacial",
+    "link": "https://www.lemonde.fr/international/article/2025/12/28/dans-la-bande-de-gaza-les-abris-de-fortune-des-palestiniens-inondes-par-de-fortes-pluies_6659639_3210.html",
+    "summary": "La défense civile a averti de l’imminence d’une « nouvelle dépression », attendue dans les prochaines heures, avec « de fortes pluies et des vents violents » qui dureront jusqu’à lundi soir dans le territoire au bâti ravagé par la guerre.",
+    "published": "Sun, 28 Dec 2025 13:19:25 +0100",
+    "country": "Israël/Palestine",
+    "key": "8b6f267622a15486137796e7a1c51248"
   },
   {
     "title": "En Chine, l’industrialisation à marche forcée de l’élevage porcin, née d’une épidémie, est aujourd’hui menacée",
     "link": "https://www.lemonde.fr/economie/article/2025/12/28/en-chine-l-industrialisation-a-marche-forcee-de-l-elevage-porcin-nee-d-une-epidemie-est-aujourd-hui-menacee_6659616_3234.html",
     "summary": "Après l’importante épizootie de peste porcine de 2018, le pays a massivement industrialisé l’élevage pour assurer son autosuffisance alimentaire. Ce modèle d’usines géantes, qui a éliminé les petits éleveurs, est désormais fragilisé par la surproduction.",
-    "published": "Sun, 28 Dec 2025 08:00:07 +0100",
+    "published": "Sun, 28 Dec 2025 08:00:03 +0100",
     "country": "Autres",
     "key": "61a4ac9880999179d83ce0724ec3ec8e"
   },
@@ -203,17 +251,9 @@
     "title": "VIDEO - L’année de Donald Trump en images",
     "link": "https://www.lemonde.fr/international/video/2025/12/28/donald-trump-douze-mois-qui-ont-ebranle-l-amerique-et-le-monde_6659607_3210.html",
     "summary": "« Le Monde » raconte en vidéo la première année de Donald Trump, de retour à la Maison Blanche. Une année qui a reconfiguré la politique américaine et ses relations avec le monde.",
-    "published": "Sun, 28 Dec 2025 06:00:05 +0100",
+    "published": "Sun, 28 Dec 2025 06:00:00 +0100",
     "country": "Autres",
     "key": "6ec8253ba8c723251a8acc6ec83383b9"
-  },
-  {
-    "title": "EN DIRECT, guerre en Ukraine : les Européens sont « les principaux obstacles à la paix », selon le chef de la diplomatie russe",
-    "link": "https://www.lemonde.fr/international/live/2025/12/28/en-direct-guerre-en-ukraine-l-armee-ukrainienne-nie-la-perte-des-villes-de-myrnograd-et-de-houliaipole-revendiquees-par-la-russie_6659606_3210.html",
-    "summary": "Les Européens « ne cachent pas [qu’ils] se préparent à affronter la Russie sur le champ de bataille », a déclaré Sergueï Lavrov à l’agence russe TASS. Dimanche, le président américain, Donald Trump, et son homologue ukrainien, Volodymyr Zelensky, doivent se rencontrer en Floride afin d’évoquer le « plan de paix » de Washington.",
-    "published": "Sun, 28 Dec 2025 05:55:19 +0100",
-    "country": "Autres",
-    "key": "62efdd2d8b52afb71f42584958129577"
   },
   {
     "title": "Guerre en Ukraine : Volodymyr Zelensky se rend en Floride pour s’assurer du soutien de Donald Trump",
@@ -248,49 +288,65 @@
     "key": "602c0da263faf5d30ce9e8ce4859e6b2"
   },
   {
-    "title": "En Birmanie, les législatives s’ouvrent sans opposition et sous contrôle de la junte",
-    "link": "https://www.lemonde.fr/international/article/2025/12/28/en-birmanie-les-legislatives-s-ouvrent-sans-opposition-et-sous-controle-de-la-junte_6659594_3210.html",
-    "summary": "Les militaires au pouvoir présentent ces élections comme un retour à la démocratie, cinq ans après le coup d’Etat qui a écarté la dirigeante Aung San Suu Kyi. Mais l’ONU et de nombreux pays occidentaux ont condamné ce scrutin échelonné sur un mois.",
-    "published": "Sun, 28 Dec 2025 03:20:53 +0100",
-    "country": "Autres",
-    "key": "e392acb54dda82836009b4ff99f56223"
+    "title": "Israeli tech sector saw rise in staff seeking relocation abroad due to war",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tech-sector-saw-rise-staff-seeking-relocation-abroad-due-war",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tech-sector-saw-rise-staff-seeking-relocation-abroad-due-war\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli tech sector saw rise in staff seeking relocation abroad due to war</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Requests to relocate abroad by Israelis working at multinational companies operating in Israel rose in the past year in reaction to the war on Gaza, a report showed on Sunday.</p> <p>The Israel Advanced Technology Industries Association (IATI) found that 53 percent of companies reported an increase in relocation requests from Israeli employees, noting this was \"a trend that may, over time, harm the local innovation engine and Israel's technological leadership.\"</p> <p>The tech sector accounts for about 20 percent of Israel's GDP, 15 percent of its jobs and more than half of its exports. The hundreds of multinationals in Israel include Microsoft, Intel, Nvidia, Amazon, Meta and Apple.</p> <p>In its annual report, IATI also said some multinational companies are examining the transfer of investments and activities to other countries.</p> <p>\"In some cases, companies that faced disruptions in supply chains found alternatives outside Israel during the war, and when these proved efficient, there is a risk that activity will not fully return,\" said the report.</p> <p>At the same time, it added, there has been an increase in demand for relocation among senior executives and families, with more employees applying for positions outside Israel.</p> <p>Still, the report noted that multinationals view the Israeli tech ecosystem through a long-term lens and many firms have thrived during the war.</p> <p><em>Reporting by Reuters&nbsp;</em></p> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 16:07:44 +0000",
+    "country": "Israël/Palestine",
+    "key": "9d202a226281f2d52f84f88dcd289638"
   },
   {
-    "title": "Guerre en Ukraine : les Européens assurent Volodymyr Zelensky de leur soutien, à la veille de sa rencontre avec Donald Trump. Retrouvez les informations du 21 au 27 décembre.",
-    "link": "https://www.lemonde.fr/international/live/2025/12/27/en-direct-guerre-en-ukraine-les-europeens-assurent-volodymyr-zelensky-de-leur-soutien-a-la-veille-de-sa-rencontre-avec-donald-trump_6658995_3210.html",
-    "summary": "« Le soutien de l’Union européenne à l’Ukraine ne faiblira pas », a affirmé le président du Conseil européen lors d’un échange avec les dirigeants européens et le président ukrainien, en escale au Canada. Mark Carney a annoncé une nouvelle aide de 2,5 milliards de dollars canadiens (1,5 milliard d’euros) pour aider au processus de reconstruction de l’Ukraine.",
-    "published": "Sat, 27 Dec 2025 21:57:08 +0100",
-    "country": "Autres",
-    "key": "5d9b6466a42d7e51ed0879c00dc31da1"
+    "title": "Israel’s Ben Gvir pushes bill to ban Islamic call to prayer",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ben-gvir-pushes-bill-ban-islamic-call-prayer",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israels-ben-gvir-pushes-bill-ban-islamic-call-prayer\" rel=\"bookmark\"> <span class=\"field field-title\">Israel’s Ben Gvir pushes bill to ban Islamic call to prayer</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p><a href=\"https://www.middleeasteye.net/countries/israel\" target=\"_blank\">Israeli</a>&nbsp;minister Itamar Ben Gvir’s party is advancing new legislation to restrict the Islamic call to prayer in mosques.</p> <p>In a statement issued on Sunday, the Jewish Power party said it was working on a bill that would ban the call to prayer unless it is licensed by the state.</p> <p>Approval would depend on criteria set by the authorities, including volume levels, noise-reduction measures, a mosque’s location, its proximity to residential areas and the impact on nearby residents.</p> <p>The draft law was submitted by National Security Committee chair Zvika Fogel and&nbsp;seeks to curb what he described as the “unreasonable noise” of the muezzin, the person who calls Muslims to prayer.</p> <p><a href=\"https://www.middleeasteye.net/countries/palestine\" target=\"_blank\">Palestinian</a>&nbsp;citizens of Israel have condemned the proposed bill, rejecting claims that mosque calls to prayer constitute a noise problem.</p> <p>They say the legislation is another manifestation of the Israeli government’s push to erase Palestinian religious and cultural identity.</p> <p>“This is not about noise. The call to prayer is not noise,” Khaled Zabarqa, a Lod-based human rights lawyer and activist, told Middle East Eye.</p> <h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/israels-ben-gvir-pushes-bill-ban-islamic-call-prayer\">Israel’s Ben Gvir pushes bill to ban Islamic call to prayer</a></h3> <figure class=\"media-block\"> <div class=\"group-inner\"> <div alt=\"The 18th-century Ottoman-period al-Jazzar Mosque, also known as the 'White Mosque', is pictured in the old walled town of Acre in northern Israel on 1 October 2024 (AFP/Ahmad Gharabli)\" class=\"embedded-entity\"> <img alt=\"The 18th-century Ottoman-period al-Jazzar Mosque, also known as the 'White Mosque', is pictured in the old walled town of Acre in northern Israel on 1 October 2024 (AFP/Ahmad Gharabli)\" height=\"787\" src=\"https://www.middleeasteye.net/sites/default/files/000_36HQ3RQ%20%281%29.jpeg\" width=\"1400\" /> </div> <figcaption>The 18th-century Ottoman-period al-Jazzar Mosque, also known as the 'White Mosque', is pictured in the old walled town of Acre in northern Israel on 1 October 2024 (AFP/Ahmad Gharabli)</figcaption> </div> </figure> <p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 14:50:26 +0000",
+    "country": "Israël/Palestine",
+    "key": "2b53a9fdf61b5acc75235a47d6daa743"
   },
   {
-    "title": "En images. Israël devient le premier Etat à reconnaître la souveraineté du Somaliland",
-    "link": "https://www.lemonde.fr/videos/video/2025/12/27/en-images-israel-devient-le-premier-etat-a-reconnaitre-la-souverainete-du-somaliland_6659588_1669088.html",
-    "summary": "Trente-quatre ans après avoir proclamé son indépendance de la Somalie, le Somaliland a obtenu sa première reconnaissance sur la scène internationale.",
-    "published": "Sat, 27 Dec 2025 20:06:33 +0100",
-    "country": "Autres",
-    "key": "62a484a70c664ebc050c3e89b91889cf"
+    "title": "Israel’s Ben Gvir pushes bill to ban Islamic call to prayer",
+    "link": "https://www.middleeasteye.net/news/israels-ben-gvir-pushes-bill-ban-islamic-call-prayer",
+    "summary": "<article class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israels-ben-gvir-pushes-bill-ban-islamic-call-prayer\" rel=\"bookmark\"> <span class=\"field field-title\">Israel’s Ben Gvir pushes bill to ban Islamic call to prayer</span> </a> </h2> <footer> <div class=\"author\"> Submitted by <span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/lubna-masarwa\" lang=\"lang\" title=\"View user profile.\">Lubna Masarwa</a></span> on <span class=\"field field-created\"><time datetime=\"2025-12-28T13:58:59+00:00\" title=\"28 December 2025 13:58 GMT\">Sun, 12/28/2025 - 13:58</time> </span> </div> </footer> <div class=\"content\"> <div class=\"field field-field-subhead\">Draft law would allow police to shut down mosque loudspeakers and impose heavy fines, which Palestinians say target their identity</div> <div class=\"field field-field-main-image\"> <source height=\"787\" type=\"image/webp\" width=\"1400\" /> <img alt=\"The 18th-century Ottoman-period al-Jazzar Mosque, also known as the 'White Mosque', is pictured in the old walled town of Acre in northern Israel on 1 October 2024 (AFP/Ahmad Gharabli)\" height=\"787\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_36HQ3RQ%20%281%29.jpg.jpg?itok=-bmbvBUz\" width=\"1400\" /> </div> <div class=\"field field-field-cutline\">The 18th-century Ottoman-period al-Jazzar Mosque, also known as the 'White Mosque', is pictured in the old walled town of Acre in northern Israel on 1 October 2024 (AFP/Ahmad Gharabli)</div> <div class=\"field field-field-wide-photo-video\">Off</div> <div class=\"field field-body clearfix\"><p><a href=\"https://www.middleeasteye.net/countries/israel\">Israeli</a> minister Itamar Ben Gvir’s party is advancing new legislation to restrict the Islamic call to prayer in mosques.</p> <p>In a statement issued on Sunday, the Jewish Power party said it was working on a bill that would ban the call to prayer unless it is licensed by the state.</p> <p>Approval would depend on criteria set by the authorities, including volume levels, noise-reduction measures, a mosque’s location, its proximity to residential areas and the impact on nearby residents.</p> <p>The draft law was submitted by National Security Committee chair Zvika Fogel and&nbsp;seeks to curb what he described as the “unreasonable noise” of the muezzin, the person who calls Muslims to prayer.</p> <p><a href=\"https://www.middleeasteye.net/countries/palestine\">Palestinian</a> citizens of Israel have condemned the proposed bill, rejecting claims that mosque calls to prayer constitute a noise problem.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>They say the legislation is another manifestation of the Israeli government’s push to erase Palestinian religious and cultural identity.</p> <p>“This is not about noise. The call to prayer is not noise,” Khaled Zabarqa, a Lod-based human rights lawyer and activist, told Middle East Eye.</p> <p>“The call to prayer has existed for hundreds of years and has been recited daily since Israel was established. It did not suddenly become a noise problem,” he said.&nbsp;</p> <div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/opinion/israel-palestine-jerusalem-aqsa-mosque-zionism-religious-war-fuel\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/2022-04/al-aqsa-israeli-forces-aim-baton-15apr2022-afp-edit.jpg.webp?itok=B5dBPwyY\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">How Zionism is fuelling a religious war over al-Aqsa Mosque</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/israel-palestine-jerusalem-aqsa-mosque-zionism-religious-war-fuel\">Read More »</a> </div> <p>Instead, Zabarqa argued, the bill forms part of a broader effort to Judaise public space across Israel and the occupied Palestinian territories by removing symbols of non-Jewish identity.</p> <p>“The call to prayer is a symbol of the religious and national identity of Palestinians inside Israel,” he said.</p> <p>“It reminds them, and the world, that this land has an identity with deep roots, history and civilisation.”</p> <p>Under the proposal, police officers could order the immediate shutdown of loudspeakers if the conditions are breached. Continued violations would allow officers to confiscate the equipment.</p> <p>The penalties outlined in the bill are steep. Installing or operating loudspeakers without a permit would carry a fine of 50,000 shekels ($15,660). Violating permit conditions would result in a 10,000-shekel ($3,100) fine.</p> <h3>'Religious fanaticism'</h3> <p>In its explanatory note, the Jewish Power party&nbsp;described noise from mosques as a “health hazard” and claimed existing laws do not provide sufficient tools to address the issue.</p> <p>Efforts to restrict or ban the Muslim call to prayer in Israel are not new.</p> <p>In 2017, a similar bill seeking to ban the use of loudspeakers for the call to prayer passed a first reading in the Israeli parliament, the Knesset,&nbsp;but was never enacted.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>Last year, Ben Gvir <a href=\"https://www.timesofisrael.com/ben-gvir-instructs-police-to-stop-mosques-from-using-speakers-for-call-to-prayer/\">instructed police</a> to prevent mosques from broadcasting the call to prayer, saying it “disturbs” Jewish residents.</p> <p>Commenting on the latest draft bill, Ben Gvir said the call to prayer was, in many areas, “unreasonable noise” that harms residents’ health and quality of life.</p> <p>“This is a phenomenon that cannot be accepted,” he said, adding that the legislation would grant police powers they currently lack.</p> <blockquote> <p>'The assault on mosques...&nbsp;constitutes a direct confrontation with the beliefs of our people'</p> <p><em>-&nbsp;Sheikh Kamal Khatib, Palestinian imam</em></p> </blockquote> <p>Fogel echoed those remarks.</p> <p>“A muezzin using an unusually loud volume is not a religious issue,” he said. “It is a matter of public health and quality of life. Residents cannot continue to suffer from systematic legal violations.”</p> <p>Kamal al-Khatib, former deputy head of the now-banned Islamic Movement in Israel, said that despite repeated past attempts to restrict the call to prayer, the current proposal is particularly dangerous because it seeks to enshrine the ban in law.</p> <p>Khatib, who is also an imam at a mosque in his hometown of Kafr Kanna, described the move as another chapter in what he called a religious war against Muslims in Israel.</p> <p>“This comes amid a wave of religious fanaticism that has swept Israeli society,” he told MEE.</p> <p>“Ben Gvir is nothing more than one manifestation of this fanaticism. The assault on mosques - whether through restricting the call to prayer, banning it altogether, or imposing heavy fines - constitutes a direct confrontation with the beliefs of our people.”</p> <p>He said any restriction on the call to prayer&nbsp;must be categorically rejected.</p> <p>“The call to prayer is a religious rite that existed before Ben Gvir and before [Prime Minister&nbsp;Benjamin]&nbsp;Netanyahu, and it will remain after them, God willing,” he added.</p> </div> <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/palestine-48\" hreflang=\"en\">48 Palestinians</a></div> <div class=\"field field-field-coauthor-location\"> <div> </div> <div> </div> <div> </div> <div> </div> </div> <div class=\"field field-field-article-location\">Jerusalem</div> <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div> <div class=\"field field-field-post-date-override\"> <div>Post Date Override</div> <div>0</div> </div> <div class=\"field field-field-update-date-override\"> <div>Update Date</div> <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time> </div> </div> <div class=\"field field-field-update-date-check\"> <div>Update Date Override</div> <div>0</div> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 14:29:35 +0000",
+    "country": "Israël/Palestine",
+    "key": "bcce034f03b7ab9c4f2943a7adb92cbe"
   },
   {
-    "title": "Kareem Rahma, l’humoriste qui a conquis (presque) toute l’Amérique",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2025/12/27/kareem-rahma-l-humoriste-qui-a-conquis-presque-toute-l-amerique_6659586_4500055.html",
-    "summary": "Star des réseaux sociaux grâce à ses vidéos décalées tournées dans le métro new-yorkais, l’Egypto-Américain séduit tous azimuts, des médias au cinéma. Avec son ton anticonformiste et bienveillant, il incarne une version soft du débat dans une société ultrapolarisée.",
-    "published": "Sat, 27 Dec 2025 19:00:20 +0100",
-    "country": "Autres",
-    "key": "2012173234b8680a8508268f18ad2880"
+    "title": "Seized from Gaza hospital, Dr Hussam Abu Safiya still held by Israel a year on",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seized-gaza-hospital-dr-hussam-abu-safiya-still-held-israel-year",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/seized-gaza-hospital-dr-hussam-abu-safiya-still-held-israel-year\" rel=\"bookmark\"> <span class=\"field field-title\">Seized from Gaza hospital, Dr Hussam Abu Safiya still held by Israel a year on</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Dr Hussam Abu Safiya, a 52-year-old&nbsp;Palestinian&nbsp;doctor, has spent a year in&nbsp;Israeli&nbsp;detention without charge or trial after Israeli forces seized him during a raid on a Gaza hospital.</p> <p>Israeli troops kidnapped Abu Safiya on 27 December 2024 after storming Kamal Adwan Hospital in northern Gaza and forcing its evacuation.</p> <p>The assault rendered the medical facility inoperable. Israel has held him ever since under its so-called “illegal combatant” law, which permits indefinite detention without charges and denies detainees access to evidence against them.</p> <p>An Israeli court in Beersheba extended Abu Safiya’s detention for six months in March 2025 and&nbsp;<a href=\"https://www.middleeasteye.net/news/israel-will-not-release-dr-hussam-abu-safiya-part-deal-report\" target=\"_blank\">again</a>&nbsp;in October 2025, keeping him imprisoned despite no charges ever being brought against him.</p> <p>Family members and rights advocates say Israeli authorities have subjected Abu Safiya to torture and degrading treatment.</p> <h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/seized-gaza-hospital-dr-hussam-abu-safia-still-held-israel-year\">Seized from Gaza hospital, Dr Hussam Abu Safiya still held by Israel a year on</a></h3> <figure class=\"media-block\"> <div class=\"group-inner\"> <div alt=\"Dr Hussam Abu Safiya, director of Kamal Adwan Hospital in Gaza, has been detained by Israel since 27 December 2024 (X)\" class=\"embedded-entity\"> <img alt=\"Dr Hussam Abu Safiya, director of Kamal Adwan Hospital in Gaza, has been detained by Israel since 27 December 2024 (X)\" height=\"891\" src=\"https://www.middleeasteye.net/sites/default/files/hussam%20abu%20safiya-euromed_0.jpeg\" width=\"1400\" /> </div> <figcaption>Dr Hussam Abu Safiya, director of Kamal Adwan Hospital in Gaza, has been detained by Israel since 27 December 2024 (X)</figcaption> </div> </figure> <p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p> <p><span><img alt=\"alt\" height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 13:01:47 +0000",
+    "country": "Israël/Palestine",
+    "key": "dd129f446966a53312070e2b123a189c"
   },
   {
-    "title": "Christian Lequesne, politiste : « En évoquant l’adhésion de Kiev à l’UE, le plan de paix crée un faux espoir chez les Ukrainiens »",
-    "link": "https://www.lemonde.fr/idees/article/2025/12/27/christian-lequesne-politiste-en-evoquant-l-adhesion-de-kiev-a-l-ue-le-plan-de-paix-cree-un-faux-espoir-chez-les-ukrainiens_6659585_3232.html",
-    "summary": "Le projet américain pour mettre un terme à la guerre en Ukraine évoque avec pertinence l’idée que Kiev puisse intégrer l’Union européenne, mais n’est pas crédible sur les modalités d’une telle adhésion, explique le professeur de science politique dans une tribune au « Monde ».",
-    "published": "Sat, 27 Dec 2025 19:00:04 +0100",
-    "country": "Autres",
-    "key": "ce19d15f0db8351761ad0c95e4ee6caf"
+    "title": "Arab League holds emergency meeting over Israel's recognition of Somaliland",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-holds-emergency-meeting-over-israels-recognition-somaliland",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/arab-league-holds-emergency-meeting-over-israels-recognition-somaliland\" rel=\"bookmark\"> <span class=\"field field-title\">Arab League holds emergency meeting over Israel's recognition of Somaliland</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p dir=\"LTR\">The Arab League convened for an emergency meeting of permanent representatives on Sunday at the request of Somalia to discuss Israeli recognition of the Somaliland region.&nbsp;</p> <p dir=\"LTR\">The meeting was held at the League's headquarters in Cairo and chaired by the UAE.&nbsp;</p> <p dir=\"LTR\">Israel's decision to become the first country to&nbsp;<a href=\"https://www.middleeasteye.net/news/israel-becomes-first-country-officially-recognise-somaliland\" target=\"_blank\">recognise</a>&nbsp;the breakaway region has been <a href=\"https://www.middleeasteye.net/news/how-trump-saudi-arabia-turkey-and-others-reacted-israeli-recognition-somaliland\">condemned</a> by a string of countries.&nbsp;</p> <p dir=\"LTR\">A&nbsp;<a href=\"https://x.com/ForeignMinistry/status/2004981230840979801?s=20\" target=\"_blank\">statement</a>&nbsp;condemning the recognition was signed jointly by&nbsp;Jordan, Egypt,&nbsp;Algeria, Comoros, Djibouti, Gambia,&nbsp;Iran,&nbsp;Iraq,&nbsp;Kuwait,&nbsp;Libya, the Maldives, Nigeria,&nbsp;Oman,&nbsp;Pakistan, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Turkey,&nbsp;Yemen, and the Organisation of Islamic Cooperation (OIC).&nbsp;</p> <p>Somaliland has been part of the unified Somali Republic since 1960, but declared its independence in 1991 and established a de facto state.</p> <p>Although it has had unofficial diplomatic relations with several countries, its sovereignty had not been recognised by any permanent UN member state until this week.</p> <p>On Monday, the UN Security Council is set to convene an emergency session to discuss Israel's recognition.</p> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 12:45:26 +0000",
+    "country": "Iran",
+    "key": "2b98072a78aaec1a391d1c5c517a4ab2"
+  },
+  {
+    "title": "Video: Sea water floods tents in southern Gaza",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-sea-water-floods-tents-southern-gaza",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/video-sea-water-floods-tents-southern-gaza\" rel=\"bookmark\"> <span class=\"field field-title\">Video: Sea water floods tents in southern Gaza</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\">Displaced Palestinians near Khan Younis were woken up on Sunday by sea water gushing into their tents as heavy rainfall and a storm batters the region.<br /> <br /> Gaza’s civil defence said two persons, including a seven-year-old boy, were killed in the past two days due to bad weather. <a href=\"https://t.co/o5rHM92gcY\">pic.twitter.com/o5rHM92gcY</a></p> — Middle East Eye (@MiddleEastEye) <a href=\"https://twitter.com/MiddleEastEye/status/2005243902014443805?ref_src=twsrc%5Etfw\">December 28, 2025</a></blockquote> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 12:06:34 +0000",
+    "country": "Israël/Palestine",
+    "key": "295313a747f2bfdd2cc425c6cf848003"
+  },
+  {
+    "title": "Israeli settlers cut down 40 olive trees overnight in Jerusalem",
+    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-cut-down-40-olive-trees-overnight-jerusalem",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-cut-down-40-olive-trees-overnight-jerusalem\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli settlers cut down 40 olive trees overnight in Jerusalem </span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p dir=\"LTR\">Israeli settlers cut down around 40 olive trees overnight in occupied East Jerusalem, according to Wafa news agency.</p> <p dir=\"LTR\">Witnesses told Wafa that a group of Israeli settlers stormed the town of Mukhmas&nbsp;before&nbsp;deliberately&nbsp;destroying the trees.</p> <p dir=\"LTR\">Olive trees are a key source of income for Palestinian families. Israeli attacks on agriculture, including olive trees, have increased in recent years.&nbsp;</p> <p dir=\"LTR\">Elsewhere, Wafa reported that Israeli settlers set fire to a vehicle belonging to a Palestinian&nbsp;in the town of Huwara in the occupied West Bank and sprayed racist graffiti on the owner's home.</p> </div> </div> </article>",
+    "published": "Sun, 28 Dec 2025 09:49:13 +0000",
+    "country": "Israël/Palestine",
+    "key": "fc66e1ae62ef71f2e4192a02a8d36444"
   },
   {
     "title": "Morning update",
     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-488",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-488\" rel=\"bookmark\"> <span class=\"field field-title\">Morning update</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Good morning Middle East Eye readers,</p> <p>Here are the latest updates from Gaza, where Israel continues to violate the ceasefire more than two months after it came into effect:</p> <ul> <li> <p>Strong winds tore apart and uprooted worn tents on Sunday, displacing entire families and leaving them exposed amid dire humanitarian conditions.&nbsp;</p> </li> <li> <p>A Palestinian woman was killed when a wall of a war-damaged house collapsed onto a tent near Gaza City’s port, according to the civil defence.&nbsp;</p> </li> <li> <p>Meanwhile, Israeli artillery shelled eastern Gaza City, while air strikes hit areas east of Khan Younis and the al-Bureij refugee camp in central Gaza.&nbsp;</p> </li> </ul> </div> </div> </article>",
+    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-488\" rel=\"bookmark\"> <span class=\"field field-title\">Morning update</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Good morning Middle East Eye readers,</p> <p>Here are the latest updates from Gaza, where Israel continues to violate the ceasefire more than two months after it came into effect:</p> <ul> <li> <p>Strong winds tore apart and uprooted worn tents on Sunday, displacing entire families and leaving them exposed amid dire humanitarian conditions.&nbsp;</p> </li> <li> <p>A Palestinian woman was killed when a wall of a war-damaged house collapsed on to a tent near Gaza City’s port, according to the civil defence.&nbsp;</p> </li> <li> <p>Meanwhile, Israeli artillery shelled eastern Gaza City, while air strikes hit areas east of Khan Younis and&nbsp;al-Bureij refugee camp in central Gaza.&nbsp;</p> </li> </ul> </div> </div> </article>",
     "published": "Sun, 28 Dec 2025 08:17:32 +0000",
     "country": "Israël/Palestine",
     "key": "0a0d70ff48f9a3290dfdca4dc96ac0d7"
@@ -328,156 +384,180 @@
     "key": "c794e3ded886fc127bd298a7b0c059b8"
   },
   {
-    "title": "Palestine Action linked hunger-strikers at risk of death, UN warns",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestine-action-linked-hunger-strikers-risk-death-un-warns-0",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/palestine-action-linked-hunger-strikers-risk-death-un-warns-0\" rel=\"bookmark\"> <span class=\"field field-title\">Palestine Action linked hunger-strikers at risk of death, UN warns</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>A group of UN human rights experts warned the&nbsp;<a href=\"https://www.middleeasteye.net/countries/uk\" target=\"_blank\">UK government</a>&nbsp;that eight pro-Palestine activists on hunger strike in UK prisons risk organ failure and death after seven weeks of hunger strike.&nbsp;</p> <p>The&nbsp;<a href=\"https://www.ohchr.org/en/press-releases/2025/12/un-experts-urge-uk-protect-lives-and-rights-pro-palestinian-detainees-hunger\" target=\"_blank\">seven experts</a>&nbsp;who work independently of each other said the activists' decision to refuse food reflected a \"measure of last resort\" taken by people who believe \"their right to protest and effect remedy have been exhausted\".</p> <p>Among the UN experts who signed the statement are Francesca Albanese, the UN special rapporteur for the Palestinian Territories, and Gina Romero, UN special rapporteur on the freedom of peaceful assembly.</p> <p>\"The State's duty of care toward hunger strikers is heightened, not diminished,\" the experts said.</p> <p>\"Authorities must ensure timely access to emergency and hospital care when clinically indicated, refrain from actions that may amount to pressure or retaliation, and respect medical ethics.\"</p> <h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/palestine-action-linked-hunger-strikers-risk-death-un-warns\">Palestine Action linked hunger-strikers at risk of death, UN warns</a></h3> <p><img alt=\"alt\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/Kamran%20Ahmed.jpg.jpg?itok=-y_QEH53\" /></p> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 18:12:59 +0000",
-    "country": "Israël/Palestine",
-    "key": "1d9aac7b5a56b43edc61473d1b1274dd"
-  },
-  {
-    "title": "How Trump, Saudi Arabia, Turkey and others reacted to Israeli recognition of Somaliland",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/how-trump-saudi-arabia-turkey-and-others-reacted-israeli-recognition",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/how-trump-saudi-arabia-turkey-and-others-reacted-israeli-recognition\" rel=\"bookmark\"> <span class=\"field field-title\">How Trump, Saudi Arabia, Turkey and others reacted to Israeli recognition of Somaliland</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p><a href=\"https://www.middleeasteye.net/countries/israel\" target=\"_blank\">Israel</a>'s decision to become the first country to&nbsp;<a href=\"https://www.middleeasteye.net/news/israel-becomes-first-country-officially-recognise-somaliland\" target=\"_blank\">recognise</a>&nbsp;the breakaway region of Somaliland has been condemned by a string of countries, while the&nbsp;<a href=\"https://www.middleeasteye.net/countries/us\" target=\"_blank\">US</a>&nbsp;president said he was not ready to immediately follow in Israel's footsteps.&nbsp;</p> <p>Benjamin Netanyahu, Israel's prime minister, announced on Friday that he had signed a mutual declaration to recognise Somaliland as an independent and sovereign state.</p> <p>Somaliland has been part of the unified Somali Republic since 1960, but declared its independence in 1991 and established a de facto state.</p> <p>Although it has had unofficial diplomatic relations with several countries, its sovereignty had not been recognised by any permanent UN member state until this week.</p> <p>US President Donald Trump told the New York Post that the US was looking into the issue.&nbsp;</p> <h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/how-trump-saudi-arabia-turkey-and-others-reacted-israeli-recognition-somaliland\">How Trump, Saudi Arabia, Turkey and others reacted to Israeli recognition of Somaliland</a></h3> <p><img alt=\"Somalliland National Electoral Commission (SNEC) officials monitor the voting process at a polling station during the 2024 Somaliland presidential election in Hargeisa on 13 November 2024 (AFP/Luis Tato)\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/somaliland-election-file-photo-afp.jpg.jpg?itok=0yCDBat7\" /></p> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 17:42:41 +0000",
-    "country": "Israël/Palestine",
-    "key": "71f65696c4bf56ff8cdb16d5e9f4145a"
-  },
-  {
-    "title": "France condemns Israeli fire that injured UN peacekeeper in south Lebanon",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-condemns-israeli-fire-injured-un-peacekeeper-south-lebanon",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/france-condemns-israeli-fire-injured-un-peacekeeper-south-lebanon\" rel=\"bookmark\"> <span class=\"field field-title\">France condemns Israeli fire that injured UN peacekeeper in south Lebanon</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>France has condemned Israeli gunfire in southern Lebanon that slightly injured a United Nations peacekeeper, describing it as part of a pattern of recent incidents targeting UN forces.</p> <p>In a statement on Friday, the French foreign ministry said: \"France condemns the Israeli army's firing on December 26, 2025, near UNIFIL patrols,\" denouncing \"a series of similar actions by the Israeli army against Unifil in recent weeks.\"</p> <p>The incident is the latest reported by the United Nations Interim Force in Lebanon (UNIFIL), which operates in southern Lebanon as a buffer between Israel and Lebanon and works alongside the Lebanese army to uphold a truce in place for about a year between Israel and Hezbollah.</p> <p>Unifil said Israeli positions opened \"heavy machine gun fire from positions of the Israeli Defense Forces\" near a patrol in the village of Bastarra, \"slightly injured a Blue Helmet, who suffered an ear concussion.\"</p> <p>The UN force added that \"another patrol carrying out a routine operational task also reported machine gun fire coming from the Israeli side in the immediate vicinity of its position\" in the southern village of Kfarshouba on the same day.</p> <p>Unifil said it had already notified the Israeli army in advance about its patrol movements in both areas.</p> <p>Earlier this month, the peacekeeping mission reported further incidents in which Israeli forces fired at UN personnel, following similar episodes recorded in October and November.</p> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 17:08:52 +0000",
-    "country": "Israël/Palestine",
-    "key": "a723fccbccf02726c37ec8e79dd19227"
-  },
-  {
-    "title": "Israeli settlers attack Al-Malih community in northern Jordan Valley",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-al-malih-community-northern-jordan-valley",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-al-malih-community-northern-jordan-valley\" rel=\"bookmark\"> <span class=\"field field-title\">Israeli settlers attack Al-Malih community in northern Jordan Valley</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Israeli settlers raided the Al-Malih community in the northern Jordan Valley on Saturday in the occupied West Bank, launching attacks on residents, according to local emergency officials speaking to Wafa.</p> <p>Nidal Awda, the director of ambulance and emergency services in Tubas, said teams received a report that a child had been injured after settlers beat him during the assault.</p> <p>Awda added that Israeli occupation forces present in the area, accompanied by settlers, blocked ambulances from reaching the scene, delaying medical assistance to the injured child.</p> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 16:55:54 +0000",
-    "country": "Israël/Palestine",
-    "key": "b5f024b17909e7bb067347da77aba259"
-  },
-  {
-    "title": "Gaza birth rate drops as miscarriages rise",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-reports-drop-briths-and-rise-miscarriages",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/gaza-reports-drop-briths-and-rise-miscarriages\" rel=\"bookmark\"> <span class=\"field field-title\">Gaza birth rate drops as miscarriages rise</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>The director of the Palestinian health ministry in Gaza reported that there was a 40-percent drop in births in the strip and a sharp rise in miscarriages compared with last year, blaming malnutrition and restricted medical supplies.</p> <p>Munir al-Bursh added that low birth weight has become widespread in Gaza.&nbsp;</p> <p>Israeli attacks on fertility centres during the war, including the Basma Centre, destroyed around 4,000 embryos, according to UN reports.</p> <p>Bursh&nbsp;said&nbsp;this&nbsp;points to a pre-planned Israeli strategy targeting Palestinian reproduction.</p> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 14:34:18 +0000",
-    "country": "Israël/Palestine",
-    "key": "bd857d9ad6d96752f7d4b79e2893dc99"
-  },
-  {
-    "title": "Hamas condemns Israel-Somaliland recognition",
-    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-israel-somaliland-recognition",
-    "summary": "<article class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-israel-somaliland-recognition\" rel=\"bookmark\"> <span class=\"field field-title\">Hamas condemns Israel-Somaliland recognition</span> </a> </h2> <div class=\"content\"> <div class=\"field field-field-text\"><p>Hamas strongly condemned the mutual recognition between the breakaway region of Somaliland and Israel.</p> <p>The Palestinian movement criticised Somaliland for setting a dangerous precedent in an attempt to gain \"false legitimacy\" from what it described as an occupying, war-criminal state.</p> <p>It also rejected Israeli plans to forcibly displace Palestinians, including proposals to use Somaliland as a destination for people from Gaza, and praised Arab and Islamic countries that condemned the move.</p> <p>Hamas added that Israel's decision to recognise the sovereignty of the breakaway region in East Africa reflects \"the deep international isolation of the Israeli regime, resulting from the acts of genocide it has committed against the Palestinian people in the Gaza Strip\".</p> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 12:22:00 +0000",
-    "country": "Israël/Palestine",
-    "key": "4ce31dac417242a0063de5fc764e81ae"
-  },
-  {
-    "title": "Somaliland: How Trump, Saudi Arabia, Turkey and others reacted to Israeli recognition",
-    "link": "https://www.middleeasteye.net/news/how-trump-saudi-arabia-turkey-and-others-reacted-israeli-recognition-somaliland",
-    "summary": "<article class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/how-trump-saudi-arabia-turkey-and-others-reacted-israeli-recognition-somaliland\" rel=\"bookmark\"> <span class=\"field field-title\">Somaliland: How Trump, Saudi Arabia, Turkey and others reacted to Israeli recognition</span> </a> </h2> <footer> <div class=\"author\"> Submitted by <span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/rayhan-uddin\" lang=\"lang\" title=\"View user profile.\">Rayhan Uddin</a></span> on <span class=\"field field-created\"><time datetime=\"2025-12-27T11:02:57+00:00\" title=\"27 December 2025 11:02 GMT\">Sat, 12/27/2025 - 11:02</time> </span> </div> </footer> <div class=\"content\"> <div class=\"field field-field-subhead\">Qatar, Egypt, Palestine and African Union reject move, as states warn against forcible Palestinian displacement to breakaway region</div> <div class=\"field field-field-main-image\"> <source height=\"788\" type=\"image/webp\" width=\"1400\" /> <img alt=\"Somalliland National Electoral Commission (SNEC) officials monitor the voting process at a polling station during the 2024 Somaliland presidential election in Hargeisa on 13 November 2024 (AFP/Luis Tato)\" height=\"788\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/somaliland-election-file-photo-afp.jpg.jpg?itok=0yCDBat7\" width=\"1400\" /> </div> <div class=\"field field-field-cutline\">Somaliland National Electoral Commission (SNEC) officials monitor the voting process at a polling station during the 2024 presidential election in Hargeisa on 13 November 2024 (AFP/Luis Tato)</div> <div class=\"field field-field-wide-photo-video\">Off</div> <div class=\"field field-body clearfix\"><p style=\"line-height: 1.38;\"><a href=\"https://www.middleeasteye.net/countries/israel\">Israel</a>'s decision to become the first country to <a href=\"https://www.middleeasteye.net/news/israel-becomes-first-country-officially-recognise-somaliland\">recognise</a> the breakaway region of Somaliland has been condemned by a string of countries, while the <a href=\"https://www.middleeasteye.net/countries/us\">US</a> president said he was not ready to immediately follow in Israel's footsteps.&nbsp;</p> <p>Benjamin Netanyahu, Israel's prime minister, announced on Friday that he had signed a mutual declaration to recognise Somaliland as an independent and sovereign state.</p> <p>Somaliland has been part of the unified Somali Republic since 1960, but declared its independence in 1991 and established a de facto state.</p> <p>Although it has had unofficial diplomatic relations with several countries, its sovereignty had not been recognised by any permanent UN member state until this week.</p> <p>US President Donald Trump told the New York Post that the US was looking into the issue.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>\"Everything is under study... we'll study it. I study a lot of things and always make great decisions and they turn out to be correct,\" Trump said.&nbsp;</p> <p>\"Does anyone know what Somaliland is, really?\" he asked.</p> <p>Asked about an alleged proposal by Somaliland to provide Washington with access to a strategic port on the Gulf of Aden, Trump dismissively replied: \"Big deal.\"</p> <p><a href=\"https://www.middleeasteye.net/countries/saudi-arabia\">Saudi Arabia</a>'s foreign ministry affirmed its full support for the \"unity and territorial integrity\" of Somalia.&nbsp;</p> <p>\"The Kingdom expresses its rejection of the announcement of mutual recognition between the Israeli occupation authorities and the Somaliland region, considering it an action that entrenches unilateral secessionist measures that violate international law,\" it stated.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>It added that Riyadh rejected attempts to impose \"parallel entities\" that undermine Somalia's unity, and said it supported the \"legitimate institutions of the Somali state\".</p> <p><a href=\"https://www.middleeasteye.net/countries/turkey\">Turkey</a>'s foreign ministry <a href=\"https://www.mfa.gov.tr/sc_-27_-disisleri-bakanligi-sozcusu-oncu-keceli-nin-israil-in-somaliland-bolgesinin-bagimsizligini-tanidigina-iliskin-aciklamasi-hk-sc.en.mfa\">said</a> the recognition was \"yet another example of&nbsp;the Netanyahu government's unlawful actions aimed at creating instability at both the regional and global levels\".</p> <p>\"This step by Israel, whose expansionist policies persist and which spares no effort to prevent the recognition of the State of Palestine, amounts to an explicit intervention in Somalia's internal affairs,\" it said.&nbsp;</p> <p>On Saturday, <a href=\"https://www.middleeasteye.net/countries/qatar\">Qatar</a>'s foreign ministry added its name to the list of countries to reject the recognition.&nbsp;</p> <p>Doha said the development was a \"dangerous precedent and unilateral action\" which contravened the principles of international law and undermined the sovereignty, unity and territorial integrity of Somalia.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div> <div class=\"adsense responsive\"> <!-- responsive --> <ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins> </div> </div> </div> <p>\"It would be more appropriate for the Israeli occupation authorities to recognise the State of <a href=\"https://www.middleeasteye.net/countries/palestine\">Palestine</a>… rather than continuing to undermine international legitimacy and pursue reckless policies that contribute to heightened tensions and instability in the region.\"</p> <p><a href=\"https://www.middleeasteye.net/countries/sudan\">Sudan</a> also <a href=\"https://x.com/MofaSudan/status/2004875665888477675?s=20\">expressed</a> \"strong condemnation of the Israeli occupier's recognition of the Somali region of Somaliland, which violates international covenants\".&nbsp;</p> <h3>Fear of Palestinian displacement to Somaliland</h3> <p>Badr Abdelatty, <a href=\"https://www.middleeasteye.net/countries/egypt\">Egypt</a>'s foreign minister, held a phone call on Friday with his counterparts in Somalia, Turkey and Djibouti, following the announcement.&nbsp;</p> <p>Egypt's foreign ministry said that the ministers of all four countries rejected and condemned Israel's recognition of Somaliland.<br /> <br /> It said that Cairo also rejected \"any plans to displace the Palestinian people outside their land, which are rejected by the vast majority of the world's countries\".</p> <p>Earlier this year, several media outlets reported that the US and Israel had contacted Somaliland over the potential resettlement of forcibly displaced Palestinians from Gaza.</p> <p>Somaliland's foreign minister denied the reports, <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/somaliland-minister-says-no-talks-anyone-regarding-resettlement\">stating</a>: \"I haven't received such a proposal, and there are no talks with anyone regarding Palestinians.\"</p> <p>The discussions risked tensions and anger among Somalilanders, analysts and locals previously <a href=\"https://www.middleeasteye.net/news/somaliland-risks-internal-strife-plan-relocate-displaced-palestinians-gaza\">told</a> Middle East Eye.</p> <p>It's not yet clear if the mutual declaration between Somaliland and Israel this week involved any discussions about forcibly displacing Palestinians.</p> <div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\"> <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/somaliland-risks-internal-strife-plan-relocate-displaced-palestinians-gaza\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/woman-market-somaliland-luis-tato-afp-8-11-24.jpg.webp?itok=sHTfMe2C\" width=\"400\" /> </a> <div class=\"mee-readmore-description\">Somaliland risks tensions with plan to accept displaced Palestinians from Gaza</div> <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/somaliland-risks-internal-strife-plan-relocate-displaced-palestinians-gaza\">Read More »</a> </div> <p>Ahmed Moalim Fiqi, Somalia's defence minister, <a href=\"https://x.com/AhmedMoFiqi/status/2004637253180805485?s=20\">said</a> that Mogadishu would \"under no circumstances\" accept Israel's recognition of the northern region.&nbsp;</p> <p>\"Any discussion of forcibly displacing the Palestinians or relocating them to [Somali] territory is completely unacceptable [and] violates their fundamental right to live on their own land,\"&nbsp;he added.&nbsp;</p> <p>\"Those involved, including the leaders of Somaliland, bear full responsibility for their heinous actions.\"</p> <p>The Palestinian Authority's foreign ministry also condemned the development.&nbsp;</p> <p>\"This rejected recognition is considered part of Israel's attempts, as a colonial power working to undermine international peace and security, particularly regional and Arab security, which insists on threatening the region,\" it said.&nbsp;</p> <p>It recalled that \"Israel had previously used the name Somaliland as a destination for the deportation of members of our Palestinian people, especially from the Gaza Strip\", adding a warning against \"anyone's alignment with these rejected propositions\".</p> <p>Hamas also <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-israel-somaliland-recognition\">criticised</a> Somaliland's government, stating that it had attempted to gain \"false legitimacy\" from what it described as an occupying, war-criminal state.</p> <p>It rejected Israeli proposals to use Somaliland as a destination for forcibly displaced people from Gaza, and praised Arab and Islamic countries that condemned the move.</p> <p>Netanyahu said the declaration on Friday was \"in the spirit\" of the Abraham Accords, the normalisation agreements signed between Israel and several Arab states in 2020.&nbsp;</p> <p>He extended an invitation to Abdirahman Mohamed Abdullahi, Somaliland's president, for an official visit to Israel - an invite which&nbsp;Abdullahi said he would take up&nbsp;\"as soon as possible\".</p> <h3>African Union rejects recognition</h3> <p>The chairperson of the African Union, a union of 55 member states within the continent, expressed \"deep concern\" over the development.&nbsp;</p> <p>Mahmoud Ali Youssouf <a href=\"https://x.com/_AfricanUnion/status/2004650051595829456?s=20\">stressed</a> the consistent position of the union over the \"intangibility of borders inherited at independence, as affirmed by the 1964 decision of the Organization of African Unity\".</p> <p>Cameron Hudson, a consultant on security and geopolitics in Africa, and former CIA analyst, told MEE that while a few countries may follow Israel's lead, there would be pushback from African countries.&nbsp;</p> <p>\"Countries that don't want to endanger their relationships with the African Union, other African countries&nbsp;or other Arab states rejecting this recognition, will be hesitant to advance any diplomatic relationship with Somaliland,\"&nbsp;Hudson said.</p> <p>\"This is a very divisive and selfish move by the Israelis to advance their own interests, without providing broader recognition of the interests of other African or regional states who will see this as unsettling and even threatening.\"</p> <p>There were a few figures who welcomed the move.&nbsp;</p> <p>Tarekegn Bululta Godana, an Ethiopian state minister for industry, <a href=\"https://x.com/TarekegnBululta/status/2004598905829498926?s=20\">wrote</a> on X: \"A notable diplomatic move that could shape the future trajectory of the Horn of Africa. Regional impacts will be important to follow. Good News for @Somaalilanders.\"</p> <p>In the <a href=\"https://www.middleeasteye.net/countries/uk\">UK</a>, Nigel Farage, the right-wing leader of Reform - who has advocated for Somaliland for several years - welcomed the move.&nbsp;\"Somaliland deserves this status,\" he <a href=\"https://x.com/Nigel_Farage/status/2004668921627169214?s=20\">said</a> on X.&nbsp;</p> <p>The <a href=\"https://www.middleeasteye.net/countries/uae\">UAE</a> - which has long maintained close relations with Somaliland and is thought to be a key advocate for Hargeisa's recognition on the international stage - did not immediately react to Israel's declaration.&nbsp;</p> <p>MEE <a href=\"https://www.middleeasteye.net/news/uae-yemen-somalia-circle-bases-control-gulf-of-aden\">reported</a> in October that Somaliland's Berbera port was part of a network of bases along the Gulf of Aden built by the UAE.</p> <p>Later on Saturday, a <a href=\"https://x.com/ForeignMinistry/status/2004981230840979801?s=20\">statement</a> condemning the recognition was signed jointly by <a href=\"https://www.middleeasteye.net/countries/jordan\">Jordan</a>, Egypt, <a href=\"https://www.middleeasteye.net/countries/algeria\">Algeria</a>, Comoros, Djibouti, Gambia, <a href=\"https://www.middleeasteye.net/countries/iran\">Iran</a>, <a href=\"https://www.middleeasteye.net/countries/iraq\">Iraq</a>, <a href=\"https://www.middleeasteye.net/countries/kuwait\">Kuwait</a>, <a href=\"https://www.middleeasteye.net/countries/libya\">Libya</a>, the Maldives, Nigeria, <a href=\"https://www.middleeasteye.net/countries/oman\">Oman</a>, <a href=\"https://www.middleeasteye.net/countries/pakistan\">Pakistan</a>, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Turkey, <a href=\"https://www.middleeasteye.net/countries/yemen\">Yemen</a>, and the Organisation of Islamic Cooperation (OIC).&nbsp;</p> <p>Notably, the foreign ministry of the UAE, which is part of the 57-member OIC, was not one of the individual signatories&nbsp;of the statement.&nbsp;</p> </div> <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/diplomacy\" hreflang=\"en\">Diplomacy</a></div> <div class=\"field field-field-coauthor-location\"> <div> </div> <div> </div> <div> </div> <div> </div> </div> <div class=\"field field-field-article-location\"> </div> <div class=\"field field-field-landing-title\">How Trump, Saudi Arabia, Turkey and others reacted to Israeli recognition of Somaliland</div> <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div> <div class=\"field field-field-post-date-override\"> <div>Post Date Override</div> <div>0</div> </div> <div class=\"field field-field-update-date-override\"> <div>Update Date</div> <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time> </div> </div> <div class=\"field field-field-update-date-check\"> <div>Update Date Override</div> <div>0</div> </div> </div> </article>",
-    "published": "Sat, 27 Dec 2025 11:44:37 +0000",
+    "title": "Three Iranian satellites launched into orbit on Russian rocket, state media says",
+    "link": "https://www.timesofisrael.com/three-iranian-satellites-launched-into-orbit-on-russian-rocket-state-media-says/",
+    "summary": "<p>In 2nd launch since July, Tehran says Paya, Kowsar and Zafar-2 satellites sent into space from Vostochny launchpad in eastern Russia</p> <p>The post <a href=\"https://www.timesofisrael.com/three-iranian-satellites-launched-into-orbit-on-russian-rocket-state-media-says/\">Three Iranian satellites launched into orbit on Russian rocket, state media says</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AFP__20251228__896N6CT__v1__HighRes__RussiaIranSatellite-1024x640.jpg\" title=\"Three Iranian satellites launched into orbit on Russian rocket, state media says\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 15:52:20 +0000",
     "country": "Iran",
-    "key": "779372dde7db39fc8931d7f158a9af2b"
+    "key": "e65f603ebd6680a65b5df3a9413f7358"
   },
   {
-    "title": "Hezbollah’s Silent Win: A City Destroyed Economically - Sponsored Content",
-    "link": "https://toi.li/Igjs0q",
-    "summary": "<p>Hezbollah didn’t destroy the North with missiles, but two years of evacuation demolished the economy. Parents return home to unemployment and struggle to feed their children.</p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/hezbollahs-silent-win-a-city-destroyed-economically/\">Hezbollah’s Silent Win: A City Destroyed Economically</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/kiryat-shmona-1024x640.png\" title=\"Hezbollah’s Silent Win: A City Destroyed Economically\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 07:18:31 +0000",
+    "title": "Jewish Disagreement in Public and in Private – with Jeremy Burton - Sponsored Content",
+    "link": "https://www.timesofisrael.com/spotlight/jewish-disagreement-in-public-and-in-private-with-jeremy-burton/",
+    "summary": "<p>From debates over politics, antisemitism, and public representation to disagreements over kugel recipes, Jews are not immune to the polarization that characterizes society today.</p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/jewish-disagreement-in-public-and-in-private-with-jeremy-burton/\">Jewish Disagreement in Public and in Private &#8211; with Jeremy Burton</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/11/AP24310710683646-1024x640.jpg\" title=\"Jewish Disagreement in Public and in Private &#8211; with Jeremy Burton\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 15:15:54 +0000",
     "country": "Israël/Palestine",
-    "key": "c432959ebfaa9dd54e7bc3d8e0ee6531"
+    "key": "5febf9276966754b5ac3e60bfb49fe6a"
   },
   {
-    "title": "Senior Mormon official Jeffrey Holland, who fostered ties with Jews, dies at 85",
-    "link": "https://www.timesofisrael.com/senior-mormon-official-jeffrey-holland-who-fostered-ties-with-jews-dies-at-85/",
-    "summary": "<p>Brigham Young University's president from 1980 to 1989, who was in line to take over LDS Church, established satellite campus in Jerusalem, won 'Torch of Liberty' award from ADL</p> <p>The post <a href=\"https://www.timesofisrael.com/senior-mormon-official-jeffrey-holland-who-fostered-ties-with-jews-dies-at-85/\">Senior Mormon official Jeffrey Holland, who fostered ties with Jews, dies at 85</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AP25361533756916-1024x640.jpg\" title=\"Senior Mormon official Jeffrey Holland, who fostered ties with Jews, dies at 85\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 06:28:29 +0000",
+    "title": "“Why do we start so late?” - Sponsored Content",
+    "link": "https://www.timesofisrael.com/spotlight/why-do-we-start-so-late/",
+    "summary": "<p>Lynne Azarchi and Harlene Lichter Galen, authors of Countering Antisemitism &#038; Hate: A How-To Guide for Youth, tell us how to support children in navigating antisemitism with pride.</p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/why-do-we-start-so-late/\">&#8220;Why do we start so late?&#8221;</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2023/01/WhatsApp-Image-2023-01-25-at-14.04.08-1024x640.jpeg\" title=\"&#8220;Why do we start so late?&#8221;\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 15:02:23 +0000",
     "country": "Israël/Palestine",
-    "key": "7e2f08f7e38b49fbbbfb7cfcde3282ec"
+    "key": "4839fdb442016106321f972edb063e70"
   },
   {
-    "title": "Netanyahu departs for US to meet Trump on Gaza plan, Hezbollah tensions",
-    "link": "https://www.timesofisrael.com/liveblog-december-28-2025/",
-    "summary": "<p>No statement from premier ahead of high-stakes trip to Mar-a-Lago * Hardline Haredi group calls mass demonstrations for this afternoon * Three rescued from rising floodwaters in northern Negev</p> <p>The post <a href=\"https://www.timesofisrael.com/liveblog-december-28-2025/\">Netanyahu departs for US to meet Trump on Gaza plan, Hezbollah tensions</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AP25286483611233-e1766907923636-1024x640.jpg\" title=\"Netanyahu departs for US to meet Trump on Gaza plan, Hezbollah tensions\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 04:36:41 +0000",
+    "title": "Intelligence Operations that - Sponsored Content",
+    "link": "https://toi.li/dAoUSf",
+    "summary": "<p>Noam sits with Pulitzer Prize–winning journalist Ronen Bergman for a smart, funny, and deeply human look at the Mossad, Shin Bet, and Israel’s security establishment. </p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/intelligence-operations-that/\">Intelligence Operations that</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/04/F250408YS009-e1744099439947-1024x640.jpg\" title=\"Intelligence Operations that\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 14:56:58 +0000",
     "country": "Israël/Palestine",
-    "key": "ed36e75d98aac121128add49f8456099"
+    "key": "fb813cdb157043a1f23da343ed70520b"
   },
   {
-    "title": "Hamas said set to soon elect new leader, with pro-Iran candidate Hayya likely to win",
-    "link": "https://www.timesofisrael.com/hamas-said-set-to-elect-new-leader-soon-with-pro-iran-candidate-hayya-likely-to-win/",
-    "summary": "<p>Report says the other leading candidate is terror group's former head Mashaal, who is said to favor diplomacy on Gaza whereas frontrunner backs 'armed conflict'</p> <p>The post <a href=\"https://www.timesofisrael.com/hamas-said-set-to-elect-new-leader-soon-with-pro-iran-candidate-hayya-likely-to-win/\">Hamas said set to soon elect new leader, with pro-Iran candidate Hayya likely to win</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/02/AP25015795253955-1024x640.jpg\" title=\"Hamas said set to soon elect new leader, with pro-Iran candidate Hayya likely to win\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 03:46:25 +0000",
+    "title": "Violent protests erupt as Ben Gvir tours Bedouin town targeted in police raids",
+    "link": "https://www.timesofisrael.com/violent-protests-erupt-as-ben-gvir-tours-bedouin-town-targeted-in-police-raids/",
+    "summary": "<p>Officers arrest 2, use tear gas in clashes with disgruntled protesters railing against far-right minister's visit, in wake of overnight vandalism in nearby Jewish towns</p> <p>The post <a href=\"https://www.timesofisrael.com/violent-protests-erupt-as-ben-gvir-tours-bedouin-town-targeted-in-police-raids/\">Violent protests erupt as Ben Gvir tours Bedouin town targeted in police raids</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/DUAL-3-1-1024x640.jpeg\" title=\"Violent protests erupt as Ben Gvir tours Bedouin town targeted in police raids\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 14:44:33 +0000",
+    "country": "Israël/Palestine",
+    "key": "e0c1910a077be78221054dc734a0bdc9"
+  },
+  {
+    "title": "What happens after we die? - Sponsored Content",
+    "link": "https://toi.li/qVWGbR",
+    "summary": "<p>What does Judaism say about the afterlife, Olam HaBa, the World to Come?</p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/what-happens-after-we-die/\">What happens after we die?</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2018/04/Polish-Cemetary-2-1024x640.jpg\" title=\"What happens after we die?\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 14:43:02 +0000",
+    "country": "Israël/Palestine",
+    "key": "ab44338334f86b4489f94e6cd864bd6b"
+  },
+  {
+    "title": "Inside Trump Era Economic Diplomacy - Sponsored Content",
+    "link": "https://toi.li/K8hgoG",
+    "summary": "<p>We speak with Mitchell A. Silk, the first Hasidic Jew to serve in a Senate-confirmed U.S. government role and a key architect of Trump-era global economic policy. </p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/inside-trump-era-economic-diplomacy-2/\">Inside Trump Era Economic Diplomacy</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25303190065176-1024x640.jpg\" title=\"Inside Trump Era Economic Diplomacy\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 14:38:40 +0000",
+    "country": "Israël/Palestine",
+    "key": "5775de13a6aa5ff8fc69cccadf1f6a5d"
+  },
+  {
+    "title": "Cop who investigated Netanyahu suspected of passing tips to mafia for kickbacks",
+    "link": "https://www.timesofisrael.com/cop-who-investigated-netanyahu-suspected-of-passing-tips-to-mafia-for-kickbacks/",
+    "summary": "<p>Retired detective Tzachi Havkin, now a defense witness alleging police misconduct in PM's case, is suspected of providing intelligence to Musli crime family</p> <p>The post <a href=\"https://www.timesofisrael.com/cop-who-investigated-netanyahu-suspected-of-passing-tips-to-mafia-for-kickbacks/\">Cop who investigated Netanyahu suspected of passing tips to mafia for kickbacks</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/F251228YSFILE08-1024x640.jpg\" title=\"Cop who investigated Netanyahu suspected of passing tips to mafia for kickbacks\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 14:07:41 +0000",
+    "country": "Israël/Palestine",
+    "key": "1e2b0a14544b416f8a8f8dfd2e89f532"
+  },
+  {
+    "title": "Daily Briefing Dec. 28: Day 814 – Will $35 billion gas deal with Egypt hike electricity costs?",
+    "link": "https://www.timesofisrael.com/daily-briefing-dec-28-day-814-will-35-billion-gas-deal-with-egypt-hike-electricity-costs/",
+    "summary": "<p>Tech editor Sharon Wrobel reports on natural gas agreement; archaeology reporter Rossella Tercatin discusses ancient Holy Land trinkets and Israel's Kingdom of David</p> <p>The post <a href=\"https://www.timesofisrael.com/daily-briefing-dec-28-day-814-will-35-billion-gas-deal-with-egypt-hike-electricity-costs/\">Daily Briefing Dec. 28: Day 814 &#8211; Will $35 billion gas deal with Egypt hike electricity costs?</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/2-16-1024x640.jpg\" title=\"Daily Briefing Dec. 28: Day 814 &#8211; Will $35 billion gas deal with Egypt hike electricity costs?\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 13:39:16 +0000",
+    "country": "Israël/Palestine",
+    "key": "83a69bef08fa7f16f9f18150d75c40e3"
+  },
+  {
+    "title": "Over 20 civil society, green, health bodies call for changes to key budget bill",
+    "link": "https://www.timesofisrael.com/over-20-civil-society-green-health-bodies-call-for-changes-to-key-budget-bill/",
+    "summary": "<p>Organizations want removal of proposed planning changes with environmental, health implications from catch-all Economic Arrangements Bill that limits public discussion</p> <p>The post <a href=\"https://www.timesofisrael.com/over-20-civil-society-green-health-bodies-call-for-changes-to-key-budget-bill/\">Over 20 civil society, green, health bodies call for changes to key budget bill</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/08/F240729YA222-1024x640.jpg\" title=\"Over 20 civil society, green, health bodies call for changes to key budget bill\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 13:25:39 +0000",
+    "country": "Israël/Palestine",
+    "key": "649bd557f5b169606742a8341a33742f"
+  },
+  {
+    "title": "After Hanukkah attack, Australian FM says she’s ‘desperately sorry’ about antisemitism",
+    "link": "https://www.timesofisrael.com/after-hanukkah-attack-australian-fm-says-shes-desperately-sorry-about-antisemitism/",
+    "summary": "<p>Penny Wong pledges to clamp down on hate speech, guns; PM Albanese ends interview after he's shown old clip of him speaking at anti-Israel rally with Hezbollah flag in background</p> <p>The post <a href=\"https://www.timesofisrael.com/after-hanukkah-attack-australian-fm-says-shes-desperately-sorry-about-antisemitism/\">After Hanukkah attack, Australian FM says she&#8217;s &#8216;desperately sorry&#8217; about antisemitism</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AP25342559122101-1024x640.jpg\" title=\"After Hanukkah attack, Australian FM says she&#8217;s &#8216;desperately sorry&#8217; about antisemitism\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 13:25:13 +0000",
+    "country": "Israël/Palestine",
+    "key": "cf3f7ef8750d930c6e51361e3034d6f9"
+  },
+  {
+    "title": "As the year comes to a close, stand with the IDF’s widows and orphans - Sponsored Content",
+    "link": "https://toi.li/glbUG1",
+    "summary": "<p>Over 1,200 new widows and orphans since Oct 7. IDFWO provides lifelong programs, emotional care, financial aid, and healing to help these families rebuild their lives.</p> <p>The post <a href=\"https://www.timesofisrael.com/spotlight/as-2025-comes-to-a-close-stand-with-the-idfs-widows-and-orphans/\">As the year comes to a close, stand with the IDF&#8217;s widows and orphans</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/WhatsApp-Image-2025-12-28-at-15.09.40-1024x640.jpeg\" title=\"As the year comes to a close, stand with the IDF&#8217;s widows and orphans\" width=\"160\" /></figure>",
+    "published": "Sun, 28 Dec 2025 13:24:26 +0000",
+    "country": "Israël/Palestine",
+    "key": "1a8a19da089761bdb4e9f0812c3c6421"
+  },
+  {
+    "title": "Hezbollah chief says disarming resistance serves US-Israeli project",
+    "link": "https://en.irna.ir/news/86038455/Hezbollah-chief-says-disarming-resistance-serves-US-Israeli-project",
+    "summary": "Tehran, IRNA – Hezbollah’s Secretary-General Sheikh Naim Qassem says that calls to disarm the resistance were part of a joint US-Israeli project, arguing that such demands served Israel rather than Lebanon, while Israeli attacks on the country continue.",
+    "published": "Sun, 28 Dec 2025 16:24:29 GMT",
     "country": "Iran",
-    "key": "8170cfbd824d15d7bc785e73249f1b27"
+    "key": "c88ca959549af1304b1ab0d301832666"
   },
   {
-    "title": "NY governor steps in to prevent demolition of century-old Brooklyn synagogue",
-    "link": "https://www.timesofisrael.com/ny-governor-steps-in-to-prevent-demolition-of-century-old-brooklyn-synagogue/",
-    "summary": "<p>Kingsbrook Synagogue, set up at hospital to serve Jews escaping antisemitism, had been slated for destruction in development project</p> <p>The post <a href=\"https://www.timesofisrael.com/ny-governor-steps-in-to-prevent-demolition-of-century-old-brooklyn-synagogue/\">NY governor steps in to prevent demolition of century-old Brooklyn synagogue</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AP25294699189281-e1766774178296-1024x640.jpg\" title=\"NY governor steps in to prevent demolition of century-old Brooklyn synagogue\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 02:23:33 +0000",
-    "country": "Israël/Palestine",
-    "key": "3b9548c0e5b039bb3ed226069a166297"
-  },
-  {
-    "title": "Israel braces for potential floods as downpour forecast for Monday",
-    "link": "https://www.timesofisrael.com/israel-braces-for-potential-floods-as-downpour-forecast-for-monday/",
-    "summary": "<p>Some 60-80 millimeters of rain expected within a few hours in central areas; after rainy weekend, Sunday set to see less precipitation and winds, which will pick up the next day</p> <p>The post <a href=\"https://www.timesofisrael.com/israel-braces-for-potential-floods-as-downpour-forecast-for-monday/\">Israel braces for potential floods as downpour forecast for Monday</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/F251227MG08-1024x640.jpg\" title=\"Israel braces for potential floods as downpour forecast for Monday\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 02:03:24 +0000",
-    "country": "Israël/Palestine",
-    "key": "5ccb5c9f78eef902537b71e597e7988a"
-  },
-  {
-    "title": "How ‘Natural Woman’ Carole King defied societal expectations to achieve pop stardom",
-    "link": "https://www.timesofisrael.com/how-natural-woman-carole-king-defied-societal-expectations-to-achieve-pop-stardom/",
-    "summary": "<p>Former Forward editor Jane Eisner's new biography tracks the Jewish artist from her native NYC to California, where she recorded hit album 'Tapestry,' through multiple marriages in Idaho</p> <p>The post <a href=\"https://www.timesofisrael.com/how-natural-woman-carole-king-defied-societal-expectations-to-achieve-pop-stardom/\">How &#8216;Natural Woman&#8217; Carole King defied societal expectations to achieve pop stardom</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/09/AP21140477763114-1024x640.jpg\" title=\"How &#8216;Natural Woman&#8217; Carole King defied societal expectations to achieve pop stardom\" width=\"160\" /></figure>",
-    "published": "Sun, 28 Dec 2025 00:33:30 +0000",
-    "country": "Israël/Palestine",
-    "key": "af384d0791f1ce9dd51c04f108ea6173"
-  },
-  {
-    "title": "Former police chief slams Netanyahu at rainy anti-government protest in Tel Aviv",
-    "link": "https://www.timesofisrael.com/former-police-chief-slams-netanyahu-at-rainy-anti-government-protest-in-tel-aviv/",
-    "summary": "<p>Addressing ministers as new revelations emerge on Qatargate scandal, Roni Alsheich says: 'How dare you sit in the cabinet eating bourekas without asking Netanyahu tough questions?'</p> <p>The post <a href=\"https://www.timesofisrael.com/former-police-chief-slams-netanyahu-at-rainy-anti-government-protest-in-tel-aviv/\">Former police chief slams Netanyahu at rainy anti-government protest in Tel Aviv</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/F251227AVS04-1024x640.jpg\" title=\"Former police chief slams Netanyahu at rainy anti-government protest in Tel Aviv\" width=\"160\" /></figure>",
-    "published": "Sat, 27 Dec 2025 22:31:06 +0000",
-    "country": "Israël/Palestine",
-    "key": "931b0405549660196e8428a1e01a78a0"
-  },
-  {
-    "title": "Exhibit brings visitors back to Tel Aviv’s Shalom Meir Tower",
-    "link": "https://www.timesofisrael.com/exhibit-brings-visitors-back-to-tel-avivs-shalom-meir-tower/",
-    "summary": "<p>Pop-up event fills empty office high-rise's raw, industrial space</p> <p>The post <a href=\"https://www.timesofisrael.com/exhibit-brings-visitors-back-to-tel-avivs-shalom-meir-tower/\">Exhibit brings visitors back to Tel Aviv&#8217;s Shalom Meir Tower</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/IMG_1117-1024x640.jpeg\" title=\"Exhibit brings visitors back to Tel Aviv&#8217;s Shalom Meir Tower\" width=\"160\" /></figure>",
-    "published": "Sat, 27 Dec 2025 21:42:00 +0000",
-    "country": "Israël/Palestine",
-    "key": "59aae7effbdc4b705106104ca61fb55b"
-  },
-  {
-    "title": "UN Security Council to convene emergency meeting on Israel’s Somaliland recognition",
-    "link": "https://www.timesofisrael.com/un-security-council-to-convene-emergency-meeting-on-israels-somaliland-recognition/",
-    "summary": "<p>EU joins chorus of condemnations against move; 21 mostly Muslim nations say decision will have 'serious repercussions' on peace and security</p> <p>The post <a href=\"https://www.timesofisrael.com/un-security-council-to-convene-emergency-meeting-on-israels-somaliland-recognition/\">UN Security Council to convene emergency meeting on Israel&#8217;s Somaliland recognition</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/12/AFP__20251223__88XT8EC__v1__HighRes__UnUsDiplomacyVenezuela-1024x640.jpg\" title=\"UN Security Council to convene emergency meeting on Israel&#8217;s Somaliland recognition\" width=\"160\" /></figure>",
-    "published": "Sat, 27 Dec 2025 21:27:59 +0000",
-    "country": "Israël/Palestine",
-    "key": "d0144c10ef838a34f0543feb6bf0887b"
-  },
-  {
-    "title": "Police’s top legal adviser to retire, a year after police chief sought his dismissal",
-    "link": "https://www.timesofisrael.com/polices-top-legal-adviser-to-retire-a-year-after-police-chief-sought-his-dismissal/",
-    "summary": "<p>Outgoing legal counsel Elazar Kahana criticized Ben Gvir's bid to promote cop under probe for assault; police chief stopped short of dismissing him after AG froze move</p> <p>The post <a href=\"https://www.timesofisrael.com/polices-top-legal-adviser-to-retire-a-year-after-police-chief-sought-his-dismissal/\">Police&#8217;s top legal adviser to retire, a year after police chief sought his dismissal</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2024/10/F240509CG09-1-e1729649234365-1024x640.jpg\" title=\"Police&#8217;s top legal adviser to retire, a year after police chief sought his dismissal\" width=\"160\" /></figure>",
-    "published": "Sat, 27 Dec 2025 20:59:55 +0000",
-    "country": "Israël/Palestine",
-    "key": "6d3b5feed2330a830b32ecb0bf412197"
-  },
-  {
-    "title": "Iran’s president says country in midst of ‘total war’ with US, Israel and Europe",
-    "link": "https://www.timesofisrael.com/irans-president-says-country-in-midst-of-total-war-with-us-israel-and-europe/",
-    "summary": "<p>In interview, Masoud Pezeshkian claims Islamic Republic's army now stronger than before June conflict, outlines 20-point economic plan to improve ailing economy</p> <p>The post <a href=\"https://www.timesofisrael.com/irans-president-says-country-in-midst-of-total-war-with-us-israel-and-europe/\">Iran&#8217;s president says country in midst of &#8216;total war&#8217; with US, Israel and Europe</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.</p> <figure><img border=\"0\" class=\"type:primaryImage\" height=\"100\" src=\"https://static-cdn.toi-media.com/www/uploads/2025/10/AP25269704320793-1024x640.jpg\" title=\"Iran&#8217;s president says country in midst of &#8216;total war&#8217; with US, Israel and Europe\" width=\"160\" /></figure>",
-    "published": "Sat, 27 Dec 2025 19:01:24 +0000",
+    "title": "Exclusive | Venezuelans unfazed by US military threats, stand firmly with govt.: Analyst",
+    "link": "https://en.irna.ir/news/86038407/Exclusive-Venezuelans-unfazed-by-US-military-threats-stand",
+    "summary": "Tehran, IRNA - Angelo Giuliano, a Swiss-Italian activist and political analyst, who recently travelled to Venezuela, says the people of the South American country are firmly backing their government against aggression and the war of words launched by the United States.",
+    "published": "Sun, 28 Dec 2025 16:20:38 GMT",
     "country": "Iran",
-    "key": "b40a482f604ab82dbfdc612879bebca6"
+    "key": "ef1989462fe5827d59f030f5b7ffb2a0"
+  },
+  {
+    "title": "Any new enemy mischief will be met with more decisive response: President",
+    "link": "https://en.irna.ir/news/86038415/Any-new-enemy-mischief-will-be-met-with-more-decisive-response",
+    "summary": "President Masoud Pezeshkian has warned that Iran will give a more decisive response to any act of mischief by the enemies.",
+    "published": "Sun, 28 Dec 2025 15:26:31 GMT",
+    "country": "Iran",
+    "key": "6bf5361fe9d6327a022925ef6d1700b5"
+  },
+  {
+    "title": "Death of Bahram Beyzai loss for Iran's artistic and cultural community: President",
+    "link": "https://en.irna.ir/news/86038345/Death-of-Bahram-Beyzai-loss-for-Iran-s-artistic-and-cultural",
+    "summary": "Tehran, IRNA — President Masoud Pezeshkian has offered his condolences over the passing of Bahram Beyzai, one of the pioneers of Iranian cinema and theatre.",
+    "published": "Sun, 28 Dec 2025 14:46:24 GMT",
+    "country": "Iran",
+    "key": "e605596d0f361a7ddc3806600b0664db"
+  },
+  {
+    "title": "Iran launches three domestically built satellites aboard Russian Soyuz rocket",
+    "link": "https://en.irna.ir/news/86038360/Iran-launches-three-domestically-built-satellites-aboard-Russian",
+    "summary": "Moscow, IRNA – Iran has launched three domestically built satellites into space aboard a Russian Soyuz rocket.",
+    "published": "Sun, 28 Dec 2025 14:34:44 GMT",
+    "country": "Iran",
+    "key": "843a937907440941e95e9fd069fb22cc"
+  },
+  {
+    "title": "Araghchi urges Yemeni factions to preserve unity, avoid division",
+    "link": "https://en.irna.ir/news/86038332/Araghchi-urges-Yemeni-factions-to-preserve-unity-avoid-division",
+    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi urged Yemen’s political parties and groups to engage in dialogue to prevent the country’s weakening and fragmentation, stressing the need to preserve Yemen’s territorial integrity.",
+    "published": "Sun, 28 Dec 2025 14:23:56 GMT",
+    "country": "Iran",
+    "key": "d112cac6202e2d7138204aa8e99fd1c6"
+  },
+  {
+    "title": "Russian FM calls for viable Palestinian State to address historical injustices",
+    "link": "https://en.irna.ir/news/86038196/Russian-FM-calls-for-viable-Palestinian-State-to-address-historical",
+    "summary": "Tehran, IRNA —Russian Foreign Minister Sergei Lavrov has reiterated his country's support for the formation of a Palestinian State in order to achieve enduring peace and stability across the West Asia region.",
+    "published": "Sun, 28 Dec 2025 12:58:26 GMT",
+    "country": "Iran",
+    "key": "beefca9de037aec9b53ce1dba989f6fb"
+  },
+  {
+    "title": "Gaza health chief warns of population crisis amid targeted attacks on fertility centers",
+    "link": "https://en.irna.ir/news/86038038/Gaza-health-chief-warns-of-population-crisis-amid-targeted-attacks",
+    "summary": "Tehran, IRNA – Munir Al-Barsh, Director-General of Gaza’s Ministry of Health, has revealed that monthly births have plummeted by 40 percent over the past year, dropping from 26,000 to just 17,000, disclosing that fertility and IVF centers have been directly targeted by Israeli forces.",
+    "published": "Sun, 28 Dec 2025 10:48:18 GMT",
+    "country": "Iran",
+    "key": "1bf617bf8ecfcad228724aa57891725f"
+  },
+  {
+    "title": "Shafiabad named world’s best tourism village in 2025",
+    "link": "https://en.irna.ir/photo/86038068/Shafiabad-named-world-s-best-tourism-village-in-2025",
+    "summary": "The historic village of Shafiabad, near the city of Shahdad in Kerman Province, was named the world’s best tourism village in 2025 by UN Tourism, recognized for its castle, caravanserai, and unique location on the edge of the Lut Desert.",
+    "published": "Sun, 28 Dec 2025 10:13:04 GMT",
+    "country": "Autres",
+    "key": "13a9f7d29fe2980817fa9feb0e337e0a"
+  },
+  {
+    "title": "Iran, Qatar foreign ministers discuss regional developments, Yemen situation",
+    "link": "https://en.irna.ir/news/86037892/Iran-Qatar-foreign-ministers-discuss-regional-developments",
+    "summary": "Tehran, IRNA – The foreign ministers of Iran and Qatar have held talks to review regional developments, with a particular focus on recent events in Yemen and the need to preserve the country’s territorial integrity.",
+    "published": "Sun, 28 Dec 2025 08:24:24 GMT",
+    "country": "Iran",
+    "key": "112af7c37c29577908866a66ea205e14"
   },
   {
     "title": "Iran and Turkey underline expanding parliamentary relations",
@@ -496,227 +576,147 @@
     "key": "948011f08f2c0810a9651933e69ffa29"
   },
   {
-    "title": "Three privately built Iranian satellites set to be launched on Sunday",
-    "link": "https://en.irna.ir/news/86037712/Three-privately-built-Iranian-satellites-set-to-be-launched-on",
-    "summary": "Tehran, IRNA – Iran is slated to launch three domestically developed sensing satellites into space on Sunday from a Russian launch site, a senior official at the Ministry of Communications and Information Technology said.",
-    "published": "Sun, 28 Dec 2025 07:16:31 GMT",
+    "title": "Universities play key role in localizing advanced technology",
+    "link": "https://en.mehrnews.com/news/240233/Universities-play-key-role-in-localizing-advanced-technology",
+    "summary": "TEHRAN, Dec. 28 (MNA) – Iran's minister of defense says academic centers play a leading role in indigenizing technologies, noting that solving strategic issues of country is impossible without relying on scientific capacity of universities.",
+    "published": "Sun, 28 Dec 2025 15:29:10 GMT",
     "country": "Iran",
-    "key": "7b0d55a7a0c7b4310e975c3bb337bc5f"
+    "key": "220e576977015cb16a0bfe6784a8d950"
   },
   {
-    "title": "Santa Claus in Tehran",
-    "link": "https://en.irna.ir/photo/86037766/Santa-Claus-in-Tehran",
-    "summary": "Vanik Ghutoyan, 41, began his work as Santa Claus on Tehran’s Mirzaye Shirazi Street during Christmas 2005 and has since trained eight people for the role. This photo report captures Vanik’s journey from his home as he prepares to take on the role of Santa Claus, to his presence on the street and his interactions with children and passersby in the days leading up to Christmas.",
-    "published": "Sun, 28 Dec 2025 07:05:55 GMT",
+    "title": "Zionist regime police officer injured in Palestinian op.",
+    "link": "https://en.mehrnews.com/news/240229/Zionist-regime-police-officer-injured-in-Palestinian-op",
+    "summary": "TEHRAN, Dec. 28 (MNA) – An Israeli regime police officer was injured on Sunday in a suspected martyrdom-seeking operation by Palestinians involving a car ramming operation in occupied al-Quds, according to reports by Israeli media.",
+    "published": "Sun, 28 Dec 2025 13:59:00 GMT",
     "country": "Iran",
-    "key": "4c27d8833087071a4dc1c22c8e10f97b"
+    "key": "a32c99c4a885ea4d376bc1153d5d3ac9"
   },
   {
-    "title": "Culture minister offers condolences on passing of Bahram Beyzai",
-    "link": "https://en.irna.ir/news/86037719/Culture-minister-offers-condolences-on-passing-of-Bahram-Beyzai",
-    "summary": "Tehran, IRNA – Minister of Culture Abbas Salehi offered condolences on the passing of Bahram Beyzai, the Iranian playwright, theatre and film director, screenwriter, editor, and scholar of Persian theatre history.",
-    "published": "Sun, 28 Dec 2025 07:02:50 GMT",
+    "title": "Pakistan opposes Hamas disarmament",
+    "link": "https://en.mehrnews.com/news/240231/Pakistan-opposes-Hamas-disarmament",
+    "summary": "TEHRAN, Dec. 28 (MNA) – Pakistan has said it is willing to contribute troops to an international force to restore peace in Gaza, but only if the mandate excludes the disarmament of Hamas, a key clause in the US 20-point peace plan.",
+    "published": "Sun, 28 Dec 2025 13:53:30 GMT",
     "country": "Iran",
-    "key": "ed21c75b348ebeac1779c08e9d3aa894"
+    "key": "1135f4dad59b3afca73112e7c94c3ebb"
   },
   {
-    "title": "Christmas Eve shopping buzz in Tehran’s Armenian neighborhoods",
-    "link": "https://en.irna.ir/news/86037622/Christmas-Eve-shopping-buzz-in-Tehran-s-Armenian-neighborhoods",
-    "summary": "From Christmas (December 25) until New Year’s Eve and the beginning of 2026, Iranian Christians fill the Armenian neighborhoods of Tehran with a distinctive sense of excitement and festivity as they shop for Christmas Eve.",
-    "published": "Sun, 28 Dec 2025 05:41:22 GMT",
+    "title": "\"We won’t surrender and we’ll defend our land,\" Qassem says",
+    "link": "https://en.mehrnews.com/news/240232/We-won-t-surrender-and-we-ll-defend-our-land-Qassem-says",
+    "summary": "TEHRAN, Dec. 28 (MNA) – Hezbollah Secretary General Sheikh Naim Qassem has declared the Islamic Resistance in Lebanon will not surrender to the foreign plots and will continue to defend the Lebanese lands against the potential Israeli aggression.",
+    "published": "Sun, 28 Dec 2025 13:43:30 GMT",
     "country": "Iran",
-    "key": "69f1be507bb1ac917d48f36914dbe482"
+    "key": "45a7923c7dd2f06fca8522c1b8fb0753"
   },
   {
-    "title": "Ambassador to Baghdad: US is spying on Iran over Iraqi airspace",
-    "link": "https://en.irna.ir/news/86037458/Ambassador-to-Baghdad-US-is-spying-on-Iran-over-Iraqi-airspace",
-    "summary": "Tehran, IRNA – Iran’s Ambassador to Baghdad Mohammad Kazem Ale-Sadeq has announced that the Islamic Republic has identified American reconnaissance flights using Iraqi airspace to spy on Iranian territory.",
-    "published": "Sat, 27 Dec 2025 22:45:52 GMT",
+    "title": "Iran puts 3 new remote-sensing satellites into orbit",
+    "link": "https://en.mehrnews.com/news/240230/Iran-puts-3-new-remote-sensing-satellites-into-orbit",
+    "summary": "TEHRAN, Dec. 28 (MNA) – Iran put three new remote-sensing satellites into orbit simultaneously, using a Russian launch pad on Sunday.",
+    "published": "Sun, 28 Dec 2025 13:01:11 GMT",
     "country": "Iran",
-    "key": "2a8efed55ec979f02655b7aede77d436"
+    "key": "0949ec3b2a48990700ebbfc80b26a778"
   },
   {
-    "title": "Famous Iranian playwright Bahram Beyzai passes away",
-    "link": "https://en.irna.ir/news/86037494/Famous-Iranian-playwright-Bahram-Beyzai-passes-away",
-    "summary": "Tehran, IRNA – Iranian playwright, theatre director, film director, screenwriter, editor, and scholar of Persian theatre history Bahram Beyzai passed away on his birthday on Saturday.",
-    "published": "Sat, 27 Dec 2025 19:16:11 GMT",
-    "country": "Iran",
-    "key": "0bd22022f3f6cad83d5e185bd000ff68"
-  },
-  {
-    "title": "Iran is prepared to give more decisive response to aggressors: President",
-    "link": "https://en.irna.ir/news/86037418/Iran-is-prepared-to-give-more-decisive-response-to-aggressors",
-    "summary": "Tehran, IRNA – President Masoud Pezeshkian has warned that any act of aggression against Iran would be met with a more decisive response, emphasizing the full preparedness of the Armed Forces to counter enemies and their threats.",
-    "published": "Sat, 27 Dec 2025 16:42:08 GMT",
-    "country": "Iran",
-    "key": "7279f2a7fc038004bc739a81a6e76930"
-  },
-  {
-    "title": "Pakistan says it is pursuing a good course in relations with Tehran",
-    "link": "https://en.irna.ir/news/86037393/Pakistan-says-it-is-pursuing-a-good-course-in-relations-with",
-    "summary": "Islamabad, IRNA – Pakistan is pursuing a good course in its relations with Tehran, Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar said on Saturday, citing steady engagement and close contacts with senior Iranian officials over the past year.",
-    "published": "Sat, 27 Dec 2025 16:05:18 GMT",
-    "country": "Iran",
-    "key": "5feac69669cc80b82e19c9901aaeba3f"
-  },
-  {
-    "title": "Pezeshkian urges people-led environmental management",
-    "link": "https://en.irna.ir/news/86037308/Pezeshkian-urges-people-led-environmental-management",
-    "summary": "Tehran, IRNA – President Masoud Pezeshkian has called for strengthening people-led management in environmental protection, saying communities act more responsibly when they are directly entrusted with safeguarding the environment in which they live and work.",
-    "published": "Sat, 27 Dec 2025 14:59:45 GMT",
-    "country": "Iran",
-    "key": "9998b35746331dd502c105caa70abf0d"
-  },
-  {
-    "title": "Iran condemns Israeli violation of Somalia’s sovereignty and territorial integrity",
-    "link": "https://en.irna.ir/news/86037320/Iran-condemns-Israeli-violation-of-Somalia-s-sovereignty-and",
-    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has reaffirmed support for Somalia’s sovereignty and territorial integrity, condemning an Israeli plot to break the East African nation by officially recognizing its self-declared region of Somaliland.",
-    "published": "Sat, 27 Dec 2025 14:43:32 GMT",
-    "country": "Iran",
-    "key": "3c2fd93eccae4d244a44b98d8e2fafc1"
-  },
-  {
-    "title": "Iran exercises maximum restraint in view of provocations",
-    "link": "https://en.mehrnews.com/news/240217/Iran-exercises-maximum-restraint-in-view-of-provocations",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Iran shows maximum restraint and demonstrates openness to dialogue in response to all the West’s provocations, Russian Foreign Minister Sergey Lavrov says.",
-    "published": "Sun, 28 Dec 2025 06:59:59 GMT",
-    "country": "Iran",
-    "key": "ba1f06262cff5ca293e54b6bd8a67b54"
-  },
-  {
-    "title": "Iran, Qatar urge end to attacks on civilians in Gaza, Lebanon",
-    "link": "https://en.mehrnews.com/news/240216/Iran-Qatar-urge-end-to-attacks-on-civilians-in-Gaza-Lebanon",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Iranian and Qatari foreign ministers exchanged views on developments in Palestine, Lebanon, and Yemen during a telephone call.",
-    "published": "Sun, 28 Dec 2025 06:41:24 GMT",
-    "country": "Iran",
-    "key": "7194139d22d865e07ec87032f2ec3f9f"
-  },
-  {
-    "title": "US spying on Iran over Iraqi airspace",
-    "link": "https://en.mehrnews.com/news/240215/US-spying-on-Iran-over-Iraqi-airspace",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Iran’s Ambassador to Baghdad Mohammad Kazem Al-e Sadeq has announced that Tehran has identified American reconnaissance flights using Iraqi airspace to spy on Iranian territory.",
-    "published": "Sun, 28 Dec 2025 06:23:24 GMT",
-    "country": "Iran",
-    "key": "166a018979d77ad09a0d7faf5d442360"
-  },
-  {
-    "title": "Polls open in Myanmar",
-    "link": "https://en.mehrnews.com/news/240214/Polls-open-in-Myanmar",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Polls have opened in Myanmar’s first general election since the country’s military toppled Nobel laureate Aung San Suu Kyi’s democratically elected government in a 2021 coup.",
-    "published": "Sun, 28 Dec 2025 06:10:41 GMT",
-    "country": "Iran",
-    "key": "8f6cd1c621db7b2344e3bc79fdf42cf7"
-  },
-  {
-    "title": "How to Download Instagram Highlight cover?",
-    "link": "https://en.mehrnews.com/news/240213/How-to-Download-Instagram-Highlight-cover",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Unlock the full potential of your profile with our guide on how to download Instagram Highlight covers in high resolution.",
-    "published": "Sun, 28 Dec 2025 05:01:07 GMT",
-    "country": "Iran",
-    "key": "696c95e16595eb70ef03db2684dfdb2c"
-  },
-  {
-    "title": "Somalia demands Israel withdraw Somaliland recognition",
-    "link": "https://en.mehrnews.com/news/240212/Somalia-demands-Israel-withdraw-Somaliland-recognition",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Somalia has demanded Israel reverse its recognition of the breakaway region of Somaliland, condemning the move as an act of “aggression that will never be tolerated”.",
-    "published": "Sun, 28 Dec 2025 04:34:58 GMT",
-    "country": "Iran",
-    "key": "ee0f08a1a13564442f0625de013fe2f4"
-  },
-  {
-    "title": "Russia still stands for establishment of Palestinian State",
-    "link": "https://en.mehrnews.com/news/240211/Russia-still-stands-for-establishment-of-Palestinian-State",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Russian Foreign Minister Sergey Lavrov says that Moscow still supports the establishment of a Palestinian State.",
-    "published": "Sun, 28 Dec 2025 04:10:54 GMT",
-    "country": "Iran",
-    "key": "3209a2c766374ce53d7e1cc860c98dff"
-  },
-  {
-    "title": "Iraq says it is preparing to host Iran-US Talks in Baghdad",
-    "link": "https://en.mehrnews.com/news/240210/Iraq-says-it-is-preparing-to-host-Iran-US-Talks-in-Baghdad",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Iraqi Prime Minister Mohammed Shia’ al-Sudani reportedly said his country is making efforts to arrange a bilateral meeting between Iran and the United States in Baghdad to resume dialogue.",
-    "published": "Sun, 28 Dec 2025 03:40:02 GMT",
-    "country": "Iran",
-    "key": "26a5b94e7803d825ddaa7bf835181725"
-  },
-  {
-    "title": "Front pages of Iran’s English dailies on December 28",
-    "link": "https://en.mehrnews.com/photo/240209/Front-pages-of-Iran-s-English-dailies-on-December-28",
-    "summary": "TEHRAN, Dec. 28 (MNA) – Here are the front pages of Iran's English language dailies on Sunday, December 28.",
-    "published": "Sun, 28 Dec 2025 03:24:21 GMT",
-    "country": "Iran",
-    "key": "31d861edcd8295c401d9af4d8e0507a3"
-  },
-  {
-    "title": "At least 15 killed after bus plunges into ravine in Guatemala",
-    "link": "https://en.mehrnews.com/news/240208/At-least-15-killed-after-bus-plunges-into-ravine-in-Guatemala",
-    "summary": "TEHRAN, Dec. 27 (MNA) – A passenger bus plunged into a ravine on the Inter-American Highway in western Guatemala, killing at least 15 people.",
-    "published": "Sat, 27 Dec 2025 17:50:41 GMT",
-    "country": "Iran",
-    "key": "5df82bd6b86e8c6e1d0eed11721adc3c"
-  },
-  {
-    "title": "Renowned Iranian playwright Bahram Beyzai passes away",
-    "link": "https://en.mehrnews.com/news/240207/Renowned-Iranian-playwright-Bahram-Beyzai-passes-away",
-    "summary": "TEHRAN, Dec. 27 (MNA) – Iranian playwright, theatre director, film director, screenwriter, editor, and scholar of Persian theatre history Bahram Beyzai passed away on his birthday on Saturday.",
-    "published": "Sat, 27 Dec 2025 17:26:08 GMT",
-    "country": "Iran",
-    "key": "09823f844285b697e46a5ee5eaca0b84"
-  },
-  {
-    "title": "VIDEO: Iranian satellites move towards launch pad in Russia",
-    "link": "https://en.mehrnews.com/news/240206/VIDEO-Iranian-satellites-move-towards-launch-pad-in-Russia",
-    "summary": "TEHRAN, Dec. 27 (MNA) – Thw three Iranian satellites, Tolu-3, Zafar-2, and Kosar-1.5, have been integrated with Russia’s Soyuz-2.1b launch vehicle at the Vostochny Spaceport.",
-    "published": "Sat, 27 Dec 2025 16:13:56 GMT",
-    "country": "Iran",
-    "key": "a763a76b7d2a75920439b2bb62173972"
-  },
-  {
-    "title": "نخستین واکنش تل‌آویو به خبر هک تلفن رئیس دفتر نتانیاهو",
-    "link": "https://www.mehrnews.com/news/6704475/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D8%A8%D9%87-%D8%AE%D8%A8%D8%B1-%D9%87%DA%A9-%D8%AA%D9%84%D9%81%D9%86-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AF%D9%81%D8%AA%D8%B1-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88",
-    "summary": "یک منبع در دفتر نخست وزیر رژیم صهیونیستی به اخبار منتشر شده از سوی گروه هکری حنظله مبنی بر هک تلفن رئیس دفتر نتانیاهو واکنش نشان داد.",
-    "published": "Sun, 28 Dec 2025 08:22:43 GMT",
+    "title": "VIDEO: Snowfall blanketed several regions in Baneh",
+    "link": "https://en.mehrnews.com/news/240227/VIDEO-Snowfall-blanketed-several-regions-in-Baneh",
+    "summary": "KORDESTAN, Dec. 28 (MNA) – Heavy snowfall in Baneh County, Kordestan province covered different district of the city and created difficulties for transportation in the town.",
+    "published": "Sun, 28 Dec 2025 12:05:02 GMT",
     "country": "Autres",
-    "key": "98e34d062c9fa84a664dc2aa931c8285"
+    "key": "aaaf5d2107885a70640358e3de5ed1ec"
   },
   {
-    "title": "پورذهبی: سواد زیربنای قدرت اجتماعی و پیشرفت پایدار است",
-    "link": "https://www.mehrnews.com/news/6704467/%D9%BE%D9%88%D8%B1%D8%B0%D9%87%D8%A8%DB%8C-%D8%B3%D9%88%D8%A7%D8%AF-%D8%B2%DB%8C%D8%B1%D8%A8%D9%86%D8%A7%DB%8C-%D9%82%D8%AF%D8%B1%D8%AA-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%88-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA",
-    "summary": "سنندج- نماینده ولی‌فقیه در کردستان با تأکید بر نقش بنیادین آموزش در شکل‌گیری جامعه توانمند، سوادآموزی را عامل ارتقای فهم، مسئولیت‌پذیری و جایگاه انسانی افراد در مسیر توسعه دانست.",
-    "published": "Sun, 28 Dec 2025 08:21:28 GMT",
-    "country": "Autres",
-    "key": "413ffaea03fa2f9fb202430d8f2d45fb"
+    "title": "Araghchi stresses preserving Yemen's territorial integrity",
+    "link": "https://en.mehrnews.com/news/240228/Araghchi-stresses-preserving-Yemen-s-territorial-integrity",
+    "summary": "TEHRAN, Dec. 28 (MNA) – Iranian Minister of Foreign Affairs Abbas Araghchi held a telephone call with the Yemen 's acting minister of foreign affairs and expatriates, Abdulwahid Abu Ras on Sunday.",
+    "published": "Sun, 28 Dec 2025 11:59:04 GMT",
+    "country": "Iran",
+    "key": "0c68710e7d712a57eb85837400e5615d"
   },
   {
-    "title": "تروریسم دولتی؛ مانعی جدی در تحقق صلح و امنیت جهانی",
-    "link": "https://www.mehrnews.com/news/6704449/%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D9%85%D8%A7%D9%86%D8%B9%DB%8C-%D8%AC%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%AD%D9%82%D9%82-%D8%B5%D9%84%D8%AD-%D9%88-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "مشاور وزیر دادگستری طی یادداشتی مطرح کرد که تروریسم دولتی؛ مانعی جدی در تحقق صلح و امنیت جهانی است.",
-    "published": "Sun, 28 Dec 2025 08:21:05 GMT",
-    "country": "Autres",
-    "key": "5285ad6c9eb8c91b6679949c6f6e8d46"
+    "title": "Israel tightens siege on Qabatiya, moves to demolish homes",
+    "link": "https://en.mehrnews.com/news/240225/Israel-tightens-siege-on-Qabatiya-moves-to-demolish-homes",
+    "summary": "TEHRAN, Dec. 28 (MNA) – The Israeli army has continued its siege of Palestinian town of Qabatiya, south of Jenin in the northern occupied West Bank, escalating collective punishment measures that include home demolitions and sweeping military raids.",
+    "published": "Sun, 28 Dec 2025 11:09:50 GMT",
+    "country": "Iran",
+    "key": "873c70ebecad3f948597952562d576a4"
   },
   {
-    "title": "ابلاغ طرح زیست‌بوم‌های ۱۵ گانه دیجیتال از سوی رئیس‌جمهور",
-    "link": "https://www.mehrnews.com/news/6704316/%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%B7%D8%B1%D8%AD-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%A8%D9%88%D9%85-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B5-%DA%AF%D8%A7%D9%86%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1",
-    "summary": "رئیس سازمان فناوری اطلاعات ایران نقش استان‌ها و بخش خصوصی را در اجرای زیست‌بوم‌های ۱۵ گانه دولت دیجیتال تعیین‌کننده دانست و بر حاکم شدن نگاه زیست‌بومی در سیاست‌گذاری کلان کشور تأکید کرد.",
-    "published": "Sun, 28 Dec 2025 08:20:37 GMT",
-    "country": "Autres",
-    "key": "eb8988ffc37ebdaa02b682a198be52c0"
+    "title": "Hassan Rabbat public bathhouse",
+    "link": "https://en.mehrnews.com/photo/240226/Hassan-Rabbat-public-bathhouse",
+    "summary": "TEHRAN, Dec. 28 (MNA) – The photos show Hassan Rabbat public bathhouse in Isfahan which dates back to the Safavid era.",
+    "published": "Sun, 28 Dec 2025 11:09:03 GMT",
+    "country": "Iran",
+    "key": "ba30db5a68976556f7fb7c29644d318f"
   },
   {
-    "title": "یک کافه هنجارشکن در گرگان پلمب شد",
-    "link": "https://www.mehrnews.com/news/6704459/%DB%8C%DA%A9-%DA%A9%D8%A7%D9%81%D9%87-%D9%87%D9%86%D8%AC%D8%A7%D8%B1%D8%B4%DA%A9%D9%86-%D8%AF%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%BE%D9%84%D9%85%D8%A8-%D8%B4%D8%AF",
-    "summary": "گرگان- دادستان مرکز گلستان گفت: یک کافه در گرگان به دلیل ارائه مشروبات الکلی پلمب شد.",
-    "published": "Sun, 28 Dec 2025 08:20:20 GMT",
-    "country": "Autres",
-    "key": "facc9eb7a1b205a8771ede9a3535eb6e"
+    "title": "Staffer reacts to hacking of Netanyahu office chief's phone",
+    "link": "https://en.mehrnews.com/news/240223/Staffer-reacts-to-hacking-of-Netanyahu-office-chief-s-phone",
+    "summary": "TEHRAN, Dec. 28 (MNA) – A source in the Israeli Prime Minister's Office reacted to news published by the Handalah hacking group that the phone of Netanyahu's chief of staff was hacked.",
+    "published": "Sun, 28 Dec 2025 10:27:15 GMT",
+    "country": "Iran",
+    "key": "a5d079388fb870bb25e7eafc88907d01"
   },
   {
-    "title": "۴۸ داوطلب شاهد و ایثارگر بدون سهمیه جزو برترین‌های کنکور ۱۴۰۴ شدند",
-    "link": "https://www.mehrnews.com/news/6704461/%DB%B4%DB%B8-%D8%AF%D8%A7%D9%88%D8%B7%D9%84%D8%A8-%D8%B4%D8%A7%D9%87%D8%AF-%D9%88-%D8%A7%DB%8C%D8%AB%D8%A7%D8%B1%DA%AF%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%AC%D8%B2%D9%88-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%DA%A9%D9%86%DA%A9%D9%88%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B4",
-    "summary": "مدیر کل امور دانشجویان شاهد و ایثارگر سازمان امور دانشجویان گفت: امروز از رتبه‌های برتر کشوری آزمون سراسری و تحصیلات تکمیلی ۱۴۰۴ ویژه دانشجویان شاهد و ایثارگر تجلیل می‌شود.",
-    "published": "Sun, 28 Dec 2025 08:20:06 GMT",
+    "title": "HTS-led regime denounces Israeli recognition of Somaliland",
+    "link": "https://en.mehrnews.com/news/240222/HTS-led-regime-denounces-Israeli-recognition-of-Somaliland",
+    "summary": "TEHRAN, Dec. 28 (MNA) – The Foreign Ministry of Abu Mohammad Al-Jolani regime in Syria strongly condemned the Israeli recognition of Somaliland.",
+    "published": "Sun, 28 Dec 2025 09:46:25 GMT",
+    "country": "Iran",
+    "key": "34f303891d3355803dbd7c44f62e404c"
+  },
+  {
+    "title": "Iran’s petchem production capacity to hit 131.5m tons: NPC",
+    "link": "https://en.mehrnews.com/news/240220/Iran-s-petchem-production-capacity-to-hit-131-5m-tons-NPC",
+    "summary": "TEHRAN, Dec. 28 (MNA) – The chief executive of the National Petrochemical Company (NPC) says production capacity of petrochemical products will reach 131.5 million tons by the end of the country’s 7th Five-Year Socioeconomic and Cultural Development.",
+    "published": "Sun, 28 Dec 2025 09:20:29 GMT",
+    "country": "Iran",
+    "key": "2a2561e6ccb1aec02f770e634f7235a6"
+  },
+  {
+    "title": "رئیس سازمان فضایی ایران: مطالبه‌گری عمومی درباره صنعت فضایی ضروری است",
+    "link": "https://www.mehrnews.com/news/6704936/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%87-%DA%AF%D8%B1%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C",
+    "summary": "رئیس سازمان فضایی ایران گفت: باید درباره صنعت فضایی کشور، یک مطلبه‌گری جدی بین مردم به وجود بیاید.",
+    "published": "Sun, 28 Dec 2025 16:26:31 GMT",
     "country": "Autres",
-    "key": "2d6a985334a462c3ecce1faa04f613f5"
+    "key": "9e1f84188b78dd8d405eee2ab640e69c"
+  },
+  {
+    "title": "رعایت سند تحول قضایی از دستورکارهای مهم دادگستری آذربایجان شرقی است",
+    "link": "https://www.mehrnews.com/news/6705126/%D8%B1%D8%B9%D8%A7%DB%8C%D8%AA-%D8%B3%D9%86%D8%AF-%D8%AA%D8%AD%D9%88%D9%84-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D9%85-%D8%AF%D8%A7%D8%AF%DA%AF%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C",
+    "summary": "تبریز- معاون قضایی و منابع انسانی دادگستری کل آذربایجان شرقی عمل و رعایت سند تحول قضایی را یکی از دستورکارهای مهم دادگستری استان عنوان کرد.",
+    "published": "Sun, 28 Dec 2025 16:21:20 GMT",
+    "country": "Autres",
+    "key": "73637e87995fec36602d085801fd768a"
+  },
+  {
+    "title": "آغاز بلیت‌فروشی دیدار تراکتور - ملوان",
+    "link": "https://www.mehrnews.com/news/6705130/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A8%D9%84%DB%8C%D8%AA-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D9%85%D9%84%D9%88%D8%A7%D9%86",
+    "summary": "تبریز-بلیت‌فروشی دیدار تیم‌های فوتبال تراکتور و ملوان بندرانزلی امروز یکشنبه ۷ دی ماه به‌صورت اینترنتی برای زنان و مردان آغاز شد.",
+    "published": "Sun, 28 Dec 2025 16:19:54 GMT",
+    "country": "Autres",
+    "key": "ea71c7376871d2343c3b69605595c41c"
+  },
+  {
+    "title": "فعالیت آموزشی مدارس ابتدایی و متوسطه اول در خلخال غیرحضوری شد",
+    "link": "https://www.mehrnews.com/news/6705138/%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C-%D9%88-%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D9%87-%D8%A7%D9%88%D9%84-%D8%AF%D8%B1-%D8%AE%D9%84%D8%AE%D8%A7%D9%84-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF",
+    "summary": "خلخال- اداره آموزش و پرورش شهرستان خلخال در اطلاعیه‌ای از فعالیت های آموزشی مدارس ابتدایی و متوسطه اول شهری و روستایی در نوبت صبح بصورت غیر حضوری خبر داد.",
+    "published": "Sun, 28 Dec 2025 16:19:02 GMT",
+    "country": "Autres",
+    "key": "099018134305e5e8b087cf08bfb47be7"
+  },
+  {
+    "title": "کریم‌پور: فاز آزمایشی سرشماری ثبتی‌مبنا در میاندورود آغاز می‌شود",
+    "link": "https://www.mehrnews.com/news/6705136/%DA%A9%D8%B1%DB%8C%D9%85-%D9%BE%D9%88%D8%B1-%D9%81%D8%A7%D8%B2-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DB%8C-%D8%B3%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%DB%8C-%D8%AB%D8%A8%D8%AA%DB%8C-%D9%85%D8%A8%D9%86%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%88%D8%AF-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "میاندورود- رئیس سازمان مدیریت و برنامه‌ریزی مازندران از آغاز فاز آزمایشی سرشماری ثبتی‌مبنا در میاندرود خبر داد و گفت: این شهرستان به‌عنوان پایلوت انتخاب شده است.",
+    "published": "Sun, 28 Dec 2025 16:17:58 GMT",
+    "country": "Autres",
+    "key": "bff4e1672d474f3416b7e275ceec63a4"
+  },
+  {
+    "title": "مدارس ایذه و مسجدسلیمان به دلیل بارش شدید باران غیرحضوری شدند",
+    "link": "https://www.mehrnews.com/news/6705140/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%DB%8C%D8%B0%D9%87-%D9%88-%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D9%84%DB%8C%D9%84-%D8%A8%D8%A7%D8%B1%D8%B4-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+    "summary": "اهواز – فرمانداران ایذه و مسجدسلیمان اعلام کردند: به‌دلیل بارش شدید باران و وقوع سیلاب، تمامی مدارس این دو شهرستان روز دوشنبه هشتم دی تعطیل خواهند بود.",
+    "published": "Sun, 28 Dec 2025 16:13:24 GMT",
+    "country": "Autres",
+    "key": "c27182e144c531450d9eb2aea620ca7f"
   }
 ]
